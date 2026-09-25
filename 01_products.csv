@@ -1,0 +1,1001 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,MRP,SellingPrice,DiscountPercent,Unit,InStock,StockQuantity,ExpiryDate,Rating,ReviewCount,IsVeg,AddedDate
+PROD00001,Brooke Bond Tea 1pc,Beverages,Tea,Brooke Bond,554.17,480.45,13.3,2kg,In Stock,64,,4.4,900,1,26-11-2025
+PROD00002,Purepet Pet Food 1kg,Pet Care,Pet Food,Purepet,256.88,214.71,16.42,200g,In Stock,1,,4.3,89,1,12-10-2024
+PROD00003,Gerber Fresh Baby Wipes 5pcs,Baby Care,Baby Wipes,Gerber,130.41,109.41,16.1,250g,In Stock,298,,3.8,482,1,06-08-2024
+PROD00004,India Gate Organic Spices 200ml,Atta & Grains,Spices,India Gate,38.08,31.51,17.26,10pcs,Low Stock,240,,3.8,1456,0,13-02-2026
+PROD00005,Dhara Cooking Oil 10pcs,Oil & Masalas,Cooking Oil,Dhara,531.33,465.03,12.48,100g,In Stock,49,,3.2,260,1,16-02-2025
+PROD00006,Harvest Gold Fresh Pastries 5pcs,Bakery & Bread,Pastries,Harvest Gold,201.29,164.15,18.45,5pcs,In Stock,73,05-09-2026,3.2,1666,0,07-01-2025
+PROD00007,Amul Cream 200g,Dairy & Eggs,Cream,Amul,51.73,45.61,11.83,500g,In Stock,422,16-08-2026,4.3,1494,1,10-02-2026
+PROD00008,Dhara Organic Pickles 10pcs,Oil & Masalas,Pickles,Dhara,33.35,27.36,17.96,500g,Low Stock,393,,3.6,646,1,05-10-2024
+PROD00009,Haldiram Premium Dry Fruits 250g,Snacks & Munchies,Dry Fruits,Haldiram,537.96,459.76,14.54,12pcs,In Stock,49,,4.1,1203,1,25-12-2025
+PROD00010,Parle Organic Namkeen 250ml,Snacks & Munchies,Namkeen,Parle,177.23,164.18,7.36,100ml,In Stock,361,,3.1,1366,0,13-02-2026
+PROD00011,Fortune Fresh Ghee 200g,Oil & Masalas,Ghee,Fortune,438.52,374.96,14.49,200g,In Stock,388,,4.5,1267,1,10-06-2026
+PROD00012,Harvest Gold Cakes 2kg,Bakery & Bread,Cakes,Harvest Gold,376.5,327.33,13.06,200g,In Stock,11,02-11-2026,5,1297,0,23-09-2024
+PROD00013,Parle Premium Namkeen 200ml,Snacks & Munchies,Namkeen,Parle,392.63,340.29,13.33,5kg,In Stock,194,,4.2,1277,1,19-10-2025
+PROD00014,Huggies Baby Oil 500ml,Baby Care,Baby Oil,Huggies,379.95,335.18,11.78,200ml,In Stock,361,,4.5,1987,0,10-06-2025
+PROD00015,Windsor Premium Rusk 100ml,Bakery & Bread,Rusk,Windsor,210.8,195.53,7.25,250ml,In Stock,457,26-07-2026,3.5,1206,1,10-08-2024
+PROD00016,Patanjali Fresh Shampoo 1L,Personal Care,Shampoo,Patanjali,194.49,168.86,13.18,1L,In Stock,461,,4.7,1520,1,28-09-2024
+PROD00017,India Gate Premium Pulses 200ml,Atta & Grains,Pulses,India Gate,485.75,430.8,11.31,500g,In Stock,217,,3.7,1098,1,03-01-2025
+PROD00018,Real Coffee 500ml,Beverages,Coffee,Real,428.27,351.77,17.86,250ml,In Stock,443,,4.4,1195,1,14-01-2025
+PROD00019,Coca Cola Organic Health Drinks 100ml,Beverages,Health Drinks,Coca Cola,87.89,73.4,16.48,12pcs,In Stock,121,,4.6,306,1,14-08-2025
+PROD00020,Pepsi Organic Juices 250g,Beverages,Juices,Pepsi,77.1,67.39,12.59,10pcs,In Stock,381,,3.5,1787,1,28-10-2025
+PROD00021,Bikaji Organic Dry Fruits 200ml,Snacks & Munchies,Dry Fruits,Bikaji,555.88,485.07,12.74,2kg,In Stock,57,,4.3,518,1,07-08-2024
+PROD00022,MTR Fresh Rice 250ml,Atta & Grains,Rice,MTR,345.69,324.44,6.15,6pcs,In Stock,97,,4.4,1966,1,26-09-2025
+PROD00023,Milky Mist Organic Butter 500ml,Dairy & Eggs,Butter,Milky Mist,46.14,38.51,16.54,6pcs,Out of Stock,0,27-08-2026,3.8,237,0,25-01-2026
+PROD00024,Gerber Baby Wipes 12pcs,Baby Care,Baby Wipes,Gerber,37.85,30.44,19.6,200g,In Stock,278,,4.4,833,1,04-12-2025
+PROD00025,Purepet Pet Accessories 250g,Pet Care,Pet Accessories,Purepet,410.67,355.87,13.34,250ml,In Stock,141,,3.5,65,1,13-01-2026
+PROD00026,Fortune Fresh Rice 12pcs,Atta & Grains,Rice,Fortune,465.85,394.96,15.22,500g,In Stock,455,,4.6,115,1,14-09-2025
+PROD00027,English Oven Cakes 200g,Bakery & Bread,Cakes,English Oven,216.09,176.97,18.1,100g,In Stock,348,09-10-2026,3.1,1388,0,05-01-2025
+PROD00028,Catch Organic Cooking Oil 100g,Oil & Masalas,Cooking Oil,Catch,155.14,140.22,9.62,5kg,In Stock,365,,3.5,594,0,01-07-2025
+PROD00029,Windsor Premium Buns 6pcs,Bakery & Bread,Buns,Windsor,164.02,144.45,11.93,6pcs,In Stock,129,11-11-2026,3.5,630,1,19-02-2025
+PROD00030,Pedigree Organic Pet Accessories 100g,Pet Care,Pet Accessories,Pedigree,82.38,75.11,8.83,10pcs,In Stock,261,,4,1476,1,07-04-2026
+PROD00031,Amul Fresh Cream 250ml,Dairy & Eggs,Cream,Amul,571.9,477.26,16.55,500ml,In Stock,264,04-01-2027,3.4,416,1,23-07-2024
+PROD00032,Drools Organic Pet Food 500g,Pet Care,Pet Food,Drools,556.45,471.57,15.25,250ml,In Stock,417,,4.2,196,1,27-02-2026
+PROD00033,MTR Premium Pulses 1kg,Atta & Grains,Pulses,MTR,219.63,203.72,7.25,500ml,In Stock,117,,4.4,1333,1,04-04-2026
+PROD00034,Fortune Fresh Millets 1L,Atta & Grains,Millets,Fortune,454.48,419.13,7.78,200g,In Stock,268,,4.3,1427,1,19-11-2024
+PROD00035,Lays Premium Namkeen 2L,Snacks & Munchies,Namkeen,Lays,68.58,56.45,17.69,10pcs,In Stock,15,,4.8,1897,0,11-01-2026
+PROD00036,Red Bull Organic Juices 5pcs,Beverages,Juices,Red Bull,393.91,371.77,5.62,1kg,In Stock,80,,3.6,1288,1,11-06-2025
+PROD00037,Bikaji Premium Namkeen 250ml,Snacks & Munchies,Namkeen,Bikaji,498.66,451.35,9.49,5kg,In Stock,217,,4.4,1822,1,08-04-2025
+PROD00038,Eastern Fresh Sauces 500ml,Oil & Masalas,Sauces,Eastern,327.65,301.6,7.95,250ml,In Stock,125,,4.4,1933,0,18-02-2025
+PROD00039,Haldiram Premium Dry Fruits 5pcs,Snacks & Munchies,Dry Fruits,Haldiram,512.52,446.97,12.79,500ml,In Stock,4,,4.2,1064,1,15-11-2024
+PROD00040,Rin Premium Air Fresheners 10pcs,Household,Air Fresheners,Rin,168.2,157.76,6.21,2kg,In Stock,68,,3.6,1044,0,01-01-2025
+PROD00041,Dodla Premium Paneer 250g,Dairy & Eggs,Paneer,Dodla,289.1,246.95,14.58,250g,Out of Stock,0,15-12-2026,3.7,1939,0,05-04-2025
+PROD00042,Rin Premium Air Fresheners 5kg,Household,Air Fresheners,Rin,112.38,93.74,16.58,200ml,Low Stock,211,,4.4,44,1,05-10-2024
+PROD00043,Real Soft Drinks 250ml,Beverages,Soft Drinks,Real,417.24,363.75,12.82,500g,In Stock,498,,3.5,485,0,28-09-2024
+PROD00044,Brooke Bond Energy Drinks 100g,Beverages,Energy Drinks,Brooke Bond,391.98,353.19,9.9,6pcs,In Stock,361,,3,1804,0,09-05-2025
+PROD00045,Nestle Organic Chips 500ml,Snacks & Munchies,Chips,Nestle,145.2,136.36,6.09,100g,In Stock,114,,4.3,1697,1,01-10-2024
+PROD00046,Tropicana Juices 2kg,Beverages,Juices,Tropicana,265.8,214.33,19.36,250ml,In Stock,483,,4.4,991,1,22-04-2025
+PROD00047,Daawat Fresh Spices 2L,Atta & Grains,Spices,Daawat,521.68,463.49,11.16,100ml,In Stock,58,,3.3,1542,1,07-05-2026
+PROD00048,All Out Premium Air Fresheners 100ml,Household,Air Fresheners,All Out,463.56,402.64,13.14,2L,In Stock,421,,3.1,880,1,11-04-2025
+PROD00049,Lux Toothpaste 5kg,Personal Care,Toothpaste,Lux,16.68,15.12,9.34,500g,In Stock,226,,4.4,1564,1,29-10-2025
+PROD00050,Brooke Bond Fresh Health Drinks 12pcs,Beverages,Health Drinks,Brooke Bond,38.84,31.95,17.75,2L,In Stock,203,,4,1110,1,08-02-2025
+PROD00051,Country Delight Organic Fresh Fruits 1pc,Fruits & Vegetables,Fresh Fruits,Country Delight,198.38,165.94,16.35,200g,In Stock,100,23-12-2026,3.1,1703,0,20-08-2024
+PROD00052,Fresho Exotic Fruits 5kg,Fruits & Vegetables,Exotic Fruits,Fresho,247.49,199.11,19.55,10pcs,In Stock,84,08-12-2026,3,863,0,09-07-2025
+PROD00053,Pears Fresh Skincare 1L,Personal Care,Skincare,Pears,241.16,201.18,16.58,250g,In Stock,4,,4.9,855,1,07-09-2025
+PROD00054,All Out Fresh Air Fresheners 10pcs,Household,Air Fresheners,All Out,50.39,46.64,7.43,1L,In Stock,330,,4.2,1979,1,22-10-2024
+PROD00055,Haldiram Organic Chips 5kg,Snacks & Munchies,Chips,Haldiram,548.9,474.46,13.56,10pcs,Out of Stock,0,,4.7,1475,1,04-07-2026
+PROD00056,Gerber Premium Baby Food 10pcs,Baby Care,Baby Food,Gerber,519.53,415.97,19.93,250ml,In Stock,265,,4,1349,0,08-05-2025
+PROD00057,Saffola Ghee 1L,Oil & Masalas,Ghee,Saffola,28.66,25.95,9.48,1L,Out of Stock,0,,4.5,1499,1,17-09-2024
+PROD00058,Coca Cola Fresh Soft Drinks 500g,Beverages,Soft Drinks,Coca Cola,60.18,55.97,6.99,2kg,In Stock,56,,3.9,505,1,19-09-2025
+PROD00059,Harpic Fresh Cleaning Supplies 6pcs,Household,Cleaning Supplies,Harpic,385.75,357.32,7.37,6pcs,In Stock,328,,4.5,101,1,02-03-2025
+PROD00060,Colin Fresh Detergent 1pc,Household,Detergent,Colin,138.29,130.61,5.56,1L,In Stock,403,,3.9,1393,0,23-04-2026
+PROD00061,Eastern Sauces 1pc,Oil & Masalas,Sauces,Eastern,13.32,11.36,14.71,200ml,In Stock,395,,4.1,1414,0,18-11-2025
+PROD00062,Catch Fresh Cooking Oil 250g,Oil & Masalas,Cooking Oil,Catch,556,494.74,11.02,100ml,In Stock,246,,3,1867,1,10-11-2025
+PROD00063,Surf Excel Premium Detergent 2kg,Household,Detergent,Surf Excel,138.28,113.45,17.96,250ml,In Stock,450,,3.6,1173,1,05-06-2026
+PROD00064,Britannia Premium Cakes 200ml,Bakery & Bread,Cakes,Britannia,226.02,195.22,13.63,500ml,In Stock,235,03-01-2027,4.4,1464,1,24-04-2025
+PROD00065,Pedigree Premium Pet Accessories 250g,Pet Care,Pet Accessories,Pedigree,566.23,453.44,19.92,2L,Low Stock,59,,3.8,1449,1,09-10-2025
+PROD00066,Dhara Fresh Pickles 2kg,Oil & Masalas,Pickles,Dhara,261.93,235.97,9.91,250g,In Stock,295,,3.3,1160,1,14-12-2024
+PROD00067,Sunsilk Fresh Shampoo 200g,Personal Care,Shampoo,Sunsilk,29.43,23.58,19.9,5pcs,Low Stock,145,,3.1,141,1,16-01-2026
+PROD00068,Aashirvaad Wheat Flour 200ml,Atta & Grains,Wheat Flour,Aashirvaad,520.55,480.98,7.6,500ml,In Stock,334,,4.6,187,0,10-09-2024
+PROD00069,Pedigree Organic Pet Food 200ml,Pet Care,Pet Food,Pedigree,106.6,99.28,6.87,10pcs,Out of Stock,0,,3.8,792,1,22-08-2024
+PROD00070,Surf Excel Cleaning Supplies 500g,Household,Cleaning Supplies,Surf Excel,530.24,465.51,12.21,100g,In Stock,383,,3.6,791,1,13-12-2025
+PROD00071,Heritage Fresh Curd/Yogurt 5pcs,Dairy & Eggs,Curd/Yogurt,Heritage,428.52,377.9,11.81,10pcs,In Stock,29,02-09-2026,4.6,1530,1,10-03-2026
+PROD00072,Parle Organic Dry Fruits 10pcs,Snacks & Munchies,Dry Fruits,Parle,101.6,95.42,6.08,200ml,Out of Stock,0,,4.3,567,0,27-02-2025
+PROD00073,Lux Skincare 200g,Personal Care,Skincare,Lux,462.67,414.08,10.5,1pc,In Stock,170,,4.4,1599,0,17-09-2024
+PROD00074,Haldiram Organic Namkeen 250g,Snacks & Munchies,Namkeen,Haldiram,289.79,236.15,18.51,1kg,In Stock,88,,3.2,582,1,13-05-2026
+PROD00075,Drools Fresh Pet Accessories 100g,Pet Care,Pet Accessories,Drools,479.52,443.81,7.45,500g,In Stock,487,,4.2,709,1,14-01-2025
+PROD00076,Local Farms Organic Vegetables 100g,Fruits & Vegetables,Organic Vegetables,Local Farms,150.53,138.98,7.67,2L,In Stock,222,04-01-2027,4.2,1440,0,04-10-2024
+PROD00077,Huggies Baby Food 1pc,Baby Care,Baby Food,Huggies,181.89,167.04,8.16,100g,In Stock,20,,3.8,1804,1,09-05-2025
+PROD00078,Britannia Organic Cakes 5kg,Bakery & Bread,Cakes,Britannia,218.25,198.6,9,10pcs,In Stock,108,11-09-2026,4.8,1106,1,05-07-2025
+PROD00079,Real Organic Health Drinks 500g,Beverages,Health Drinks,Real,232.99,207.77,10.82,100g,In Stock,325,,3.6,1555,0,23-11-2025
+PROD00080,Fortune Premium Millets 100ml,Atta & Grains,Millets,Fortune,226.07,212.36,6.06,100ml,In Stock,136,,3.5,152,1,26-04-2026
+PROD00081,Windsor Fresh Rusk 12pcs,Bakery & Bread,Rusk,Windsor,399.3,330.26,17.29,250g,In Stock,364,28-09-2026,4.7,965,1,21-11-2024
+PROD00082,Aashirvaad Fresh Millets 12pcs,Atta & Grains,Millets,Aashirvaad,202.54,180.58,10.84,12pcs,In Stock,253,,4.4,508,1,01-05-2025
+PROD00083,Nestle Premium Chocolates 5kg,Snacks & Munchies,Chocolates,Nestle,544.22,440.75,19.01,5kg,In Stock,210,,3.9,1065,0,19-04-2025
+PROD00084,Nestle Chips 200ml,Snacks & Munchies,Chips,Nestle,321.45,299.2,6.92,500ml,In Stock,484,,3.6,211,0,27-12-2024
+PROD00085,Rin Organic Cleaning Supplies 1pc,Household,Cleaning Supplies,Rin,64.51,51.78,19.74,100g,In Stock,122,,3.5,513,1,20-12-2025
+PROD00086,Country Delight Premium Fresh Vegetables 12pcs,Fruits & Vegetables,Fresh Vegetables,Country Delight,270.34,242.38,10.34,250g,In Stock,165,09-09-2026,4.5,1546,0,14-01-2026
+PROD00087,Milky Mist Premium Butter 2kg,Dairy & Eggs,Butter,Milky Mist,314.53,299.32,4.84,200ml,Low Stock,387,29-11-2026,3.7,1620,0,03-12-2025
+PROD00088,Pedigree Premium Pet Food 5pcs,Pet Care,Pet Food,Pedigree,60.84,51.64,15.12,500ml,Low Stock,463,,3.6,862,1,11-09-2024
+PROD00089,Patanjali Premium Skincare 500g,Personal Care,Skincare,Patanjali,58.32,50.87,12.78,12pcs,In Stock,188,,3.7,363,1,03-11-2025
+PROD00090,Colgate Premium Toothpaste 1pc,Personal Care,Toothpaste,Colgate,359.25,329.68,8.23,250g,In Stock,57,,3.4,1254,1,23-11-2025
+PROD00091,Heritage Organic Milk 1L,Dairy & Eggs,Milk,Heritage,560.99,481.69,14.13,1L,In Stock,287,22-08-2026,4.4,1922,1,05-09-2025
+PROD00092,India Gate Spices 6pcs,Atta & Grains,Spices,India Gate,171.53,154.71,9.81,200ml,In Stock,435,,3.7,1997,1,04-02-2026
+PROD00093,Colgate Fresh Toothpaste 6pcs,Personal Care,Toothpaste,Colgate,155.54,135.06,13.17,2kg,In Stock,209,,4.5,832,1,24-01-2025
+PROD00094,Fresho Premium Fresh Vegetables 5pcs,Fruits & Vegetables,Fresh Vegetables,Fresho,314.68,275.25,12.53,10pcs,In Stock,108,20-08-2026,4.8,1107,1,12-07-2025
+PROD00095,Nandini Cheese 500g,Dairy & Eggs,Cheese,Nandini,91.3,82.2,9.96,1kg,In Stock,265,01-10-2026,4.4,1571,1,12-02-2025
+PROD00096,Nestle Organic Diapers 6pcs,Baby Care,Diapers,Nestle,582.02,470.22,19.21,100g,Low Stock,259,,4.2,1495,1,06-07-2026
+PROD00097,Eastern Organic Cooking Oil 200ml,Oil & Masalas,Cooking Oil,Eastern,85.67,69.52,18.85,250ml,In Stock,248,,4.6,1811,1,27-11-2025
+PROD00098,Johnson & Johnson Fresh Diapers 200ml,Baby Care,Diapers,Johnson & Johnson,445.02,400.86,9.92,5pcs,In Stock,191,,3.4,1717,1,03-01-2026
+PROD00099,Organic India Premium Fresh Fruits 250g,Fruits & Vegetables,Fresh Fruits,Organic India,566.39,489.48,13.58,1kg,In Stock,144,05-11-2026,4.7,1351,1,04-01-2025
+PROD00100,Fresho Organic Fresh Vegetables 250g,Fruits & Vegetables,Fresh Vegetables,Fresho,280.81,226.68,19.28,500g,In Stock,264,29-11-2026,3.5,394,1,26-03-2025
+PROD00101,Aashirvaad Fresh Rice 250g,Atta & Grains,Rice,Aashirvaad,489.32,462.19,5.55,5pcs,In Stock,313,,4.9,850,1,03-05-2026
+PROD00102,Surf Excel Mosquito Repellent 2kg,Household,Mosquito Repellent,Surf Excel,319.8,268.66,15.99,12pcs,In Stock,271,,4.8,888,0,06-03-2026
+PROD00103,Fortune Fresh Rice 100g,Atta & Grains,Rice,Fortune,127.21,118.66,6.72,12pcs,In Stock,269,,4.6,1453,1,12-03-2026
+PROD00104,Rin Organic Air Fresheners 100ml,Household,Air Fresheners,Rin,49.63,41.84,15.69,1kg,In Stock,474,,3.6,179,1,30-08-2024
+PROD00105,Red Bull Organic Juices 1pc,Beverages,Juices,Red Bull,100.74,93.9,6.79,100g,In Stock,56,,3.8,1440,0,11-01-2025
+PROD00106,Everest Organic Ghee 10pcs,Oil & Masalas,Ghee,Everest,23.2,18.71,19.33,250ml,In Stock,280,,3.2,1913,1,17-04-2026
+PROD00107,Lux Skincare 10pcs,Personal Care,Skincare,Lux,487.69,456.68,6.36,6pcs,In Stock,87,,4.7,1536,1,11-08-2024
+PROD00108,Heritage Milk 1L,Dairy & Eggs,Milk,Heritage,571.13,464.44,18.68,5kg,In Stock,27,23-12-2026,3,853,1,20-03-2025
+PROD00109,Red Bull Fresh Coffee 2L,Beverages,Coffee,Red Bull,234.42,204.51,12.76,250g,In Stock,35,,3.9,1892,0,25-05-2025
+PROD00110,Organic India Organic Exotic Fruits 10pcs,Fruits & Vegetables,Exotic Fruits,Organic India,441.48,400.61,9.26,2kg,In Stock,53,09-09-2026,3.1,802,0,07-09-2024
+PROD00111,24 Mantra Millets 100g,Atta & Grains,Millets,24 Mantra,73.82,69.46,5.91,500g,In Stock,273,,4,973,0,28-12-2024
+PROD00112,Nandini Fresh Cream 6pcs,Dairy & Eggs,Cream,Nandini,457.47,428.39,6.36,10pcs,In Stock,327,13-01-2027,4.2,825,0,01-10-2025
+PROD00113,Huggies Organic Diapers 12pcs,Baby Care,Diapers,Huggies,156.89,139.37,11.17,6pcs,In Stock,133,,4.4,1363,0,29-05-2026
+PROD00114,MTR Premium Rice 6pcs,Atta & Grains,Rice,MTR,465.83,420.51,9.73,500g,In Stock,23,,4,1344,1,26-01-2026
+PROD00115,Dodla Premium Curd/Yogurt 10pcs,Dairy & Eggs,Curd/Yogurt,Dodla,212.52,190.25,10.48,500ml,In Stock,313,19-09-2026,3.9,1840,1,30-12-2024
+PROD00116,Lux Soap 100g,Personal Care,Soap,Lux,283.41,228.19,19.48,2L,In Stock,377,,4.3,1799,0,09-12-2025
+PROD00117,Haldiram Premium Candies 200ml,Snacks & Munchies,Candies,Haldiram,73.44,66.3,9.71,1kg,Low Stock,82,,5,1886,1,09-08-2025
+PROD00118,Dodla Organic Butter 100g,Dairy & Eggs,Butter,Dodla,574.39,487.15,15.19,2kg,In Stock,403,04-10-2026,4.5,1173,1,05-06-2026
+PROD00119,Dove Fresh Soap 250ml,Personal Care,Soap,Dove,450.07,424.25,5.74,250g,In Stock,391,,4.4,990,0,28-06-2026
+PROD00120,Local Farms Fresh Vegetables 5kg,Fruits & Vegetables,Fresh Vegetables,Local Farms,102.35,94.79,7.39,500g,In Stock,366,21-11-2026,4.8,229,1,09-07-2025
+PROD00121,Brooke Bond Premium Soft Drinks 250ml,Beverages,Soft Drinks,Brooke Bond,98.9,87.81,11.21,5kg,In Stock,350,,3.2,594,1,05-11-2024
+PROD00122,Purepet Premium Pet Food 100ml,Pet Care,Pet Food,Purepet,204.93,168.64,17.71,12pcs,In Stock,485,,3.5,1683,1,08-02-2025
+PROD00123,Heritage Fresh Curd/Yogurt 100g,Dairy & Eggs,Curd/Yogurt,Heritage,363.61,312.18,14.14,5kg,In Stock,34,16-08-2026,3.2,1469,0,25-01-2025
+PROD00124,Drools Pet Accessories 200ml,Pet Care,Pet Accessories,Drools,116.17,103.89,10.57,1kg,In Stock,499,,3.1,357,1,16-02-2026
+PROD00125,Lays Organic Dry Fruits 200g,Snacks & Munchies,Dry Fruits,Lays,187.19,151.54,19.04,500g,In Stock,288,,3.5,1558,1,27-09-2025
+PROD00126,Colin Fresh Cleaning Supplies 200ml,Household,Cleaning Supplies,Colin,372.63,301.32,19.14,200ml,In Stock,401,,3.4,725,1,09-09-2025
+PROD00127,Nestle Organic Chips 10pcs,Snacks & Munchies,Chips,Nestle,565.69,499.37,11.72,5kg,In Stock,17,,3,1679,1,07-02-2025
+PROD00128,English Oven Fresh Cakes 500g,Bakery & Bread,Cakes,English Oven,397.93,323.9,18.6,2kg,In Stock,346,12-12-2026,4.6,1327,1,15-10-2025
+PROD00129,Pedigree Fresh Pet Food 250ml,Pet Care,Pet Food,Pedigree,313.1,269.82,13.82,100ml,In Stock,431,,4.7,1153,1,15-06-2025
+PROD00130,Harpic Premium Air Fresheners 100ml,Household,Air Fresheners,Harpic,504.91,480.61,4.81,250g,In Stock,332,,3.2,553,1,15-06-2026
+PROD00131,Dove Premium Toothpaste 5kg,Personal Care,Toothpaste,Dove,595.06,491.44,17.41,250g,In Stock,479,,4.5,17,1,14-10-2025
+PROD00132,Milky Mist Premium Milk 5pcs,Dairy & Eggs,Milk,Milky Mist,221.64,209.99,5.26,1L,In Stock,218,05-10-2026,3.8,95,1,25-04-2025
+PROD00133,Bonnie Fresh Cookies 1pc,Bakery & Bread,Cookies,Bonnie,217.1,185.81,14.41,1kg,In Stock,429,31-08-2026,3.1,1512,0,02-11-2024
+PROD00134,Colin Organic Detergent 1pc,Household,Detergent,Colin,352.17,322,8.57,200ml,In Stock,371,,4.3,1636,1,17-08-2025
+PROD00135,Bikaji Premium Dry Fruits 200g,Snacks & Munchies,Dry Fruits,Bikaji,15.42,13.72,11.03,250g,In Stock,151,,3.8,578,1,05-08-2025
+PROD00136,All Out Premium Mosquito Repellent 500g,Household,Mosquito Repellent,All Out,530.13,438.5,17.28,12pcs,Out of Stock,0,,3.1,1703,1,26-09-2024
+PROD00137,Pringles Fresh Chocolates 12pcs,Snacks & Munchies,Chocolates,Pringles,538.5,485.47,9.85,200ml,In Stock,337,,4.3,1540,1,25-02-2026
+PROD00138,Nestle Fresh Chocolates 5pcs,Snacks & Munchies,Chocolates,Nestle,136.82,115.69,15.44,10pcs,In Stock,397,,3.2,530,1,23-08-2024
+PROD00139,Colgate Shampoo 1kg,Personal Care,Shampoo,Colgate,315.9,264.57,16.25,1kg,Low Stock,409,,4.7,1996,1,17-05-2026
+PROD00140,Whiskas Organic Pet Food 100g,Pet Care,Pet Food,Whiskas,221.13,205.86,6.91,6pcs,In Stock,323,,3.8,1066,1,11-10-2024
+PROD00141,Local Farms Premium Fresh Vegetables 2L,Fruits & Vegetables,Fresh Vegetables,Local Farms,527.79,432.28,18.1,5kg,In Stock,382,18-08-2026,3.5,863,0,17-11-2025
+PROD00142,MTR Premium Wheat Flour 250ml,Atta & Grains,Wheat Flour,MTR,45.15,38.33,15.11,10pcs,In Stock,315,,3.3,194,0,19-11-2024
+PROD00143,MTR Premium Millets 1kg,Atta & Grains,Millets,MTR,268.26,238.39,11.14,1pc,In Stock,72,,4.5,305,1,25-03-2026
+PROD00144,Coca Cola Premium Juices 6pcs,Beverages,Juices,Coca Cola,31.67,28.47,10.09,2kg,In Stock,26,,3.7,1331,1,28-12-2025
+PROD00145,Ghadi Organic Mosquito Repellent 5kg,Household,Mosquito Repellent,Ghadi,464.43,432.26,6.93,5kg,In Stock,130,,3.1,1276,1,10-06-2025
+PROD00146,Red Bull Fresh Energy Drinks 6pcs,Beverages,Energy Drinks,Red Bull,80.3,75.99,5.37,500ml,In Stock,356,,3.5,1090,1,24-10-2025
+PROD00147,Patanjali Premium Sanitizer 500ml,Personal Care,Sanitizer,Patanjali,44.22,36.53,17.4,1kg,In Stock,344,,3.8,415,1,05-09-2024
+PROD00148,All Out Organic Cleaning Supplies 5pcs,Household,Cleaning Supplies,All Out,388.27,360.55,7.14,200g,Out of Stock,0,,3.9,240,0,12-05-2025
+PROD00149,Fortune Premium Wheat Flour 12pcs,Atta & Grains,Wheat Flour,Fortune,566.38,493.24,12.91,500ml,In Stock,408,,4,1502,1,10-05-2025
+PROD00150,Parle Dry Fruits 200ml,Snacks & Munchies,Dry Fruits,Parle,276.23,259.04,6.22,2L,In Stock,348,,4.4,1791,1,23-10-2025
+PROD00151,Britannia Fresh Cookies 2L,Bakery & Bread,Cookies,Britannia,328.92,277.96,15.49,200g,In Stock,197,18-10-2026,4.1,935,1,01-09-2025
+PROD00152,Fresho Premium Fresh Fruits 1kg,Fruits & Vegetables,Fresh Fruits,Fresho,232.66,193.28,16.93,10pcs,In Stock,31,06-09-2026,3.7,1066,1,20-09-2025
+PROD00153,Good Knight Fresh Mosquito Repellent 200g,Household,Mosquito Repellent,Good Knight,275.98,244.89,11.27,10pcs,In Stock,70,,3.7,1844,1,17-05-2026
+PROD00154,Huggies Premium Baby Oil 5pcs,Baby Care,Baby Oil,Huggies,601.51,482.67,19.76,5pcs,In Stock,179,,3.5,908,1,26-07-2024
+PROD00155,Aashirvaad Fresh Wheat Flour 12pcs,Atta & Grains,Wheat Flour,Aashirvaad,488.32,412.35,15.56,100g,In Stock,399,,4.8,1765,1,28-12-2025
+PROD00156,Fresho Organic Organic Vegetables 1kg,Fruits & Vegetables,Organic Vegetables,Fresho,398.17,354.48,10.97,500g,In Stock,169,06-12-2026,3.6,1247,0,14-10-2024
+PROD00157,Bonnie Cookies 250g,Bakery & Bread,Cookies,Bonnie,475.69,408.68,14.09,1pc,In Stock,368,29-11-2026,4.7,1280,1,05-06-2026
+PROD00158,Organic India Fresh Fresh Fruits 1pc,Fruits & Vegetables,Fresh Fruits,Organic India,291.91,243.4,16.62,1kg,Out of Stock,0,01-11-2026,4.7,715,1,21-02-2026
+PROD00159,Harvest Gold Fresh Buns 1kg,Bakery & Bread,Buns,Harvest Gold,488.27,427.6,12.42,12pcs,In Stock,216,09-09-2026,4.1,962,1,06-03-2026
+PROD00160,Purepet Fresh Pet Food 100ml,Pet Care,Pet Food,Purepet,267.54,224.04,16.26,500g,In Stock,342,,3.1,544,1,27-11-2025
+PROD00161,Eastern Sauces 10pcs,Oil & Masalas,Sauces,Eastern,554.15,457.31,17.47,250g,In Stock,326,,4.4,774,1,08-04-2025
+PROD00162,Pringles Premium Chips 200ml,Snacks & Munchies,Chips,Pringles,382.85,322.51,15.76,200ml,In Stock,306,,4.3,522,1,12-10-2024
+PROD00163,Britannia Bread 2kg,Bakery & Bread,Bread,Britannia,360.96,324.65,10.06,500g,In Stock,287,14-09-2026,4.8,618,1,20-06-2025
+PROD00164,Fortune Fresh Pulses 1L,Atta & Grains,Pulses,Fortune,523.74,490.11,6.42,250ml,In Stock,473,,4.3,558,1,17-11-2024
+PROD00165,Pampers Organic Baby Oil 12pcs,Baby Care,Baby Oil,Pampers,337.02,279.42,17.09,250ml,Low Stock,77,,3.1,1877,1,05-07-2025
+PROD00166,Nandini Premium Eggs 100g,Dairy & Eggs,Eggs,Nandini,45,37.44,16.78,1pc,In Stock,411,20-07-2026,3.6,899,0,29-01-2026
+PROD00167,Tropicana Coffee 5pcs,Beverages,Coffee,Tropicana,586.12,480.77,17.97,10pcs,In Stock,273,,4.1,29,1,29-05-2026
+PROD00168,24 Mantra Spices 6pcs,Atta & Grains,Spices,24 Mantra,31.39,26.67,15.05,6pcs,Low Stock,158,,3.8,1815,1,27-01-2026
+PROD00169,Pringles Fresh Chips 500g,Snacks & Munchies,Chips,Pringles,321.32,279.05,13.15,1kg,In Stock,477,,3.2,217,1,07-02-2025
+PROD00170,Head & Shoulders Fresh Shampoo 100g,Personal Care,Shampoo,Head & Shoulders,83.77,72.49,13.46,500g,Out of Stock,0,,3.1,1448,1,10-08-2025
+PROD00171,Haldiram Premium Candies 500g,Snacks & Munchies,Candies,Haldiram,249.2,233.67,6.23,200g,In Stock,478,,4.1,256,1,01-03-2026
+PROD00172,English Oven Premium Bread 5kg,Bakery & Bread,Bread,English Oven,284.96,269.9,5.28,500g,In Stock,187,23-08-2026,3.1,1501,1,16-08-2025
+PROD00173,Fortune Fresh Cooking Oil 1kg,Oil & Masalas,Cooking Oil,Fortune,427.29,405.23,5.16,10pcs,In Stock,133,,3.1,1456,1,26-06-2026
+PROD00174,Pepsi Premium Coffee 1kg,Beverages,Coffee,Pepsi,267.39,235.45,11.95,100g,In Stock,472,,3.6,1160,1,08-10-2024
+PROD00175,Cadbury Premium Chocolates 5kg,Snacks & Munchies,Chocolates,Cadbury,552.59,466.53,15.57,250g,In Stock,348,,3.8,1155,1,25-05-2026
+PROD00176,Drools Premium Pet Food 5pcs,Pet Care,Pet Food,Drools,340.29,323.7,4.87,200g,In Stock,107,,3.5,846,1,15-11-2025
+PROD00177,Local Farms Fresh Exotic Fruits 1kg,Fruits & Vegetables,Exotic Fruits,Local Farms,303.71,276.29,9.03,200ml,In Stock,101,15-09-2026,3.9,993,1,02-05-2026
+PROD00178,Country Delight Organic Vegetables 200g,Fruits & Vegetables,Organic Vegetables,Country Delight,469.47,391,16.72,12pcs,In Stock,5,21-11-2026,3.9,543,0,16-08-2025
+PROD00179,Whiskas Premium Pet Accessories 5kg,Pet Care,Pet Accessories,Whiskas,43,40.67,5.41,10pcs,In Stock,140,,4,1116,0,03-11-2025
+PROD00180,MDH Pickles 10pcs,Oil & Masalas,Pickles,MDH,48.91,44.39,9.24,200g,In Stock,402,,4.8,1658,1,19-12-2024
+PROD00181,Purepet Organic Pet Accessories 10pcs,Pet Care,Pet Accessories,Purepet,241.64,223.52,7.5,250g,In Stock,21,,3.2,1,1,13-11-2024
+PROD00182,Patanjali Fresh Soap 10pcs,Personal Care,Soap,Patanjali,151.18,139.25,7.89,12pcs,Low Stock,16,,4.4,219,0,04-05-2025
+PROD00183,Pampers Organic Baby Food 10pcs,Baby Care,Baby Food,Pampers,489.14,445.48,8.93,2kg,In Stock,344,,4,455,0,02-03-2026
+PROD00184,Fortune Fresh Pickles 2L,Oil & Masalas,Pickles,Fortune,216.9,204.86,5.55,100g,In Stock,99,,3.2,1535,1,20-11-2024
+PROD00185,Whiskas Premium Pet Accessories 1L,Pet Care,Pet Accessories,Whiskas,421.46,384.27,8.82,2kg,In Stock,315,,4.5,329,1,09-09-2025
+PROD00186,Real Premium Juices 1L,Beverages,Juices,Real,228.73,184.83,19.19,1L,In Stock,193,,3.7,883,1,14-03-2026
+PROD00187,Nandini Premium Curd/Yogurt 5pcs,Dairy & Eggs,Curd/Yogurt,Nandini,463.4,391.54,15.51,6pcs,In Stock,468,30-10-2026,5,1939,1,01-07-2026
+PROD00188,Catch Organic Masalas 12pcs,Oil & Masalas,Masalas,Catch,75.21,69.71,7.32,200g,Out of Stock,0,,3.4,44,1,18-07-2024
+PROD00189,Fortune Fresh Spices 100ml,Atta & Grains,Spices,Fortune,402.43,360.38,10.45,500g,In Stock,355,,4.7,439,0,26-10-2025
+PROD00190,Country Delight Organic Fresh Fruits 1kg,Fruits & Vegetables,Fresh Fruits,Country Delight,129.69,122.31,5.69,250ml,In Stock,483,20-09-2026,4.2,474,0,01-08-2025
+PROD00191,Nestle Premium Namkeen 1pc,Snacks & Munchies,Namkeen,Nestle,167.45,137.95,17.61,200ml,In Stock,383,,3.4,1837,0,02-08-2024
+PROD00192,Mother Dairy Premium Eggs 100g,Dairy & Eggs,Eggs,Mother Dairy,351.04,314.11,10.52,500ml,In Stock,75,10-08-2026,3.7,1056,1,09-07-2026
+PROD00193,Parle Organic Namkeen 6pcs,Snacks & Munchies,Namkeen,Parle,411.28,372.57,9.41,1L,In Stock,288,,3.6,1564,0,25-04-2025
+PROD00194,Mother Dairy Premium Butter 1kg,Dairy & Eggs,Butter,Mother Dairy,244.92,220.77,9.86,250ml,In Stock,450,06-01-2027,3.9,1784,1,24-04-2026
+PROD00195,Pepsi Premium Coffee 500g,Beverages,Coffee,Pepsi,20.05,17.19,14.26,6pcs,Low Stock,435,,3.9,4,0,05-04-2026
+PROD00196,Harvest Gold Premium Pastries 6pcs,Bakery & Bread,Pastries,Harvest Gold,44.03,37.74,14.28,500ml,In Stock,25,17-09-2026,3.9,968,1,19-01-2025
+PROD00197,Organic India Organic Fresh Fruits 5kg,Fruits & Vegetables,Fresh Fruits,Organic India,175.09,153.76,12.18,2L,In Stock,287,31-07-2026,3.2,513,1,21-01-2025
+PROD00198,Milky Mist Organic Cream 5kg,Dairy & Eggs,Cream,Milky Mist,410.67,344.13,16.2,2L,Low Stock,144,06-01-2027,4.2,1829,0,01-10-2025
+PROD00199,India Gate Fresh Pulses 2kg,Atta & Grains,Pulses,India Gate,163.37,151.86,7.04,1L,In Stock,35,,4,1303,1,17-09-2024
+PROD00200,Organic India Premium Fresh Vegetables 200g,Fruits & Vegetables,Fresh Vegetables,Organic India,558.47,473.03,15.3,250ml,In Stock,483,05-08-2026,4.8,643,1,06-02-2026
+PROD00201,24 Mantra Rice 200g,Atta & Grains,Rice,24 Mantra,239.99,207.59,13.5,5kg,In Stock,234,,3.7,489,1,30-07-2025
+PROD00202,Nestle Premium Dry Fruits 1pc,Snacks & Munchies,Dry Fruits,Nestle,473.77,418.99,11.56,200ml,In Stock,430,,3.7,389,1,12-04-2026
+PROD00203,Pepsi Premium Health Drinks 1pc,Beverages,Health Drinks,Pepsi,397.51,374.34,5.83,10pcs,In Stock,151,,3.1,845,1,09-09-2024
+PROD00204,Britannia Premium Cakes 200g,Bakery & Bread,Cakes,Britannia,585.41,499.25,14.72,1pc,In Stock,267,14-12-2026,3.7,1924,1,04-09-2025
+PROD00205,Heritage Organic Paneer 100g,Dairy & Eggs,Paneer,Heritage,251.98,213.21,15.38,10pcs,In Stock,92,15-12-2026,4,440,1,23-10-2024
+PROD00206,Colgate Organic Sanitizer 100g,Personal Care,Sanitizer,Colgate,452.88,415.15,8.33,250g,Low Stock,196,,3.2,1376,1,25-10-2024
+PROD00207,Organic India Premium Organic Vegetables 6pcs,Fruits & Vegetables,Organic Vegetables,Organic India,63.61,52.66,17.21,1kg,In Stock,104,25-11-2026,3.5,1841,1,22-07-2025
+PROD00208,Drools Premium Pet Food 500ml,Pet Care,Pet Food,Drools,206.5,176.58,14.49,250ml,Low Stock,252,,4.9,1340,1,18-09-2025
+PROD00209,Saffola Sauces 6pcs,Oil & Masalas,Sauces,Saffola,434.39,361.09,16.87,200ml,In Stock,245,,4.6,300,1,23-11-2024
+PROD00210,Catch Cooking Oil 250g,Oil & Masalas,Cooking Oil,Catch,47.91,38.76,19.1,250ml,In Stock,132,,4.9,1075,1,08-02-2025
+PROD00211,Country Delight Premium Exotic Fruits 1kg,Fruits & Vegetables,Exotic Fruits,Country Delight,606.8,497.17,18.07,12pcs,In Stock,128,30-10-2026,4.1,1532,0,26-05-2026
+PROD00212,Britannia Fresh Buns 5kg,Bakery & Bread,Buns,Britannia,174.86,146.55,16.19,250g,In Stock,371,14-11-2026,4.6,1673,0,11-06-2025
+PROD00213,Aashirvaad Fresh Millets 6pcs,Atta & Grains,Millets,Aashirvaad,19.54,16.27,16.7,1L,In Stock,306,,4.4,1735,1,29-12-2024
+PROD00214,Organic India Premium Organic Vegetables 250g,Fruits & Vegetables,Organic Vegetables,Organic India,472.02,432.9,8.29,10pcs,In Stock,383,01-11-2026,4.6,369,1,24-02-2026
+PROD00215,Pringles Fresh Candies 12pcs,Snacks & Munchies,Candies,Pringles,54.27,43.89,19.12,1pc,In Stock,456,,4.5,238,1,04-02-2026
+PROD00216,Organic India Fresh Exotic Fruits 2L,Fruits & Vegetables,Exotic Fruits,Organic India,247.35,208.09,15.87,12pcs,In Stock,73,30-11-2026,3.7,1795,1,21-12-2024
+PROD00217,Lux Premium Soap 500ml,Personal Care,Soap,Lux,572.92,489.43,14.57,250ml,In Stock,406,,4.2,919,1,22-01-2026
+PROD00218,Dove Sanitizer 2kg,Personal Care,Sanitizer,Dove,285.25,270.07,5.32,1L,In Stock,309,,4.7,1187,1,17-03-2025
+PROD00219,Patanjali Fresh Sanitizer 5kg,Personal Care,Sanitizer,Patanjali,217.96,204.46,6.19,6pcs,In Stock,310,,4,434,1,23-05-2025
+PROD00220,Harpic Organic Air Fresheners 200ml,Household,Air Fresheners,Harpic,521.46,460.97,11.6,5kg,In Stock,200,,4,703,1,21-12-2025
+PROD00221,24 Mantra Premium Pulses 2L,Atta & Grains,Pulses,24 Mantra,219.47,175.82,19.89,2L,In Stock,193,,3.8,179,1,04-12-2025
+PROD00222,MDH Premium Pickles 100ml,Oil & Masalas,Pickles,MDH,326.91,309.05,5.46,10pcs,In Stock,409,,3.9,1707,1,04-05-2025
+PROD00223,Fresho Exotic Fruits 5pcs,Fruits & Vegetables,Exotic Fruits,Fresho,335.24,301.39,10.1,6pcs,In Stock,467,13-10-2026,4.3,536,1,16-06-2026
+PROD00224,Haldiram Chocolates 2L,Snacks & Munchies,Chocolates,Haldiram,208.15,195.41,6.12,250g,In Stock,98,,3.3,249,1,24-08-2025
+PROD00225,Dodla Fresh Milk 1L,Dairy & Eggs,Milk,Dodla,505.37,411.9,18.49,2kg,In Stock,454,15-10-2026,4.1,264,1,19-10-2024
+PROD00226,Lux Fresh Toothpaste 500ml,Personal Care,Toothpaste,Lux,26,22.4,13.85,1L,In Stock,314,,3.1,133,0,26-01-2025
+PROD00227,Real Health Drinks 100g,Beverages,Health Drinks,Real,462.58,387.14,16.31,100g,In Stock,18,,3.8,1574,1,08-01-2025
+PROD00228,Country Delight Organic Fresh Fruits 2L,Fruits & Vegetables,Fresh Fruits,Country Delight,232.36,192.71,17.06,250ml,Out of Stock,0,01-08-2026,3.1,618,1,06-04-2025
+PROD00229,Brooke Bond Organic Energy Drinks 200ml,Beverages,Energy Drinks,Brooke Bond,232.57,189.33,18.59,10pcs,In Stock,352,,4.7,1688,1,03-08-2024
+PROD00230,Dhara Ghee 500g,Oil & Masalas,Ghee,Dhara,406.03,369.41,9.02,12pcs,In Stock,236,,4.5,1593,0,17-10-2025
+PROD00231,MDH Organic Sauces 1pc,Oil & Masalas,Sauces,MDH,117.34,103.23,12.03,5pcs,In Stock,375,,3.4,747,1,21-09-2025
+PROD00232,Aashirvaad Premium Wheat Flour 6pcs,Atta & Grains,Wheat Flour,Aashirvaad,24.49,23.19,5.29,5pcs,Out of Stock,0,,4.2,895,0,12-01-2025
+PROD00233,Sunsilk Fresh Skincare 500g,Personal Care,Skincare,Sunsilk,439.1,352.68,19.68,12pcs,In Stock,226,,4.7,1780,0,18-10-2025
+PROD00234,Whiskas Fresh Pet Food 200g,Pet Care,Pet Food,Whiskas,43.23,38.57,10.79,5pcs,Out of Stock,0,,4.5,115,1,05-01-2025
+PROD00235,Red Bull Premium Health Drinks 500g,Beverages,Health Drinks,Red Bull,170.48,143.29,15.95,12pcs,In Stock,236,,4.4,283,0,23-07-2024
+PROD00236,Ghadi Premium Air Fresheners 200ml,Household,Air Fresheners,Ghadi,41.65,37.54,9.86,100g,Low Stock,189,,4.8,1070,1,11-09-2024
+PROD00237,Rin Premium Air Fresheners 250ml,Household,Air Fresheners,Rin,108.18,92.16,14.81,100ml,In Stock,111,,4.5,1117,0,18-01-2026
+PROD00238,Coca Cola Fresh Juices 200ml,Beverages,Juices,Coca Cola,111.92,90.49,19.15,250ml,In Stock,288,,3.7,1020,1,20-11-2025
+PROD00239,Local Farms Organic Vegetables 5kg,Fruits & Vegetables,Organic Vegetables,Local Farms,11.22,10.39,7.48,250g,In Stock,51,31-07-2026,4,1305,1,11-01-2025
+PROD00240,Ghadi Organic Detergent 100g,Household,Detergent,Ghadi,427.52,350.05,18.12,2kg,Low Stock,205,,3.4,53,0,08-09-2024
+PROD00241,Country Delight Premium Exotic Fruits 500ml,Fruits & Vegetables,Exotic Fruits,Country Delight,123.27,105.09,14.74,100g,In Stock,29,11-01-2027,3.3,1346,0,11-08-2024
+PROD00242,Heritage Milk 1L,Dairy & Eggs,Milk,Heritage,36.71,33.64,8.35,10pcs,In Stock,443,02-01-2027,4.5,602,1,31-03-2025
+PROD00243,Huggies Diapers 250ml,Baby Care,Diapers,Huggies,296.68,272.18,8.26,2kg,Out of Stock,0,,4.2,1314,1,11-09-2024
+PROD00244,Nescafe Organic Health Drinks 10pcs,Beverages,Health Drinks,Nescafe,367.04,349.05,4.9,1kg,In Stock,432,,3.5,1899,1,21-08-2025
+PROD00245,MTR Spices 100ml,Atta & Grains,Spices,MTR,129.63,119.67,7.68,200ml,In Stock,252,,4.5,1448,1,18-01-2025
+PROD00246,Colin Organic Detergent 1kg,Household,Detergent,Colin,117.5,104.26,11.27,12pcs,In Stock,480,,3.7,1868,1,19-02-2025
+PROD00247,Huggies Organic Baby Wipes 10pcs,Baby Care,Baby Wipes,Huggies,448.92,402.32,10.38,250g,In Stock,281,,4.6,1810,0,19-12-2025
+PROD00248,Whiskas Fresh Pet Food 200ml,Pet Care,Pet Food,Whiskas,504.04,462.9,8.16,100ml,In Stock,90,,3,1836,1,30-07-2025
+PROD00249,Pringles Fresh Dry Fruits 500ml,Snacks & Munchies,Dry Fruits,Pringles,568.69,455.69,19.87,5pcs,In Stock,489,,3.9,77,0,31-12-2024
+PROD00250,Windsor Premium Rusk 6pcs,Bakery & Bread,Rusk,Windsor,471.42,423.91,10.08,500ml,In Stock,437,01-11-2026,3.7,1080,1,28-10-2024
+PROD00251,Nestle Organic Diapers 250ml,Baby Care,Diapers,Nestle,497.32,419.05,15.74,250ml,Out of Stock,0,,3.2,1279,1,30-01-2026
+PROD00252,24 Mantra Premium Wheat Flour 1pc,Atta & Grains,Wheat Flour,24 Mantra,543.4,491.19,9.61,5kg,In Stock,466,,4.2,1650,1,14-07-2026
+PROD00253,Whiskas Organic Pet Accessories 1pc,Pet Care,Pet Accessories,Whiskas,390.22,350.64,10.14,250ml,Out of Stock,0,,5,1395,0,03-06-2026
+PROD00254,Organic India Fresh Fresh Vegetables 10pcs,Fruits & Vegetables,Fresh Vegetables,Organic India,174.81,151.41,13.38,1pc,In Stock,71,07-11-2026,3.6,1837,1,08-10-2025
+PROD00255,Bikaji Organic Chocolates 5pcs,Snacks & Munchies,Chocolates,Bikaji,302.74,275.17,9.11,500g,In Stock,312,,4.9,1528,0,20-07-2025
+PROD00256,Coca Cola Soft Drinks 1pc,Beverages,Soft Drinks,Coca Cola,43.73,39.38,9.95,500ml,In Stock,138,,4.1,1196,0,22-01-2025
+PROD00257,Whiskas Pet Food 5kg,Pet Care,Pet Food,Whiskas,167.59,148.61,11.32,5kg,In Stock,35,,3.8,76,1,19-03-2026
+PROD00258,Fresho Premium Fresh Fruits 2L,Fruits & Vegetables,Fresh Fruits,Fresho,375.72,310.82,17.28,200ml,In Stock,175,19-10-2026,4,1385,1,06-04-2026
+PROD00259,Pampers Premium Baby Oil 100ml,Baby Care,Baby Oil,Pampers,109.08,95.75,12.22,2L,In Stock,149,,3.5,159,1,30-05-2025
+PROD00260,Daawat Wheat Flour 1kg,Atta & Grains,Wheat Flour,Daawat,473.47,418.29,11.65,500g,In Stock,420,,3.5,810,1,12-12-2024
+PROD00261,Haldiram Namkeen 500g,Snacks & Munchies,Namkeen,Haldiram,109.9,99.31,9.64,1pc,In Stock,419,,4.6,931,0,29-09-2024
+PROD00262,Nandini Fresh Butter 1kg,Dairy & Eggs,Butter,Nandini,263.66,222.27,15.7,2L,In Stock,358,07-08-2026,4.4,733,1,11-12-2025
+PROD00263,India Gate Premium Pulses 200ml,Atta & Grains,Pulses,India Gate,509.41,437.76,14.07,1pc,In Stock,141,,4.7,1647,0,17-06-2025
+PROD00264,Pampers Organic Baby Oil 6pcs,Baby Care,Baby Oil,Pampers,215.7,201.69,6.49,12pcs,In Stock,388,,4.1,1511,1,19-04-2025
+PROD00265,Fortune Organic Sauces 1pc,Oil & Masalas,Sauces,Fortune,527.77,425.39,19.4,12pcs,In Stock,90,,3.2,328,1,12-06-2025
+PROD00266,Heritage Fresh Eggs 5pcs,Dairy & Eggs,Eggs,Heritage,390.95,315.45,19.31,2L,In Stock,92,07-10-2026,3.7,825,0,15-07-2025
+PROD00267,Local Farms Organic Fresh Vegetables 12pcs,Fruits & Vegetables,Fresh Vegetables,Local Farms,165.95,153.55,7.47,5pcs,In Stock,436,03-01-2027,3.9,1429,1,04-02-2026
+PROD00268,Country Delight Organic Vegetables 200ml,Fruits & Vegetables,Organic Vegetables,Country Delight,154,143.15,7.05,10pcs,Out of Stock,0,30-07-2026,3,1541,0,23-12-2025
+PROD00269,Rin Organic Detergent 10pcs,Household,Detergent,Rin,152.17,142.67,6.25,100g,In Stock,181,,4.5,1699,1,07-12-2025
+PROD00270,Country Delight Exotic Fruits 250g,Fruits & Vegetables,Exotic Fruits,Country Delight,472.74,432.8,8.45,200ml,In Stock,326,22-11-2026,3.4,1425,0,02-10-2024
+PROD00271,Nandini Premium Cream 5kg,Dairy & Eggs,Cream,Nandini,67.53,61.92,8.31,12pcs,In Stock,443,31-07-2026,4.8,1559,1,26-05-2025
+PROD00272,Drools Fresh Pet Accessories 100ml,Pet Care,Pet Accessories,Drools,212.08,179.6,15.31,100ml,In Stock,489,,4.7,224,1,03-02-2026
+PROD00273,Nescafe Premium Tea 250g,Beverages,Tea,Nescafe,200.13,182.66,8.73,2kg,In Stock,353,,4.4,1705,0,07-04-2025
+PROD00274,Haldiram Fresh Chocolates 1pc,Snacks & Munchies,Chocolates,Haldiram,245.68,208.52,15.12,100ml,In Stock,263,,4,891,0,31-03-2026
+PROD00275,Purepet Organic Pet Food 200g,Pet Care,Pet Food,Purepet,12.62,10.39,17.64,200g,In Stock,34,,3.7,1133,1,18-05-2026
+PROD00276,Colin Premium Mosquito Repellent 2L,Household,Mosquito Repellent,Colin,76.17,70.34,7.66,500g,Out of Stock,0,,3.9,412,1,10-10-2024
+PROD00277,Sunsilk Toothpaste 100g,Personal Care,Toothpaste,Sunsilk,204.97,166.37,18.83,100g,In Stock,490,,3.1,49,1,27-01-2025
+PROD00278,Bonnie Fresh Rusk 12pcs,Bakery & Bread,Rusk,Bonnie,335.52,301.29,10.2,500ml,In Stock,328,26-08-2026,4.7,240,1,12-12-2024
+PROD00279,Pringles Premium Chips 2kg,Snacks & Munchies,Chips,Pringles,169.19,155.59,8.03,100g,In Stock,453,,3.3,97,0,07-09-2025
+PROD00280,Windsor Rusk 10pcs,Bakery & Bread,Rusk,Windsor,305.05,266.52,12.63,1kg,In Stock,77,15-10-2026,4.5,1555,1,03-11-2024
+PROD00281,Harvest Gold Fresh Cakes 100ml,Bakery & Bread,Cakes,Harvest Gold,238.56,210.99,11.55,2kg,In Stock,354,09-10-2026,4.4,482,0,07-12-2024
+PROD00282,Cadbury Dry Fruits 10pcs,Snacks & Munchies,Dry Fruits,Cadbury,424.18,396.45,6.54,250ml,In Stock,463,,3.5,1790,0,19-02-2025
+PROD00283,Ghadi Premium Mosquito Repellent 10pcs,Household,Mosquito Repellent,Ghadi,29.6,25.08,15.27,12pcs,In Stock,46,,4.5,213,1,12-07-2025
+PROD00284,Pedigree Pet Accessories 5kg,Pet Care,Pet Accessories,Pedigree,303,278.01,8.25,250g,In Stock,186,,4.9,535,0,28-01-2025
+PROD00285,Nestle Baby Wipes 1kg,Baby Care,Baby Wipes,Nestle,368.85,332.1,9.96,5kg,In Stock,71,,3.2,28,0,28-05-2026
+PROD00286,Country Delight Organic Fresh Fruits 5kg,Fruits & Vegetables,Fresh Fruits,Country Delight,407.9,341.42,16.3,10pcs,In Stock,135,03-08-2026,4.9,239,1,27-06-2025
+PROD00287,Fresho Premium Fresh Vegetables 6pcs,Fruits & Vegetables,Fresh Vegetables,Fresho,146.47,138.81,5.23,2L,In Stock,397,23-12-2026,4.2,358,1,18-05-2026
+PROD00288,Pringles Fresh Candies 500ml,Snacks & Munchies,Candies,Pringles,359.82,329.93,8.31,5pcs,In Stock,72,,4.9,1396,1,13-05-2026
+PROD00289,Dodla Premium Paneer 12pcs,Dairy & Eggs,Paneer,Dodla,144.93,123.6,14.72,200ml,In Stock,378,03-11-2026,3.9,1756,1,02-10-2024
+PROD00290,Ghadi Mosquito Repellent 2L,Household,Mosquito Repellent,Ghadi,434.11,362.72,16.45,5pcs,In Stock,468,,3.3,31,1,26-08-2024
+PROD00291,Britannia Fresh Pastries 100g,Bakery & Bread,Pastries,Britannia,458.29,400.48,12.61,12pcs,In Stock,393,23-11-2026,4,1983,1,10-09-2025
+PROD00292,MDH Premium Masalas 100ml,Oil & Masalas,Masalas,MDH,495.17,431.06,12.95,500g,In Stock,318,,4.8,98,1,28-04-2026
+PROD00293,Nestle Candies 250ml,Snacks & Munchies,Candies,Nestle,100.18,85.2,14.96,10pcs,In Stock,433,,4.3,1733,1,29-07-2024
+PROD00294,Local Farms Organic Organic Vegetables 500ml,Fruits & Vegetables,Organic Vegetables,Local Farms,420.9,390.66,7.18,500ml,In Stock,188,07-08-2026,3.6,302,1,07-07-2026
+PROD00295,Red Bull Fresh Soft Drinks 100g,Beverages,Soft Drinks,Red Bull,268.75,254.99,5.12,500ml,In Stock,339,,3.5,330,1,23-02-2026
+PROD00296,Catch Sauces 200ml,Oil & Masalas,Sauces,Catch,83.75,77.05,8,1L,In Stock,168,,4.2,1192,1,08-05-2026
+PROD00297,Pepsi Fresh Health Drinks 2kg,Beverages,Health Drinks,Pepsi,291.33,235.66,19.11,10pcs,In Stock,35,,3.1,1070,1,17-01-2025
+PROD00298,Nescafe Organic Health Drinks 100g,Beverages,Health Drinks,Nescafe,406.86,380.25,6.54,100g,In Stock,212,,3.5,584,1,24-11-2024
+PROD00299,Purepet Premium Pet Food 5pcs,Pet Care,Pet Food,Purepet,580.88,473.28,18.52,5kg,In Stock,334,,3.5,1117,1,29-05-2025
+PROD00300,Bonnie Premium Bread 6pcs,Bakery & Bread,Bread,Bonnie,411.29,367.81,10.57,5kg,In Stock,127,22-10-2026,4.4,41,1,26-07-2025
+PROD00301,Pepsi Premium Tea 6pcs,Beverages,Tea,Pepsi,380.17,359.31,5.49,250ml,In Stock,327,,3.3,232,1,31-12-2024
+PROD00302,Pringles Candies 1L,Snacks & Munchies,Candies,Pringles,280.58,228.12,18.7,1kg,In Stock,164,,4.9,491,1,20-05-2026
+PROD00303,Fortune Premium Pulses 1kg,Atta & Grains,Pulses,Fortune,64.41,51.74,19.67,100g,Out of Stock,0,,3.6,1843,1,25-05-2025
+PROD00304,Mother Dairy Fresh Cheese 6pcs,Dairy & Eggs,Cheese,Mother Dairy,28.5,25.79,9.51,100ml,In Stock,302,11-01-2027,4.5,1071,1,01-09-2024
+PROD00305,All Out Fresh Cleaning Supplies 200g,Household,Cleaning Supplies,All Out,19.18,16.36,14.69,200g,In Stock,17,,4.8,1419,1,22-11-2024
+PROD00306,Parle Premium Chocolates 500g,Snacks & Munchies,Chocolates,Parle,290.73,267.88,7.86,5pcs,In Stock,7,,3.1,497,0,08-05-2025
+PROD00307,MTR Wheat Flour 1kg,Atta & Grains,Wheat Flour,MTR,463.34,383.62,17.21,12pcs,In Stock,415,,5,1816,1,19-07-2024
+PROD00308,Harpic Fresh Mosquito Repellent 2L,Household,Mosquito Repellent,Harpic,444.97,359.17,19.28,500ml,In Stock,482,,4.8,1358,0,17-05-2025
+PROD00309,Nescafe Premium Tea 2L,Beverages,Tea,Nescafe,237.99,199.84,16.03,200g,In Stock,238,,3.3,395,1,08-02-2025
+PROD00310,India Gate Organic Spices 1kg,Atta & Grains,Spices,India Gate,375.89,308.57,17.91,5pcs,Out of Stock,0,,4.8,1856,0,07-07-2026
+PROD00311,Pampers Premium Diapers 100ml,Baby Care,Diapers,Pampers,405.65,326.04,19.63,1pc,In Stock,384,,4.6,40,1,19-03-2026
+PROD00312,Pedigree Organic Pet Food 500ml,Pet Care,Pet Food,Pedigree,352.94,283.04,19.81,200g,In Stock,392,,4.6,770,1,19-03-2026
+PROD00313,Ghadi Premium Detergent 12pcs,Household,Detergent,Ghadi,411.35,350.24,14.86,100ml,In Stock,147,,4.4,1330,1,06-07-2025
+PROD00314,Pringles Organic Chips 200g,Snacks & Munchies,Chips,Pringles,277.88,223.33,19.63,2L,In Stock,187,,3.8,895,0,24-02-2025
+PROD00315,Colgate Shampoo 5pcs,Personal Care,Shampoo,Colgate,352.92,300.04,14.98,250ml,In Stock,291,,3.4,1180,1,11-06-2025
+PROD00316,Local Farms Organic Fresh Fruits 10pcs,Fruits & Vegetables,Fresh Fruits,Local Farms,142.14,129,9.25,2L,In Stock,255,02-12-2026,3.7,170,1,05-02-2026
+PROD00317,Catch Cooking Oil 200ml,Oil & Masalas,Cooking Oil,Catch,437.3,401.01,8.3,250ml,Out of Stock,0,,4,298,0,18-03-2026
+PROD00318,Pringles Fresh Chocolates 100ml,Snacks & Munchies,Chocolates,Pringles,466.01,393.57,15.54,1L,In Stock,46,,3.3,210,0,22-09-2025
+PROD00319,Good Knight Air Fresheners 1L,Household,Air Fresheners,Good Knight,414.23,347.77,16.05,100ml,In Stock,29,,4.1,1281,1,14-12-2025
+PROD00320,Patanjali Fresh Shampoo 10pcs,Personal Care,Shampoo,Patanjali,258.2,231.59,10.31,6pcs,In Stock,447,,3.8,1357,1,27-01-2026
+PROD00321,Surf Excel Fresh Detergent 2L,Household,Detergent,Surf Excel,41.29,33.76,18.22,200g,In Stock,303,,4.6,1742,1,31-07-2025
+PROD00322,Pedigree Organic Pet Accessories 12pcs,Pet Care,Pet Accessories,Pedigree,491.31,436.27,11.2,5pcs,In Stock,434,,4.3,1759,1,15-11-2024
+PROD00323,Dodla Premium Curd/Yogurt 100ml,Dairy & Eggs,Curd/Yogurt,Dodla,57.75,53.33,7.65,12pcs,In Stock,312,25-08-2026,4,1856,1,05-03-2025
+PROD00324,Nestle Fresh Diapers 10pcs,Baby Care,Diapers,Nestle,410.81,351.55,14.42,10pcs,In Stock,327,,3.1,485,1,03-01-2025
+PROD00325,Fresho Fresh Exotic Fruits 100ml,Fruits & Vegetables,Exotic Fruits,Fresho,529.97,428.24,19.2,200ml,Out of Stock,0,31-07-2026,4.6,1963,1,10-10-2025
+PROD00326,Good Knight Fresh Cleaning Supplies 1pc,Household,Cleaning Supplies,Good Knight,81.87,67.92,17.05,1kg,In Stock,458,,4.1,1212,1,09-02-2026
+PROD00327,Pepsi Energy Drinks 250ml,Beverages,Energy Drinks,Pepsi,51.4,47.4,7.79,250g,In Stock,342,,3.9,945,1,12-09-2025
+PROD00328,Britannia Fresh Bread 1pc,Bakery & Bread,Bread,Britannia,288.28,237.82,17.5,12pcs,In Stock,97,31-07-2026,4.6,766,1,18-02-2026
+PROD00329,Nandini Organic Milk 12pcs,Dairy & Eggs,Milk,Nandini,604.58,490.04,18.95,250g,In Stock,461,18-09-2026,3.5,1743,1,31-08-2024
+PROD00330,Saffola Sauces 5pcs,Oil & Masalas,Sauces,Saffola,259.13,212.6,17.96,250ml,In Stock,89,,3.2,1853,1,25-08-2024
+PROD00331,Pepsi Juices 1kg,Beverages,Juices,Pepsi,296.27,271.12,8.49,100ml,In Stock,211,,4.6,738,1,14-10-2025
+PROD00332,Mother Dairy Paneer 1pc,Dairy & Eggs,Paneer,Mother Dairy,479.73,440.74,8.13,200g,In Stock,271,20-10-2026,3.7,358,1,12-08-2025
+PROD00333,Aashirvaad Premium Spices 2L,Atta & Grains,Spices,Aashirvaad,84.18,79.51,5.55,2L,In Stock,275,,3,752,0,02-07-2026
+PROD00334,Saffola Premium Pickles 250ml,Oil & Masalas,Pickles,Saffola,210.65,180.14,14.49,500g,In Stock,290,,4.7,464,0,11-05-2026
+PROD00335,Sunsilk Premium Toothpaste 12pcs,Personal Care,Toothpaste,Sunsilk,125.34,113.15,9.73,500ml,In Stock,143,,3.7,345,1,03-09-2025
+PROD00336,Dove Sanitizer 5kg,Personal Care,Sanitizer,Dove,226.87,210.77,7.1,2kg,In Stock,350,,4.9,1193,1,17-11-2024
+PROD00337,Britannia Fresh Cookies 2L,Bakery & Bread,Cookies,Britannia,161.49,147.06,8.93,2kg,In Stock,161,31-07-2026,4.9,1957,1,16-08-2025
+PROD00338,Local Farms Organic Exotic Fruits 200g,Fruits & Vegetables,Exotic Fruits,Local Farms,506.58,470.29,7.16,2kg,In Stock,185,04-08-2026,3.8,1258,0,10-05-2026
+PROD00339,Heritage Premium Cream 200ml,Dairy & Eggs,Cream,Heritage,304.17,278.46,8.45,1L,Low Stock,152,25-08-2026,4.6,1708,0,09-09-2024
+PROD00340,Tata Tea Fresh Energy Drinks 5kg,Beverages,Energy Drinks,Tata Tea,63.25,59.11,6.55,500ml,In Stock,18,,4,105,0,23-10-2025
+PROD00341,Amul Fresh Curd/Yogurt 100ml,Dairy & Eggs,Curd/Yogurt,Amul,54.46,48.32,11.28,5kg,In Stock,445,02-08-2026,4.4,1289,1,24-12-2025
+PROD00342,Nestle Premium Baby Oil 10pcs,Baby Care,Baby Oil,Nestle,244.03,210.58,13.71,100g,In Stock,25,,4.6,1709,0,18-05-2026
+PROD00343,India Gate Fresh Rice 1L,Atta & Grains,Rice,India Gate,88.07,78.12,11.3,1L,In Stock,322,,4.1,1263,0,16-01-2025
+PROD00344,Johnson & Johnson Premium Diapers 2L,Baby Care,Diapers,Johnson & Johnson,406.18,384.01,5.46,5pcs,In Stock,219,,3.1,466,1,27-05-2025
+PROD00345,Huggies Premium Baby Food 500g,Baby Care,Baby Food,Huggies,542.13,452.05,16.62,5kg,In Stock,302,,3.2,1971,1,19-10-2024
+PROD00346,Tata Tea Premium Energy Drinks 200g,Beverages,Energy Drinks,Tata Tea,501.33,421.69,15.89,5pcs,Out of Stock,0,,4.9,1329,1,09-06-2026
+PROD00347,Red Bull Fresh Health Drinks 2kg,Beverages,Health Drinks,Red Bull,463.06,432.78,6.54,200g,Out of Stock,0,,4.8,1766,1,03-10-2025
+PROD00348,Coca Cola Tea 500ml,Beverages,Tea,Coca Cola,515.24,475.02,7.81,6pcs,In Stock,363,,4.5,461,1,25-01-2025
+PROD00349,Pedigree Fresh Pet Accessories 1kg,Pet Care,Pet Accessories,Pedigree,109.6,103.16,5.87,10pcs,In Stock,389,,4.5,1324,1,10-10-2025
+PROD00350,Organic India Organic Fresh Vegetables 1pc,Fruits & Vegetables,Fresh Vegetables,Organic India,235.35,218.18,7.3,100ml,In Stock,42,12-11-2026,3.8,76,1,17-08-2024
+PROD00351,Pears Shampoo 500g,Personal Care,Shampoo,Pears,294.64,253.16,14.08,12pcs,In Stock,144,,4.6,1514,1,11-11-2025
+PROD00352,Lux Premium Toothpaste 250ml,Personal Care,Toothpaste,Lux,417.14,345.59,17.15,250ml,In Stock,26,,4.6,1451,1,19-09-2024
+PROD00353,Lux Soap 200g,Personal Care,Soap,Lux,185.69,148.76,19.89,5pcs,In Stock,185,,4.4,179,1,08-06-2025
+PROD00354,Country Delight Exotic Fruits 1pc,Fruits & Vegetables,Exotic Fruits,Country Delight,357.6,308.1,13.84,5kg,In Stock,321,24-11-2026,3.4,1206,0,14-10-2025
+PROD00355,Real Organic Tea 250g,Beverages,Tea,Real,187.63,158.89,15.32,100ml,In Stock,158,,3.6,1588,1,30-09-2025
+PROD00356,MTR Spices 1pc,Atta & Grains,Spices,MTR,516.71,443.04,14.26,500g,In Stock,388,,3.7,758,1,28-08-2025
+PROD00357,Dhara Premium Cooking Oil 200g,Oil & Masalas,Cooking Oil,Dhara,478.33,432.28,9.63,1pc,In Stock,473,,4.8,1970,0,20-03-2025
+PROD00358,Pepsi Fresh Tea 250g,Beverages,Tea,Pepsi,508.61,415.88,18.23,12pcs,In Stock,261,,4,518,1,14-07-2026
+PROD00359,Good Knight Premium Detergent 500ml,Household,Detergent,Good Knight,314.91,261.14,17.07,5kg,Out of Stock,0,,3.6,284,1,05-02-2025
+PROD00360,India Gate Organic Spices 100g,Atta & Grains,Spices,India Gate,342.95,310.67,9.41,10pcs,In Stock,500,,3.5,1202,1,23-12-2024
+PROD00361,Eastern Premium Sauces 200ml,Oil & Masalas,Sauces,Eastern,432.45,367.89,14.93,100ml,Out of Stock,0,,3.1,1738,1,20-12-2025
+PROD00362,Country Delight Fresh Fresh Fruits 1pc,Fruits & Vegetables,Fresh Fruits,Country Delight,366.28,333.41,8.97,250g,Low Stock,368,06-12-2026,3.6,173,1,19-03-2025
+PROD00363,Organic India Fresh Vegetables 250ml,Fruits & Vegetables,Fresh Vegetables,Organic India,40.67,38,6.57,5kg,In Stock,364,04-09-2026,4.1,1322,1,09-02-2025
+PROD00364,Gerber Organic Baby Food 100g,Baby Care,Baby Food,Gerber,583.44,468.74,19.66,500g,In Stock,472,,4.4,220,1,21-05-2025
+PROD00365,Amul Premium Curd/Yogurt 5kg,Dairy & Eggs,Curd/Yogurt,Amul,17.06,13.73,19.5,1L,In Stock,173,14-08-2026,4.6,398,1,21-12-2025
+PROD00366,Catch Organic Ghee 10pcs,Oil & Masalas,Ghee,Catch,36.03,31.55,12.42,200g,In Stock,152,,4.7,638,1,01-12-2025
+PROD00367,Drools Premium Pet Food 1pc,Pet Care,Pet Food,Drools,207.93,190.84,8.22,10pcs,In Stock,237,,4,1490,1,08-03-2025
+PROD00368,Colin Premium Air Fresheners 200g,Household,Air Fresheners,Colin,531.94,493.45,7.24,12pcs,Out of Stock,0,,4.2,1564,0,08-07-2025
+PROD00369,Bonnie Premium Pastries 100ml,Bakery & Bread,Pastries,Bonnie,563.67,454.12,19.43,250g,In Stock,498,19-09-2026,3.5,1856,0,09-07-2026
+PROD00370,Harpic Organic Air Fresheners 100ml,Household,Air Fresheners,Harpic,181.25,166.95,7.89,100g,In Stock,12,,3.4,1147,1,21-02-2026
+PROD00371,Lays Organic Chocolates 1kg,Snacks & Munchies,Chocolates,Lays,232.36,216.64,6.77,5kg,Out of Stock,0,,4.4,1258,1,14-07-2026
+PROD00372,24 Mantra Fresh Millets 100ml,Atta & Grains,Millets,24 Mantra,282.49,235.45,16.65,100ml,In Stock,351,,3.3,1493,1,12-09-2024
+PROD00373,India Gate Spices 1kg,Atta & Grains,Spices,India Gate,572.61,491.49,14.17,12pcs,In Stock,407,,4.5,911,0,25-07-2024
+PROD00374,Whiskas Premium Pet Accessories 1kg,Pet Care,Pet Accessories,Whiskas,177.94,164.61,7.49,100g,In Stock,55,,4.1,691,0,08-07-2025
+PROD00375,Milky Mist Premium Butter 500ml,Dairy & Eggs,Butter,Milky Mist,190.27,165.86,12.83,1kg,In Stock,188,17-11-2026,4,182,1,28-09-2025
+PROD00376,Cadbury Fresh Candies 10pcs,Snacks & Munchies,Candies,Cadbury,209.51,173.34,17.26,100ml,Out of Stock,0,,3.3,1389,1,03-10-2024
+PROD00377,All Out Cleaning Supplies 6pcs,Household,Cleaning Supplies,All Out,183.74,164.63,10.4,200g,In Stock,442,,4.9,1696,0,12-09-2024
+PROD00378,Dhara Pickles 6pcs,Oil & Masalas,Pickles,Dhara,171.78,145.82,15.12,2kg,In Stock,474,,4.5,558,0,08-09-2025
+PROD00379,English Oven Bread 12pcs,Bakery & Bread,Bread,English Oven,385.58,313.08,18.8,1pc,In Stock,435,30-08-2026,4.6,243,0,14-08-2025
+PROD00380,Drools Fresh Pet Accessories 200g,Pet Care,Pet Accessories,Drools,43.66,41.35,5.28,5kg,In Stock,126,,4.2,1210,1,08-02-2025
+PROD00381,Pampers Baby Wipes 100g,Baby Care,Baby Wipes,Pampers,421.59,357.96,15.09,1L,In Stock,361,,3.9,485,1,28-10-2024
+PROD00382,Bonnie Cookies 5pcs,Bakery & Bread,Cookies,Bonnie,103.21,83.88,18.73,10pcs,In Stock,352,25-09-2026,3.8,1485,0,02-06-2026
+PROD00383,Drools Fresh Pet Accessories 250g,Pet Care,Pet Accessories,Drools,203.2,169.15,16.76,1L,In Stock,26,,3.6,994,0,09-09-2024
+PROD00384,Eastern Fresh Ghee 250ml,Oil & Masalas,Ghee,Eastern,479.31,427.57,10.79,500g,In Stock,248,,3.2,292,1,31-05-2026
+PROD00385,Sunsilk Soap 200g,Personal Care,Soap,Sunsilk,357.68,315.36,11.83,1pc,In Stock,108,,3.8,109,1,23-01-2025
+PROD00386,Organic India Fresh Exotic Fruits 250g,Fruits & Vegetables,Exotic Fruits,Organic India,78.6,66.41,15.51,6pcs,Out of Stock,0,29-09-2026,3.7,492,1,24-02-2025
+PROD00387,Coca Cola Juices 6pcs,Beverages,Juices,Coca Cola,216.27,203.99,5.68,250g,In Stock,295,,4.7,1638,1,17-11-2024
+PROD00388,Sunsilk Toothpaste 500ml,Personal Care,Toothpaste,Sunsilk,230.37,200.72,12.87,6pcs,In Stock,106,,3.4,158,1,23-06-2025
+PROD00389,Haldiram Organic Chips 2L,Snacks & Munchies,Chips,Haldiram,203.77,170.15,16.5,1L,In Stock,292,,3.6,258,0,26-04-2026
+PROD00390,Gerber Fresh Diapers 100ml,Baby Care,Diapers,Gerber,332.69,266.9,19.78,1pc,In Stock,24,,3.6,248,1,12-09-2025
+PROD00391,Gerber Premium Baby Food 500ml,Baby Care,Baby Food,Gerber,181.96,162.67,10.6,1kg,In Stock,102,,3.9,1376,0,15-01-2026
+PROD00392,Mother Dairy Fresh Cream 12pcs,Dairy & Eggs,Cream,Mother Dairy,135.65,113.22,16.53,500ml,In Stock,260,16-09-2026,4.1,1147,1,05-11-2025
+PROD00393,Head & Shoulders Fresh Skincare 2kg,Personal Care,Skincare,Head & Shoulders,92.13,82.16,10.83,1kg,In Stock,320,,4.4,837,0,05-04-2026
+PROD00394,Dove Fresh Shampoo 500ml,Personal Care,Shampoo,Dove,95.58,88.12,7.8,1pc,In Stock,275,,4.6,1743,1,07-12-2025
+PROD00395,Harpic Fresh Cleaning Supplies 250g,Household,Cleaning Supplies,Harpic,179.15,147.72,17.55,2kg,In Stock,244,,3.6,418,1,01-09-2025
+PROD00396,Coca Cola Fresh Energy Drinks 1L,Beverages,Energy Drinks,Coca Cola,366.98,334.71,8.8,250ml,Low Stock,246,,3.5,1021,1,24-07-2024
+PROD00397,MDH Fresh Ghee 500g,Oil & Masalas,Ghee,MDH,464.08,385.48,16.94,250ml,In Stock,439,,5,1734,1,18-12-2025
+PROD00398,Rin Detergent 250g,Household,Detergent,Rin,361.51,316.61,12.42,100ml,Low Stock,430,,3.2,183,1,13-04-2026
+PROD00399,Local Farms Fresh Fruits 250ml,Fruits & Vegetables,Fresh Fruits,Local Farms,93.36,81.54,12.66,500g,In Stock,338,04-11-2026,3.2,1430,1,07-03-2025
+PROD00400,Everest Organic Cooking Oil 6pcs,Oil & Masalas,Cooking Oil,Everest,477.65,394.89,17.32,1L,Out of Stock,0,,4.3,1484,1,11-07-2026
+PROD00401,Fresho Organic Fresh Fruits 12pcs,Fruits & Vegetables,Fresh Fruits,Fresho,417.13,350.6,15.95,250ml,In Stock,210,25-11-2026,3.6,1127,1,06-10-2024
+PROD00402,Organic India Fresh Vegetables 200g,Fruits & Vegetables,Fresh Vegetables,Organic India,174.95,146.51,16.25,10pcs,Low Stock,416,06-01-2027,3.7,509,0,30-10-2024
+PROD00403,Purepet Fresh Pet Accessories 5pcs,Pet Care,Pet Accessories,Purepet,304.17,255.15,16.12,100ml,Out of Stock,0,,3.9,1728,1,08-02-2025
+PROD00404,Bonnie Premium Rusk 1L,Bakery & Bread,Rusk,Bonnie,450,423.83,5.82,1L,In Stock,23,11-08-2026,3.6,1213,1,09-06-2026
+PROD00405,Huggies Organic Baby Food 10pcs,Baby Care,Baby Food,Huggies,129.98,112.04,13.81,6pcs,In Stock,251,,4.2,466,0,09-10-2024
+PROD00406,Dhara Fresh Ghee 1pc,Oil & Masalas,Ghee,Dhara,310.56,269.45,13.24,200g,In Stock,347,,5,1694,1,14-02-2026
+PROD00407,Daawat Premium Millets 500g,Atta & Grains,Millets,Daawat,524.12,436.27,16.76,200g,Out of Stock,0,,4.8,1187,1,20-09-2025
+PROD00408,Nestle Premium Baby Food 10pcs,Baby Care,Baby Food,Nestle,129.65,120.24,7.26,5pcs,In Stock,413,,3.6,1718,1,15-11-2024
+PROD00409,Sunsilk Soap 250g,Personal Care,Soap,Sunsilk,537.15,450.85,16.07,200ml,In Stock,400,,3.5,598,1,14-02-2025
+PROD00410,Nestle Organic Namkeen 5kg,Snacks & Munchies,Namkeen,Nestle,260.39,239.92,7.86,200g,Out of Stock,0,,3.4,763,1,21-02-2025
+PROD00411,Nandini Cream 5pcs,Dairy & Eggs,Cream,Nandini,202.5,189.56,6.39,1L,In Stock,455,14-11-2026,3.7,695,1,28-12-2024
+PROD00412,Colin Air Fresheners 500g,Household,Air Fresheners,Colin,129.69,116.68,10.04,250g,In Stock,13,,4.7,282,1,26-01-2026
+PROD00413,Milky Mist Eggs 2kg,Dairy & Eggs,Eggs,Milky Mist,404.88,371.58,8.22,1kg,In Stock,28,24-09-2026,4.3,733,1,23-12-2024
+PROD00414,Nescafe Premium Coffee 12pcs,Beverages,Coffee,Nescafe,78.55,74.12,5.64,1pc,In Stock,253,,3.4,259,1,02-01-2026
+PROD00415,Fortune Organic Rice 5kg,Atta & Grains,Rice,Fortune,233.57,188.81,19.17,2L,In Stock,184,,4.3,348,0,22-11-2025
+PROD00416,Organic India Organic Vegetables 500ml,Fruits & Vegetables,Organic Vegetables,Organic India,126.72,116.87,7.77,10pcs,Low Stock,456,01-01-2027,4.5,1140,1,08-02-2025
+PROD00417,Parle Dry Fruits 100g,Snacks & Munchies,Dry Fruits,Parle,178.96,168.09,6.08,5kg,In Stock,170,,3.9,1865,1,14-08-2025
+PROD00418,Britannia Fresh Bread 1pc,Bakery & Bread,Bread,Britannia,255.28,204.4,19.93,500ml,In Stock,176,22-10-2026,4,1252,0,29-01-2025
+PROD00419,Mother Dairy Premium Butter 200g,Dairy & Eggs,Butter,Mother Dairy,181.47,156.07,14,250ml,In Stock,396,11-01-2027,4,1301,1,23-06-2026
+PROD00420,Surf Excel Premium Mosquito Repellent 2L,Household,Mosquito Repellent,Surf Excel,51.03,47.19,7.53,12pcs,In Stock,183,,3.1,1120,0,06-05-2026
+PROD00421,Parle Premium Namkeen 500ml,Snacks & Munchies,Namkeen,Parle,103.03,95.63,7.18,12pcs,In Stock,495,,3.2,771,1,26-08-2024
+PROD00422,Bikaji Fresh Namkeen 200ml,Snacks & Munchies,Namkeen,Bikaji,479.19,407.1,15.04,250ml,In Stock,358,,4.8,1291,1,27-09-2024
+PROD00423,Ghadi Organic Cleaning Supplies 12pcs,Household,Cleaning Supplies,Ghadi,463.2,392.09,15.35,1kg,In Stock,368,,4.4,799,1,22-11-2025
+PROD00424,Country Delight Premium Fresh Vegetables 2L,Fruits & Vegetables,Fresh Vegetables,Country Delight,374.89,311.42,16.93,250ml,In Stock,150,10-10-2026,3.5,209,1,23-04-2026
+PROD00425,Coca Cola Coffee 500ml,Beverages,Coffee,Coca Cola,532.44,484.98,8.91,250ml,In Stock,366,,3.6,383,0,17-02-2025
+PROD00426,Tata Tea Fresh Soft Drinks 2L,Beverages,Soft Drinks,Tata Tea,164.98,137.8,16.47,100g,In Stock,490,,4.9,563,1,21-08-2024
+PROD00427,Organic India Fresh Fresh Vegetables 1kg,Fruits & Vegetables,Fresh Vegetables,Organic India,523.75,467.78,10.69,200g,In Stock,75,20-07-2026,3.7,602,1,03-04-2025
+PROD00428,Amul Paneer 5kg,Dairy & Eggs,Paneer,Amul,203.11,174.28,14.19,2L,In Stock,161,16-12-2026,4.5,495,1,27-10-2024
+PROD00429,Patanjali Organic Toothpaste 250ml,Personal Care,Toothpaste,Patanjali,160.48,137.17,14.53,100g,In Stock,318,,3.4,146,1,24-11-2025
+PROD00430,Heritage Organic Cheese 2kg,Dairy & Eggs,Cheese,Heritage,292.37,234.32,19.86,5pcs,In Stock,252,08-09-2026,4.2,238,1,20-11-2024
+PROD00431,Britannia Premium Cakes 1L,Bakery & Bread,Cakes,Britannia,427.76,372.14,13,100ml,In Stock,448,10-12-2026,4.9,1921,1,26-06-2025
+PROD00432,Johnson & Johnson Premium Diapers 1L,Baby Care,Diapers,Johnson & Johnson,354.68,336.68,5.08,12pcs,In Stock,431,,4.6,345,1,19-09-2025
+PROD00433,Dhara Cooking Oil 100g,Oil & Masalas,Cooking Oil,Dhara,194.66,163.08,16.22,12pcs,In Stock,177,,4.8,1621,1,17-01-2026
+PROD00434,Bikaji Premium Candies 10pcs,Snacks & Munchies,Candies,Bikaji,65.29,54.68,16.25,250g,In Stock,426,,4.4,803,1,15-06-2025
+PROD00435,Huggies Premium Baby Wipes 5kg,Baby Care,Baby Wipes,Huggies,317.07,277.4,12.51,1kg,In Stock,428,,4.4,1989,0,26-09-2025
+PROD00436,Bonnie Premium Pastries 1kg,Bakery & Bread,Pastries,Bonnie,569.46,466.62,18.06,100g,In Stock,297,21-07-2026,4.7,1205,1,12-10-2024
+PROD00437,Real Organic Health Drinks 100ml,Beverages,Health Drinks,Real,117.83,104.63,11.2,2L,In Stock,387,,3.4,565,1,14-09-2024
+PROD00438,Pepsi Premium Juices 250g,Beverages,Juices,Pepsi,72.13,60.18,16.57,250ml,In Stock,228,,4.7,529,1,03-06-2026
+PROD00439,Nestle Organic Baby Oil 5kg,Baby Care,Baby Oil,Nestle,167.19,159.21,4.77,100g,In Stock,309,,4.7,1262,1,05-01-2026
+PROD00440,Milky Mist Organic Cream 250g,Dairy & Eggs,Cream,Milky Mist,76.01,67.58,11.09,250ml,In Stock,182,11-01-2027,4.2,796,1,10-11-2024
+PROD00441,Drools Fresh Pet Accessories 12pcs,Pet Care,Pet Accessories,Drools,159.02,149.34,6.09,100ml,In Stock,16,,3.7,1462,1,14-09-2025
+PROD00442,Aashirvaad Fresh Spices 6pcs,Atta & Grains,Spices,Aashirvaad,262.91,242.81,7.65,5pcs,In Stock,467,,3.4,1833,1,14-08-2024
+PROD00443,Johnson & Johnson Fresh Baby Food 10pcs,Baby Care,Baby Food,Johnson & Johnson,262.95,245.97,6.46,5pcs,In Stock,230,,4.5,766,1,27-04-2026
+PROD00444,Harpic Cleaning Supplies 100ml,Household,Cleaning Supplies,Harpic,356.61,304.23,14.69,250ml,Out of Stock,0,,3.7,589,1,30-04-2025
+PROD00445,Aashirvaad Pulses 5kg,Atta & Grains,Pulses,Aashirvaad,64.88,59.35,8.53,6pcs,In Stock,214,,3.4,544,1,13-10-2025
+PROD00446,Surf Excel Mosquito Repellent 500g,Household,Mosquito Repellent,Surf Excel,286.74,271.87,5.19,2L,Out of Stock,0,,3.5,1513,0,20-09-2025
+PROD00447,India Gate Organic Wheat Flour 2kg,Atta & Grains,Wheat Flour,India Gate,60.11,48.58,19.18,1pc,In Stock,11,,3,1024,0,10-11-2024
+PROD00448,Organic India Exotic Fruits 200ml,Fruits & Vegetables,Exotic Fruits,Organic India,440.93,412,6.56,1pc,In Stock,485,11-10-2026,3.8,774,1,24-10-2024
+PROD00449,Ghadi Organic Air Fresheners 100ml,Household,Air Fresheners,Ghadi,579.4,493.91,14.76,2kg,In Stock,150,,3.5,1226,1,19-08-2024
+PROD00450,English Oven Rusk 1L,Bakery & Bread,Rusk,English Oven,286.95,230.41,19.7,500ml,In Stock,344,17-09-2026,3.6,271,1,27-04-2025
+PROD00451,Nescafe Organic Soft Drinks 250g,Beverages,Soft Drinks,Nescafe,185.38,152.46,17.76,1pc,In Stock,177,,3.8,842,1,16-06-2026
+PROD00452,Drools Pet Accessories 500ml,Pet Care,Pet Accessories,Drools,44.71,37.96,15.1,500ml,Out of Stock,0,,4.2,1545,1,12-07-2026
+PROD00453,Drools Fresh Pet Food 2L,Pet Care,Pet Food,Drools,500.46,415.27,17.02,12pcs,In Stock,321,,3.6,1185,1,28-03-2026
+PROD00454,Aashirvaad Rice 10pcs,Atta & Grains,Rice,Aashirvaad,53.49,44.4,17.01,1kg,In Stock,63,,4.1,351,1,17-05-2026
+PROD00455,Rin Organic Mosquito Repellent 1pc,Household,Mosquito Repellent,Rin,474.8,422.8,10.95,10pcs,In Stock,115,,4.3,1761,1,17-08-2024
+PROD00456,Heritage Eggs 12pcs,Dairy & Eggs,Eggs,Heritage,253.06,235.19,7.06,2L,In Stock,260,10-01-2027,3.7,715,1,21-04-2025
+PROD00457,Nestle Baby Food 1kg,Baby Care,Baby Food,Nestle,336.73,274.53,18.47,2L,In Stock,204,,4.8,338,1,28-12-2024
+PROD00458,Amul Premium Cream 500g,Dairy & Eggs,Cream,Amul,307.34,264.53,13.93,2L,In Stock,15,29-11-2026,4.9,602,1,27-01-2025
+PROD00459,Windsor Organic Rusk 2kg,Bakery & Bread,Rusk,Windsor,256.31,205.48,19.83,200g,In Stock,486,26-11-2026,4,345,1,05-10-2024
+PROD00460,Lux Fresh Toothpaste 2L,Personal Care,Toothpaste,Lux,305.15,263.66,13.6,100g,In Stock,315,,3.5,839,1,18-04-2025
+PROD00461,Fresho Fresh Organic Vegetables 250ml,Fruits & Vegetables,Organic Vegetables,Fresho,124.3,112.46,9.53,6pcs,In Stock,244,18-12-2026,4.7,584,0,25-09-2025
+PROD00462,Rin Premium Cleaning Supplies 1kg,Household,Cleaning Supplies,Rin,170.14,154.59,9.14,2kg,In Stock,276,,3.9,1278,1,04-06-2026
+PROD00463,24 Mantra Fresh Rice 200g,Atta & Grains,Rice,24 Mantra,194.47,177.35,8.81,100g,In Stock,224,,4.8,1180,1,28-05-2026
+PROD00464,Mother Dairy Premium Curd/Yogurt 100g,Dairy & Eggs,Curd/Yogurt,Mother Dairy,396.4,318.24,19.72,100g,In Stock,399,06-10-2026,4.4,798,1,12-11-2025
+PROD00465,Eastern Organic Masalas 100ml,Oil & Masalas,Masalas,Eastern,331.52,303.66,8.4,12pcs,In Stock,132,,4.9,1144,1,20-02-2026
+PROD00466,Daawat Organic Millets 200g,Atta & Grains,Millets,Daawat,508.19,419.91,17.37,12pcs,In Stock,251,,3.8,1125,1,15-11-2024
+PROD00467,Saffola Fresh Pickles 5pcs,Oil & Masalas,Pickles,Saffola,51.2,44.27,13.55,1kg,In Stock,411,,4.7,1331,1,07-07-2026
+PROD00468,Pedigree Fresh Pet Food 2L,Pet Care,Pet Food,Pedigree,314.18,280.37,10.76,250ml,Low Stock,15,,4.2,1366,1,10-07-2026
+PROD00469,English Oven Fresh Buns 10pcs,Bakery & Bread,Buns,English Oven,429.77,385.9,10.21,5kg,In Stock,437,03-09-2026,4.4,217,1,20-05-2026
+PROD00470,Lux Organic Shampoo 250ml,Personal Care,Shampoo,Lux,24.5,20.97,14.39,5pcs,In Stock,306,,3.2,1011,1,21-11-2024
+PROD00471,Fortune Organic Ghee 5kg,Oil & Masalas,Ghee,Fortune,368.1,335.52,8.85,100g,Out of Stock,0,,3.7,249,0,31-03-2026
+PROD00472,Everest Fresh Ghee 250g,Oil & Masalas,Ghee,Everest,77.45,69.03,10.87,2L,In Stock,394,,3.1,325,1,08-04-2026
+PROD00473,Real Energy Drinks 2kg,Beverages,Energy Drinks,Real,305.67,256.65,16.04,500g,Low Stock,410,,4,1637,1,02-12-2024
+PROD00474,Eastern Masalas 200g,Oil & Masalas,Masalas,Eastern,313.51,286.84,8.51,100ml,Out of Stock,0,,4.2,849,1,02-06-2026
+PROD00475,Country Delight Exotic Fruits 5kg,Fruits & Vegetables,Exotic Fruits,Country Delight,146.77,127.07,13.42,250g,In Stock,213,08-10-2026,3.5,1026,0,06-08-2024
+PROD00476,Dodla Premium Cheese 10pcs,Dairy & Eggs,Cheese,Dodla,398.45,351.59,11.76,200ml,In Stock,219,23-08-2026,3.4,574,0,10-02-2026
+PROD00477,Dove Organic Soap 200ml,Personal Care,Soap,Dove,17.5,15.74,10.08,250ml,In Stock,9,,3.6,1162,1,06-07-2026
+PROD00478,Colgate Premium Skincare 1kg,Personal Care,Skincare,Colgate,111.26,105.86,4.86,250g,In Stock,126,,4.8,1621,1,02-04-2025
+PROD00479,Gerber Baby Wipes 200ml,Baby Care,Baby Wipes,Gerber,44.26,38.4,13.24,5kg,Out of Stock,0,,4.4,1646,1,17-03-2026
+PROD00480,Britannia Buns 100g,Bakery & Bread,Buns,Britannia,237.71,210.62,11.4,500ml,Out of Stock,0,07-10-2026,3.3,1883,1,02-04-2026
+PROD00481,Britannia Bread 500ml,Bakery & Bread,Bread,Britannia,141.57,128.63,9.14,500g,In Stock,319,27-11-2026,3.5,345,1,20-05-2026
+PROD00482,Drools Pet Accessories 12pcs,Pet Care,Pet Accessories,Drools,309.03,290.17,6.1,12pcs,In Stock,190,,3.6,874,0,08-02-2026
+PROD00483,Local Farms Fresh Fresh Vegetables 1L,Fruits & Vegetables,Fresh Vegetables,Local Farms,525.07,473.96,9.73,2kg,In Stock,269,24-12-2026,3.1,1290,0,26-01-2025
+PROD00484,Fortune Masalas 100ml,Oil & Masalas,Masalas,Fortune,171.69,162.83,5.16,5pcs,In Stock,193,,4.5,268,0,10-02-2025
+PROD00485,Pedigree Pet Accessories 250g,Pet Care,Pet Accessories,Pedigree,475.81,444.6,6.56,2kg,In Stock,231,,3.8,780,1,18-11-2024
+PROD00486,Milky Mist Fresh Butter 100g,Dairy & Eggs,Butter,Milky Mist,69.25,58.74,15.18,250ml,In Stock,489,19-12-2026,5,250,1,13-01-2026
+PROD00487,Local Farms Fresh Vegetables 500g,Fruits & Vegetables,Fresh Vegetables,Local Farms,81.16,65.76,18.98,1pc,In Stock,56,09-08-2026,4.9,1804,0,11-05-2025
+PROD00488,Johnson & Johnson Fresh Baby Food 1kg,Baby Care,Baby Food,Johnson & Johnson,441.65,355.58,19.49,2L,In Stock,311,,4.3,1649,1,26-05-2026
+PROD00489,Colgate Premium Toothpaste 5kg,Personal Care,Toothpaste,Colgate,415.15,390.46,5.95,12pcs,In Stock,262,,4.3,1598,1,17-08-2024
+PROD00490,Tropicana Fresh Juices 1L,Beverages,Juices,Tropicana,121.65,105.47,13.3,6pcs,In Stock,433,,3,284,1,15-05-2026
+PROD00491,All Out Organic Mosquito Repellent 2L,Household,Mosquito Repellent,All Out,390.23,369.66,5.27,500ml,In Stock,42,,4.6,619,1,18-07-2025
+PROD00492,Fortune Organic Wheat Flour 100ml,Atta & Grains,Wheat Flour,Fortune,556.37,472.09,15.15,250ml,In Stock,453,,3.6,673,1,06-01-2025
+PROD00493,Fortune Premium Sauces 2kg,Oil & Masalas,Sauces,Fortune,354.3,325.59,8.1,100ml,In Stock,305,,3.5,1646,1,20-12-2024
+PROD00494,Colin Organic Mosquito Repellent 250ml,Household,Mosquito Repellent,Colin,483.99,402.19,16.9,10pcs,In Stock,118,,4.4,753,1,13-04-2026
+PROD00495,Gerber Baby Oil 1pc,Baby Care,Baby Oil,Gerber,491.94,452.91,7.93,12pcs,In Stock,377,,4.4,1116,1,01-07-2026
+PROD00496,Mother Dairy Paneer 5kg,Dairy & Eggs,Paneer,Mother Dairy,40.59,36.2,10.8,1kg,In Stock,67,17-10-2026,3.5,1541,1,15-04-2025
+PROD00497,Nandini Fresh Milk 200ml,Dairy & Eggs,Milk,Nandini,255.45,236.98,7.23,100g,In Stock,313,17-09-2026,4.7,163,1,16-04-2026
+PROD00498,Ghadi Organic Cleaning Supplies 1kg,Household,Cleaning Supplies,Ghadi,434.88,379.2,12.8,5pcs,In Stock,119,,3.4,1085,1,27-03-2026
+PROD00499,Pedigree Pet Accessories 200ml,Pet Care,Pet Accessories,Pedigree,89.42,76.36,14.61,500g,In Stock,281,,4.1,116,0,25-05-2026
+PROD00500,India Gate Organic Spices 12pcs,Atta & Grains,Spices,India Gate,43.77,37.39,14.58,250g,In Stock,279,,3.9,578,0,10-01-2025
+PROD00501,Patanjali Skincare 10pcs,Personal Care,Skincare,Patanjali,106.5,93.2,12.48,2L,In Stock,167,,4.4,1357,1,07-01-2025
+PROD00502,Dhara Premium Pickles 250g,Oil & Masalas,Pickles,Dhara,82.05,77.1,6.03,250ml,In Stock,480,,3.8,1951,1,05-08-2024
+PROD00503,Aashirvaad Wheat Flour 200ml,Atta & Grains,Wheat Flour,Aashirvaad,151.94,132.89,12.54,5kg,In Stock,461,,3.2,21,0,12-12-2025
+PROD00504,Head & Shoulders Skincare 2kg,Personal Care,Skincare,Head & Shoulders,206.33,170.02,17.6,12pcs,In Stock,358,,3,8,1,15-12-2024
+PROD00505,Drools Premium Pet Food 500g,Pet Care,Pet Food,Drools,385.61,350.24,9.17,250g,In Stock,185,,4.1,351,0,23-05-2025
+PROD00506,Amul Organic Eggs 1pc,Dairy & Eggs,Eggs,Amul,80.59,69.78,13.41,1kg,Out of Stock,0,21-09-2026,4.5,726,1,19-02-2025
+PROD00507,Pedigree Fresh Pet Accessories 12pcs,Pet Care,Pet Accessories,Pedigree,37.54,32.7,12.91,5pcs,In Stock,25,,4.3,1224,0,20-05-2026
+PROD00508,Tropicana Soft Drinks 10pcs,Beverages,Soft Drinks,Tropicana,270.19,248.13,8.17,12pcs,Low Stock,239,,4.3,818,1,09-09-2024
+PROD00509,Nestle Chips 250ml,Snacks & Munchies,Chips,Nestle,537.83,446.85,16.92,5pcs,In Stock,414,,3.1,1652,1,10-03-2026
+PROD00510,Whiskas Premium Pet Accessories 250ml,Pet Care,Pet Accessories,Whiskas,185.02,150.81,18.49,2L,In Stock,397,,4.3,1670,1,19-02-2025
+PROD00511,Real Organic Tea 200g,Beverages,Tea,Real,344.9,292.18,15.28,200g,In Stock,32,,3.3,434,1,16-04-2025
+PROD00512,MTR Pulses 12pcs,Atta & Grains,Pulses,MTR,390.18,356.5,8.63,500g,In Stock,0,,4.1,514,0,28-11-2025
+PROD00513,Mother Dairy Cheese 12pcs,Dairy & Eggs,Cheese,Mother Dairy,458.16,367.91,19.7,1L,Low Stock,445,26-10-2026,3.4,1490,1,24-05-2025
+PROD00514,Lux Premium Toothpaste 200ml,Personal Care,Toothpaste,Lux,48.89,42.6,12.85,500g,In Stock,437,,3.6,1666,0,27-12-2025
+PROD00515,Head & Shoulders Organic Toothpaste 200ml,Personal Care,Toothpaste,Head & Shoulders,273.01,231.3,15.28,250ml,In Stock,3,,4.1,1379,1,04-05-2026
+PROD00516,MTR Organic Wheat Flour 1L,Atta & Grains,Wheat Flour,MTR,200.62,163.07,18.72,5pcs,In Stock,246,,4,659,0,07-09-2025
+PROD00517,Bonnie Organic Cookies 500g,Bakery & Bread,Cookies,Bonnie,268.52,219.94,18.09,2L,In Stock,75,22-09-2026,4,489,1,17-07-2026
+PROD00518,Bikaji Premium Chips 12pcs,Snacks & Munchies,Chips,Bikaji,107.36,90.15,16.03,1kg,In Stock,394,,3.3,475,1,08-08-2024
+PROD00519,Brooke Bond Fresh Juices 12pcs,Beverages,Juices,Brooke Bond,281.09,256.7,8.67,250g,Out of Stock,0,,4.4,1218,1,15-10-2024
+PROD00520,Ghadi Premium Mosquito Repellent 250ml,Household,Mosquito Repellent,Ghadi,391.19,351.63,10.11,500g,In Stock,30,,3.1,198,1,30-05-2026
+PROD00521,Fortune Premium Rice 5kg,Atta & Grains,Rice,Fortune,394.47,343.45,12.94,5pcs,Out of Stock,0,,4.6,1493,1,05-02-2025
+PROD00522,Purepet Fresh Pet Accessories 5pcs,Pet Care,Pet Accessories,Purepet,479.1,415.97,13.18,10pcs,In Stock,340,,4.5,1886,0,03-12-2024
+PROD00523,Fresho Organic Vegetables 200ml,Fruits & Vegetables,Organic Vegetables,Fresho,34.4,31.66,7.94,100g,In Stock,265,09-11-2026,3.1,802,1,09-02-2025
+PROD00524,Windsor Fresh Rusk 250g,Bakery & Bread,Rusk,Windsor,441.19,378.61,14.19,200ml,In Stock,122,27-07-2026,3.1,28,1,10-10-2024
+PROD00525,Mother Dairy Eggs 1kg,Dairy & Eggs,Eggs,Mother Dairy,273.17,221.98,18.74,250ml,In Stock,78,12-11-2026,3.5,672,1,20-06-2025
+PROD00526,Dove Organic Skincare 1pc,Personal Care,Skincare,Dove,62.76,55.7,11.24,200g,In Stock,43,,4.3,664,1,12-04-2025
+PROD00527,Nestle Diapers 5kg,Baby Care,Diapers,Nestle,244.49,228.95,6.36,100g,In Stock,156,,4.2,1452,1,03-02-2026
+PROD00528,Country Delight Organic Exotic Fruits 500g,Fruits & Vegetables,Exotic Fruits,Country Delight,62.54,58.06,7.16,250g,In Stock,388,19-12-2026,3.7,1308,0,18-03-2025
+PROD00529,Windsor Fresh Bread 1kg,Bakery & Bread,Bread,Windsor,201.91,170.52,15.54,250g,In Stock,445,12-10-2026,4.6,1837,1,31-10-2025
+PROD00530,Organic India Fresh Fresh Fruits 200g,Fruits & Vegetables,Fresh Fruits,Organic India,462.25,372.57,19.4,500g,In Stock,306,27-10-2026,4.1,1609,1,15-10-2024
+PROD00531,Dhara Premium Masalas 12pcs,Oil & Masalas,Masalas,Dhara,183.8,158.73,13.64,250g,In Stock,87,,4.6,1429,1,13-05-2025
+PROD00532,Organic India Organic Exotic Fruits 1pc,Fruits & Vegetables,Exotic Fruits,Organic India,403.29,353.28,12.4,200g,In Stock,27,10-01-2027,3.3,1587,1,08-10-2025
+PROD00533,Pampers Baby Food 5pcs,Baby Care,Baby Food,Pampers,285.99,246.91,13.66,10pcs,In Stock,278,,4.3,1940,1,12-12-2024
+PROD00534,Eastern Fresh Pickles 10pcs,Oil & Masalas,Pickles,Eastern,611.9,496.01,18.94,5pcs,In Stock,60,,4.3,814,1,31-01-2025
+PROD00535,Fortune Fresh Spices 500g,Atta & Grains,Spices,Fortune,168.99,153.54,9.14,250ml,In Stock,276,,3.6,1282,1,21-08-2024
+PROD00536,MDH Organic Sauces 1kg,Oil & Masalas,Sauces,MDH,556.79,475.23,14.65,500g,In Stock,14,,4.1,1820,0,19-01-2026
+PROD00537,Rin Fresh Air Fresheners 2kg,Household,Air Fresheners,Rin,416.14,381.94,8.22,250ml,In Stock,1,,4.1,700,1,21-06-2025
+PROD00538,Pears Premium Shampoo 6pcs,Personal Care,Shampoo,Pears,452.07,419.44,7.22,6pcs,In Stock,240,,4.9,1374,1,19-07-2024
+PROD00539,Aashirvaad Premium Millets 1pc,Atta & Grains,Millets,Aashirvaad,335.74,269.89,19.61,100g,In Stock,304,,4.6,1670,1,25-08-2025
+PROD00540,Heritage Fresh Paneer 2L,Dairy & Eggs,Paneer,Heritage,46.15,40.77,11.65,6pcs,In Stock,211,23-12-2026,4.7,1327,1,09-09-2025
+PROD00541,Daawat Organic Pulses 200ml,Atta & Grains,Pulses,Daawat,400.08,346.2,13.47,500g,In Stock,469,,3.2,1478,1,02-01-2026
+PROD00542,Pedigree Pet Food 1pc,Pet Care,Pet Food,Pedigree,585.97,496.16,15.33,250g,In Stock,390,,3.2,840,0,27-01-2026
+PROD00543,Daawat Premium Pulses 1L,Atta & Grains,Pulses,Daawat,383.5,338.28,11.79,10pcs,In Stock,248,,4.5,1456,1,18-07-2026
+PROD00544,Sunsilk Organic Sanitizer 5pcs,Personal Care,Sanitizer,Sunsilk,101.72,87.74,13.74,2kg,Out of Stock,0,,4.2,1074,1,14-02-2026
+PROD00545,Red Bull Organic Tea 2kg,Beverages,Tea,Red Bull,208.56,185.61,11,250ml,In Stock,197,,3.4,478,1,10-02-2026
+PROD00546,Dodla Premium Butter 500g,Dairy & Eggs,Butter,Dodla,181.11,159.03,12.19,2L,In Stock,459,27-11-2026,3.9,1281,1,18-12-2024
+PROD00547,Fortune Organic Sauces 5kg,Oil & Masalas,Sauces,Fortune,112.22,92.56,17.52,1pc,Low Stock,463,,4.6,470,1,26-04-2025
+PROD00548,Catch Organic Masalas 5kg,Oil & Masalas,Masalas,Catch,547.14,461.16,15.71,1pc,In Stock,353,,4.3,1808,1,17-06-2025
+PROD00549,Red Bull Premium Soft Drinks 250g,Beverages,Soft Drinks,Red Bull,174.88,146.53,16.21,12pcs,In Stock,225,,4.1,1507,1,10-09-2024
+PROD00550,Pepsi Fresh Coffee 250g,Beverages,Coffee,Pepsi,421.09,396.44,5.85,2L,In Stock,251,,4.5,1927,1,15-12-2025
+PROD00551,Rin Premium Detergent 500ml,Household,Detergent,Rin,508.74,423.69,16.72,200g,In Stock,477,,3.8,59,1,03-07-2026
+PROD00552,All Out Premium Detergent 500g,Household,Detergent,All Out,456.99,369.41,19.17,250g,In Stock,160,,3.4,805,1,31-03-2025
+PROD00553,Lux Fresh Skincare 5pcs,Personal Care,Skincare,Lux,294.18,270.46,8.06,500ml,In Stock,112,,4.7,1311,1,14-11-2025
+PROD00554,Dhara Fresh Sauces 500g,Oil & Masalas,Sauces,Dhara,418.48,351.56,15.99,1kg,Low Stock,425,,3.9,891,1,18-03-2025
+PROD00555,Local Farms Organic Organic Vegetables 2kg,Fruits & Vegetables,Organic Vegetables,Local Farms,299.43,268.18,10.44,2kg,In Stock,120,25-11-2026,3.1,233,1,07-05-2026
+PROD00556,Rin Detergent 250g,Household,Detergent,Rin,24.93,21.99,11.82,1kg,In Stock,443,,3.4,386,1,22-10-2024
+PROD00557,Amul Organic Milk 1kg,Dairy & Eggs,Milk,Amul,390.75,357.92,8.4,2kg,In Stock,122,06-12-2026,3.3,620,1,17-06-2026
+PROD00558,Local Farms Premium Fresh Fruits 12pcs,Fruits & Vegetables,Fresh Fruits,Local Farms,256.23,207.08,19.18,250ml,Low Stock,393,16-09-2026,4.3,1864,1,15-08-2025
+PROD00559,All Out Premium Cleaning Supplies 5kg,Household,Cleaning Supplies,All Out,570.13,481.29,15.58,500ml,In Stock,248,,3.6,1281,1,15-03-2025
+PROD00560,Fortune Premium Wheat Flour 2kg,Atta & Grains,Wheat Flour,Fortune,178.15,165.44,7.14,100ml,Low Stock,214,,4.7,149,1,17-12-2025
+PROD00561,Dove Soap 250g,Personal Care,Soap,Dove,314.7,281.28,10.62,2L,In Stock,497,,4,1968,1,31-05-2025
+PROD00562,MDH Fresh Ghee 100g,Oil & Masalas,Ghee,MDH,511.83,427.59,16.46,12pcs,In Stock,157,,3.4,1428,0,28-03-2025
+PROD00563,Drools Pet Accessories 200ml,Pet Care,Pet Accessories,Drools,182.18,169.83,6.78,10pcs,Out of Stock,0,,3.3,412,1,26-05-2025
+PROD00564,Rin Fresh Mosquito Repellent 1kg,Household,Mosquito Repellent,Rin,391.06,358.67,8.28,250ml,In Stock,181,,4.2,1988,1,10-01-2026
+PROD00565,Nestle Namkeen 250ml,Snacks & Munchies,Namkeen,Nestle,360.12,290.7,19.28,1L,In Stock,367,,3.4,227,1,04-03-2025
+PROD00566,Rin Organic Cleaning Supplies 5pcs,Household,Cleaning Supplies,Rin,30.51,28.25,7.39,5kg,In Stock,441,,3.2,888,1,21-09-2025
+PROD00567,Daawat Fresh Rice 6pcs,Atta & Grains,Rice,Daawat,375.12,331.08,11.74,12pcs,Out of Stock,0,,4.4,913,1,24-10-2024
+PROD00568,Harvest Gold Premium Rusk 6pcs,Bakery & Bread,Rusk,Harvest Gold,49.36,40.75,17.45,250ml,Out of Stock,0,26-08-2026,4.2,771,1,09-06-2025
+PROD00569,Nescafe Health Drinks 100ml,Beverages,Health Drinks,Nescafe,288.28,237.21,17.71,250ml,In Stock,7,,4.3,1446,1,16-12-2025
+PROD00570,Harpic Organic Detergent 2kg,Household,Detergent,Harpic,335.33,278.16,17.05,10pcs,Low Stock,246,,4.2,1516,1,18-07-2026
+PROD00571,Whiskas Fresh Pet Accessories 1kg,Pet Care,Pet Accessories,Whiskas,207.29,196.16,5.37,2kg,In Stock,396,,4.8,35,1,08-05-2025
+PROD00572,Colgate Toothpaste 2L,Personal Care,Toothpaste,Colgate,472.76,386.25,18.3,2L,In Stock,259,,4.6,1162,1,26-12-2025
+PROD00573,24 Mantra Organic Spices 5kg,Atta & Grains,Spices,24 Mantra,107.57,90.24,16.11,10pcs,In Stock,305,,4.2,966,1,19-02-2026
+PROD00574,Huggies Premium Baby Oil 200g,Baby Care,Baby Oil,Huggies,344.35,326.94,5.05,100ml,In Stock,484,,4.4,642,0,19-06-2026
+PROD00575,Pepsi Fresh Tea 500ml,Beverages,Tea,Pepsi,427.11,356.56,16.52,100ml,In Stock,179,,4.5,1674,1,30-11-2024
+PROD00576,24 Mantra Pulses 5pcs,Atta & Grains,Pulses,24 Mantra,160.37,128.34,19.97,500g,In Stock,35,,4.5,547,1,08-11-2025
+PROD00577,Tropicana Fresh Health Drinks 250ml,Beverages,Health Drinks,Tropicana,178.94,143.5,19.8,5pcs,In Stock,48,,4.1,82,1,03-10-2025
+PROD00578,Saffola Fresh Cooking Oil 500g,Oil & Masalas,Cooking Oil,Saffola,540.63,483.7,10.53,1pc,In Stock,154,,4.4,252,1,08-03-2025
+PROD00579,Harvest Gold Organic Buns 250g,Bakery & Bread,Buns,Harvest Gold,166.2,143.98,13.37,250ml,In Stock,157,06-10-2026,4.9,525,1,16-09-2025
+PROD00580,MTR Fresh Spices 100g,Atta & Grains,Spices,MTR,138.19,120.29,12.95,500g,In Stock,67,,3.1,1441,1,26-04-2026
+PROD00581,Ghadi Organic Air Fresheners 6pcs,Household,Air Fresheners,Ghadi,511.8,469.09,8.35,1L,In Stock,462,,3.6,308,1,18-07-2024
+PROD00582,Pampers Baby Wipes 10pcs,Baby Care,Baby Wipes,Pampers,446.96,388.3,13.12,1pc,In Stock,77,,4.1,224,1,11-03-2025
+PROD00583,Harpic Detergent 2kg,Household,Detergent,Harpic,344.59,295.21,14.33,5pcs,In Stock,167,,4,885,1,25-02-2025
+PROD00584,Coca Cola Soft Drinks 200g,Beverages,Soft Drinks,Coca Cola,101.73,94.37,7.24,250ml,In Stock,56,,4.9,285,1,28-12-2024
+PROD00585,Rin Premium Cleaning Supplies 5kg,Household,Cleaning Supplies,Rin,570.76,478.71,16.13,250g,In Stock,26,,3.7,921,1,16-06-2025
+PROD00586,Mother Dairy Organic Butter 1pc,Dairy & Eggs,Butter,Mother Dairy,260.1,241.2,7.27,10pcs,In Stock,313,19-12-2026,3.4,1471,1,11-10-2025
+PROD00587,Nandini Fresh Eggs 5pcs,Dairy & Eggs,Eggs,Nandini,115.67,99.03,14.39,250ml,In Stock,315,14-11-2026,4.7,1351,1,08-12-2025
+PROD00588,Eastern Premium Masalas 5pcs,Oil & Masalas,Masalas,Eastern,267.41,223.28,16.5,200ml,In Stock,264,,3.5,1266,1,25-03-2025
+PROD00589,Tropicana Organic Coffee 250g,Beverages,Coffee,Tropicana,335.77,299.63,10.76,5kg,In Stock,416,,4.9,1299,1,14-07-2025
+PROD00590,Mother Dairy Butter 2kg,Dairy & Eggs,Butter,Mother Dairy,448.73,379.39,15.45,200ml,In Stock,323,13-10-2026,4.2,860,0,26-06-2025
+PROD00591,Real Fresh Energy Drinks 250g,Beverages,Energy Drinks,Real,504.93,415.45,17.72,100ml,In Stock,150,,4.6,251,1,24-12-2025
+PROD00592,Nandini Organic Curd/Yogurt 100g,Dairy & Eggs,Curd/Yogurt,Nandini,131.38,120.63,8.18,200ml,Low Stock,296,30-08-2026,3.1,1524,1,19-08-2025
+PROD00593,Local Farms Fresh Vegetables 1kg,Fruits & Vegetables,Fresh Vegetables,Local Farms,356.67,302.6,15.16,500ml,Low Stock,435,19-10-2026,3.9,1703,1,26-03-2026
+PROD00594,Fortune Premium Rice 200ml,Atta & Grains,Rice,Fortune,354.44,327.47,7.61,500g,In Stock,319,,3.9,684,1,17-06-2026
+PROD00595,Pringles Premium Dry Fruits 200g,Snacks & Munchies,Dry Fruits,Pringles,494.43,427.78,13.48,500ml,In Stock,270,,3.7,1619,1,28-03-2026
+PROD00596,Cadbury Fresh Dry Fruits 200ml,Snacks & Munchies,Dry Fruits,Cadbury,471.39,421.03,10.68,1pc,In Stock,197,,4.7,1641,0,09-02-2026
+PROD00597,Gerber Organic Baby Wipes 1kg,Baby Care,Baby Wipes,Gerber,159.31,148.07,7.06,6pcs,In Stock,360,,3.1,1609,1,26-11-2024
+PROD00598,Whiskas Pet Food 2kg,Pet Care,Pet Food,Whiskas,410.99,343.07,16.53,12pcs,In Stock,141,,3.2,1177,1,11-12-2025
+PROD00599,Drools Premium Pet Accessories 5kg,Pet Care,Pet Accessories,Drools,239.86,196.07,18.26,1L,In Stock,331,,4.3,1807,1,21-09-2024
+PROD00600,Rin Fresh Detergent 100ml,Household,Detergent,Rin,226.09,198.25,12.31,250ml,In Stock,227,,4.3,153,1,23-02-2025
+PROD00601,Mother Dairy Curd/Yogurt 250g,Dairy & Eggs,Curd/Yogurt,Mother Dairy,166.69,147.21,11.69,500g,In Stock,113,28-10-2026,3.5,414,0,15-12-2025
+PROD00602,Pampers Diapers 10pcs,Baby Care,Diapers,Pampers,216.33,176.96,18.2,250ml,In Stock,363,,4.3,1489,0,21-11-2025
+PROD00603,Nestle Baby Food 250ml,Baby Care,Baby Food,Nestle,70.91,61.63,13.09,2kg,In Stock,182,,3.3,913,1,10-11-2025
+PROD00604,Dhara Organic Sauces 2kg,Oil & Masalas,Sauces,Dhara,261.3,247.85,5.15,6pcs,In Stock,218,,4.7,1223,1,04-04-2025
+PROD00605,Organic India Premium Fresh Fruits 250ml,Fruits & Vegetables,Fresh Fruits,Organic India,287.3,236.58,17.65,100ml,In Stock,471,07-08-2026,3.2,423,1,14-04-2026
+PROD00606,Local Farms Organic Fresh Fruits 12pcs,Fruits & Vegetables,Fresh Fruits,Local Farms,402.4,376.59,6.42,10pcs,Low Stock,497,12-12-2026,3.9,794,1,16-01-2025
+PROD00607,Amul Paneer 6pcs,Dairy & Eggs,Paneer,Amul,356.11,300.13,15.72,10pcs,In Stock,33,27-11-2026,3,1778,1,16-03-2025
+PROD00608,Cadbury Dry Fruits 200ml,Snacks & Munchies,Dry Fruits,Cadbury,255.57,214.18,16.19,200ml,In Stock,483,,3.7,952,1,08-01-2025
+PROD00609,Harpic Premium Air Fresheners 200g,Household,Air Fresheners,Harpic,220.69,186.21,15.62,1L,In Stock,407,,4.1,633,1,05-04-2026
+PROD00610,Colin Premium Detergent 2L,Household,Detergent,Colin,92.8,83.89,9.61,2L,In Stock,292,,3.1,1735,1,19-12-2024
+PROD00611,Nescafe Juices 1pc,Beverages,Juices,Nescafe,330.18,295.09,10.63,200ml,In Stock,290,,4.7,1958,0,09-11-2024
+PROD00612,Local Farms Premium Fresh Fruits 200g,Fruits & Vegetables,Fresh Fruits,Local Farms,371.01,314.68,15.18,250g,In Stock,24,24-07-2026,4.2,1875,1,22-08-2024
+PROD00613,Patanjali Organic Shampoo 5kg,Personal Care,Shampoo,Patanjali,362.18,308.44,14.84,250g,In Stock,489,,3.9,467,1,24-01-2025
+PROD00614,Colin Detergent 200ml,Household,Detergent,Colin,342.24,294.57,13.93,1kg,In Stock,339,,4.5,326,1,22-07-2025
+PROD00615,Everest Premium Cooking Oil 200ml,Oil & Masalas,Cooking Oil,Everest,294.34,255.94,13.04,1L,In Stock,413,,3.9,249,1,04-11-2025
+PROD00616,Harvest Gold Premium Pastries 6pcs,Bakery & Bread,Pastries,Harvest Gold,101.9,90.56,11.13,2kg,In Stock,29,01-01-2027,4.6,200,1,06-03-2026
+PROD00617,Fresho Premium Organic Vegetables 200g,Fruits & Vegetables,Organic Vegetables,Fresho,47.82,38.27,19.98,12pcs,In Stock,196,03-08-2026,3.1,30,0,06-07-2025
+PROD00618,Purepet Fresh Pet Food 500g,Pet Care,Pet Food,Purepet,422.19,396.7,6.04,1kg,In Stock,7,,4.8,211,1,04-06-2025
+PROD00619,Purepet Premium Pet Food 100g,Pet Care,Pet Food,Purepet,29.88,28.34,5.14,1L,In Stock,399,,3.8,984,1,06-06-2026
+PROD00620,Lays Chips 200ml,Snacks & Munchies,Chips,Lays,107.3,97.92,8.74,1kg,Out of Stock,0,,3,769,0,19-11-2025
+PROD00621,Nestle Fresh Baby Food 500g,Baby Care,Baby Food,Nestle,437.6,408.16,6.73,500g,In Stock,325,,3.4,1957,0,08-10-2025
+PROD00622,Saffola Pickles 500ml,Oil & Masalas,Pickles,Saffola,227.97,186.82,18.05,1pc,In Stock,287,,3.5,488,1,16-12-2024
+PROD00623,English Oven Premium Buns 200g,Bakery & Bread,Buns,English Oven,109.41,91.19,16.65,1kg,In Stock,409,06-12-2026,4.8,80,1,09-01-2026
+PROD00624,Pepsi Organic Tea 1L,Beverages,Tea,Pepsi,414.8,348.23,16.05,2kg,In Stock,295,,4.6,562,1,12-05-2025
+PROD00625,Country Delight Fresh Organic Vegetables 5pcs,Fruits & Vegetables,Organic Vegetables,Country Delight,160.16,142.63,10.95,200ml,In Stock,10,23-10-2026,4.6,1926,0,24-05-2025
+PROD00626,Dhara Fresh Cooking Oil 500g,Oil & Masalas,Cooking Oil,Dhara,222.94,206.99,7.15,250g,In Stock,60,,3.1,1421,1,23-01-2025
+PROD00627,Head & Shoulders Soap 500ml,Personal Care,Soap,Head & Shoulders,191.62,177.73,7.25,500g,Out of Stock,0,,3.8,1923,1,09-11-2024
+PROD00628,Head & Shoulders Toothpaste 2kg,Personal Care,Toothpaste,Head & Shoulders,244.26,200.22,18.03,5pcs,In Stock,44,,4,970,1,09-12-2025
+PROD00629,MTR Premium Spices 500g,Atta & Grains,Spices,MTR,108.51,90.51,16.59,100ml,Out of Stock,0,,3.8,1578,1,03-01-2026
+PROD00630,Pampers Organic Baby Wipes 100ml,Baby Care,Baby Wipes,Pampers,51.41,45.68,11.13,5pcs,In Stock,5,,4.9,115,1,22-07-2024
+PROD00631,Lux Premium Soap 6pcs,Personal Care,Soap,Lux,511.58,440.74,13.85,12pcs,In Stock,48,,3.4,875,1,11-06-2026
+PROD00632,Tropicana Fresh Soft Drinks 1L,Beverages,Soft Drinks,Tropicana,61.46,54.86,10.74,250ml,In Stock,129,,3.8,1996,1,21-02-2026
+PROD00633,Nandini Premium Cream 100ml,Dairy & Eggs,Cream,Nandini,50.19,47.68,5,5kg,In Stock,209,03-01-2027,4.1,586,1,08-03-2026
+PROD00634,Pedigree Premium Pet Accessories 12pcs,Pet Care,Pet Accessories,Pedigree,270.95,233.94,13.66,200g,In Stock,141,,4.3,1334,0,05-06-2026
+PROD00635,Red Bull Coffee 500ml,Beverages,Coffee,Red Bull,56.68,45.74,19.29,2L,Low Stock,294,,4.6,1265,0,08-10-2024
+PROD00636,Fortune Millets 100ml,Atta & Grains,Millets,Fortune,51.33,48.34,5.83,100g,In Stock,493,,3.4,927,1,14-03-2026
+PROD00637,Ghadi Premium Cleaning Supplies 500g,Household,Cleaning Supplies,Ghadi,515.27,471.14,8.56,200g,In Stock,361,,4.2,853,1,13-06-2025
+PROD00638,Harvest Gold Rusk 250g,Bakery & Bread,Rusk,Harvest Gold,474.89,446.07,6.07,12pcs,Low Stock,22,31-08-2026,4.5,1784,1,01-12-2024
+PROD00639,Gerber Organic Baby Wipes 1kg,Baby Care,Baby Wipes,Gerber,245.64,231.35,5.82,2L,In Stock,44,,3.1,1468,1,03-04-2026
+PROD00640,Mother Dairy Paneer 1L,Dairy & Eggs,Paneer,Mother Dairy,114.99,104.31,9.29,5kg,In Stock,487,02-12-2026,4.6,1893,0,24-08-2025
+PROD00641,24 Mantra Fresh Spices 500ml,Atta & Grains,Spices,24 Mantra,178.56,159.3,10.79,100g,In Stock,277,,3.9,1436,1,13-07-2025
+PROD00642,Amul Organic Curd/Yogurt 200g,Dairy & Eggs,Curd/Yogurt,Amul,393.63,346.7,11.92,6pcs,In Stock,480,29-07-2026,4.9,1217,0,23-09-2025
+PROD00643,Harpic Organic Detergent 500g,Household,Detergent,Harpic,410.19,378.58,7.7,1kg,In Stock,96,,3.1,530,1,27-01-2025
+PROD00644,Purepet Pet Food 250g,Pet Care,Pet Food,Purepet,515.01,454.19,11.81,1pc,In Stock,498,,3.5,1958,0,30-06-2026
+PROD00645,Nestle Fresh Chips 1pc,Snacks & Munchies,Chips,Nestle,236.32,207.72,12.1,1L,In Stock,135,,4.7,1636,1,07-05-2026
+PROD00646,Eastern Organic Masalas 250ml,Oil & Masalas,Masalas,Eastern,218.93,190.52,12.98,1L,In Stock,172,,4.2,231,1,20-10-2024
+PROD00647,Colin Fresh Cleaning Supplies 100g,Household,Cleaning Supplies,Colin,331.43,293.19,11.54,12pcs,In Stock,313,,3,744,0,07-07-2025
+PROD00648,Colin Fresh Cleaning Supplies 2L,Household,Cleaning Supplies,Colin,466.23,406.1,12.9,250g,In Stock,430,,4.4,921,1,29-10-2024
+PROD00649,Purepet Premium Pet Food 500ml,Pet Care,Pet Food,Purepet,448.96,368.92,17.83,500ml,Out of Stock,0,,3.2,1575,0,01-04-2026
+PROD00650,Heritage Eggs 500g,Dairy & Eggs,Eggs,Heritage,270.28,233.33,13.67,10pcs,In Stock,256,18-10-2026,3.3,1589,1,18-12-2025
+PROD00651,Daawat Organic Pulses 250ml,Atta & Grains,Pulses,Daawat,88.7,84.04,5.26,1pc,In Stock,94,,3.3,1714,1,03-09-2025
+PROD00652,Drools Organic Pet Accessories 2kg,Pet Care,Pet Accessories,Drools,545.04,476.98,12.49,500g,In Stock,123,,4.4,416,1,25-09-2025
+PROD00653,Pears Fresh Sanitizer 10pcs,Personal Care,Sanitizer,Pears,265.2,227.51,14.21,200ml,In Stock,19,,3.7,1748,1,23-10-2025
+PROD00654,Tata Tea Fresh Juices 100g,Beverages,Juices,Tata Tea,41.83,39.7,5.1,1kg,In Stock,457,,4.7,506,0,21-03-2025
+PROD00655,Red Bull Organic Health Drinks 1L,Beverages,Health Drinks,Red Bull,359.11,335.49,6.58,12pcs,In Stock,216,,3.3,1002,1,24-02-2026
+PROD00656,Whiskas Pet Food 6pcs,Pet Care,Pet Food,Whiskas,461.85,413.84,10.4,10pcs,Low Stock,60,,3.6,1478,1,10-06-2026
+PROD00657,Red Bull Tea 2L,Beverages,Tea,Red Bull,66.41,61.08,8.04,200g,Low Stock,484,,3.2,1764,1,26-06-2025
+PROD00658,Nestle Premium Candies 250g,Snacks & Munchies,Candies,Nestle,459.51,426.92,7.09,6pcs,In Stock,284,,3.9,1708,0,05-11-2025
+PROD00659,24 Mantra Premium Pulses 100g,Atta & Grains,Pulses,24 Mantra,170.37,141.3,17.06,10pcs,In Stock,134,,4.3,1710,1,12-04-2026
+PROD00660,Tropicana Organic Coffee 5kg,Beverages,Coffee,Tropicana,319.53,281.53,11.89,5pcs,In Stock,326,,4.2,69,1,27-01-2026
+PROD00661,Fortune Pulses 2kg,Atta & Grains,Pulses,Fortune,475.89,395.75,16.84,6pcs,In Stock,205,,4.3,1626,1,10-06-2026
+PROD00662,Purepet Fresh Pet Accessories 12pcs,Pet Care,Pet Accessories,Purepet,462.35,378.51,18.13,2L,In Stock,361,,4.1,1900,1,14-08-2025
+PROD00663,Nestle Organic Chips 100g,Snacks & Munchies,Chips,Nestle,425.16,346.04,18.61,1L,In Stock,458,,4.6,311,0,14-06-2025
+PROD00664,Eastern Premium Cooking Oil 5kg,Oil & Masalas,Cooking Oil,Eastern,479.5,449.74,6.21,200ml,In Stock,407,,4.1,265,1,24-04-2026
+PROD00665,Fresho Organic Organic Vegetables 2kg,Fruits & Vegetables,Organic Vegetables,Fresho,326.55,289.39,11.38,250g,In Stock,352,12-01-2027,4.5,1511,0,16-09-2025
+PROD00666,Heritage Premium Butter 250ml,Dairy & Eggs,Butter,Heritage,426.42,384.78,9.76,5kg,In Stock,490,14-10-2026,4.2,88,1,14-06-2026
+PROD00667,Coca Cola Fresh Soft Drinks 200g,Beverages,Soft Drinks,Coca Cola,80.76,73.59,8.89,200ml,In Stock,223,,3.8,1936,1,18-11-2024
+PROD00668,Eastern Sauces 2kg,Oil & Masalas,Sauces,Eastern,553.3,448.83,18.88,500ml,In Stock,202,,3.3,1678,1,15-02-2026
+PROD00669,Aashirvaad Premium Millets 10pcs,Atta & Grains,Millets,Aashirvaad,442.4,392.78,11.22,2kg,In Stock,412,,5,265,1,18-05-2026
+PROD00670,Harvest Gold Bread 5kg,Bakery & Bread,Bread,Harvest Gold,396.46,342.76,13.54,1kg,In Stock,433,20-10-2026,4.5,1556,1,02-07-2025
+PROD00671,Daawat Fresh Rice 2kg,Atta & Grains,Rice,Daawat,142.47,120.29,15.57,500g,In Stock,176,,3.6,1923,1,04-02-2025
+PROD00672,Johnson & Johnson Fresh Baby Oil 1L,Baby Care,Baby Oil,Johnson & Johnson,293.77,256.87,12.56,100ml,In Stock,426,,4.4,1468,1,21-02-2026
+PROD00673,MTR Premium Rice 500ml,Atta & Grains,Rice,MTR,314.59,271.66,13.65,200g,In Stock,271,,4.1,1859,1,26-01-2025
+PROD00674,Catch Cooking Oil 12pcs,Oil & Masalas,Cooking Oil,Catch,171.02,146.02,14.61,1L,Out of Stock,0,,4.5,550,1,01-05-2026
+PROD00675,Surf Excel Cleaning Supplies 5pcs,Household,Cleaning Supplies,Surf Excel,532.43,437.7,17.79,5pcs,In Stock,226,,4.2,1528,1,25-11-2025
+PROD00676,Local Farms Organic Vegetables 200ml,Fruits & Vegetables,Organic Vegetables,Local Farms,129.61,108.04,16.64,500g,In Stock,114,11-09-2026,4.1,1442,1,04-03-2026
+PROD00677,Daawat Premium Pulses 100g,Atta & Grains,Pulses,Daawat,283.36,237.59,16.15,100g,Low Stock,198,,4.1,943,1,14-03-2026
+PROD00678,Whiskas Organic Pet Accessories 250g,Pet Care,Pet Accessories,Whiskas,193.42,177.05,8.47,5pcs,In Stock,359,,3.8,153,1,26-08-2025
+PROD00679,Fortune Organic Sauces 10pcs,Oil & Masalas,Sauces,Fortune,460.13,385.16,16.29,5pcs,In Stock,335,,3.5,606,1,29-07-2025
+PROD00680,Haldiram Fresh Namkeen 100g,Snacks & Munchies,Namkeen,Haldiram,380.54,306.13,19.55,5kg,In Stock,190,,4.7,1034,0,16-11-2025
+PROD00681,Fortune Fresh Pulses 5kg,Atta & Grains,Pulses,Fortune,36.98,32.93,10.95,5pcs,In Stock,352,,3.6,794,1,19-01-2025
+PROD00682,English Oven Buns 200ml,Bakery & Bread,Buns,English Oven,165.46,137.71,16.77,500g,Out of Stock,0,11-09-2026,4.6,391,0,24-06-2025
+PROD00683,Saffola Premium Sauces 100ml,Oil & Masalas,Sauces,Saffola,441.25,388.58,11.94,250ml,Out of Stock,0,,3.2,1991,1,16-09-2024
+PROD00684,Drools Fresh Pet Food 6pcs,Pet Care,Pet Food,Drools,262.52,243.89,7.1,6pcs,Out of Stock,0,,4.2,461,0,23-01-2026
+PROD00685,Whiskas Fresh Pet Accessories 1kg,Pet Care,Pet Accessories,Whiskas,91.25,84.51,7.38,5pcs,In Stock,83,,4.6,1005,1,24-02-2025
+PROD00686,Pears Sanitizer 1pc,Personal Care,Sanitizer,Pears,307.68,263.72,14.29,1pc,In Stock,75,,4.5,834,1,16-01-2025
+PROD00687,MTR Millets 1kg,Atta & Grains,Millets,MTR,179.8,162.69,9.51,1L,Low Stock,36,,3,390,1,14-02-2025
+PROD00688,Surf Excel Premium Detergent 1kg,Household,Detergent,Surf Excel,375.6,329.37,12.31,1kg,In Stock,342,,3.8,700,1,04-04-2025
+PROD00689,Parle Fresh Candies 500g,Snacks & Munchies,Candies,Parle,266.36,251.64,5.53,200g,In Stock,360,,3.7,162,1,23-03-2025
+PROD00690,Fortune Cooking Oil 10pcs,Oil & Masalas,Cooking Oil,Fortune,303.2,270.73,10.71,250ml,In Stock,363,,3.5,288,1,11-06-2026
+PROD00691,Patanjali Premium Soap 100ml,Personal Care,Soap,Patanjali,31.01,28.35,8.58,5kg,Out of Stock,0,,3.2,1307,1,10-09-2025
+PROD00692,Nestle Premium Baby Wipes 12pcs,Baby Care,Baby Wipes,Nestle,94.79,78.96,16.7,250g,In Stock,474,,3.4,75,0,18-09-2024
+PROD00693,Huggies Fresh Baby Oil 1pc,Baby Care,Baby Oil,Huggies,292.45,245.98,15.89,100ml,In Stock,106,,4.4,1712,0,02-11-2024
+PROD00694,Daawat Rice 6pcs,Atta & Grains,Rice,Daawat,189.86,179.53,5.44,200ml,In Stock,99,,3.8,1550,1,12-11-2024
+PROD00695,Good Knight Premium Cleaning Supplies 1L,Household,Cleaning Supplies,Good Knight,519.7,428.8,17.49,10pcs,In Stock,114,,4.1,1660,0,13-01-2025
+PROD00696,Pringles Fresh Chocolates 12pcs,Snacks & Munchies,Chocolates,Pringles,227.37,192.86,15.18,100g,In Stock,324,,3.4,939,1,11-05-2025
+PROD00697,Fortune Wheat Flour 1kg,Atta & Grains,Wheat Flour,Fortune,205.35,166.64,18.85,100ml,Out of Stock,0,,3.3,185,1,08-01-2026
+PROD00698,English Oven Fresh Cakes 500g,Bakery & Bread,Cakes,English Oven,97.44,83.65,14.15,500ml,In Stock,190,18-08-2026,3.9,514,0,17-01-2026
+PROD00699,Drools Organic Pet Accessories 1kg,Pet Care,Pet Accessories,Drools,515.21,459.46,10.82,6pcs,In Stock,270,,3.4,1699,1,31-12-2024
+PROD00700,Real Organic Juices 250g,Beverages,Juices,Real,102.47,96.37,5.96,5pcs,In Stock,127,,4.3,1861,0,05-09-2024
+PROD00701,Mother Dairy Fresh Cream 250ml,Dairy & Eggs,Cream,Mother Dairy,248.51,235.64,5.18,200g,In Stock,446,08-10-2026,4.9,1953,1,30-05-2025
+PROD00702,Dhara Fresh Cooking Oil 10pcs,Oil & Masalas,Cooking Oil,Dhara,507.76,423.2,16.65,12pcs,In Stock,462,,3.4,458,1,01-04-2025
+PROD00703,MTR Premium Pulses 500ml,Atta & Grains,Pulses,MTR,162.76,135.46,16.78,250g,Low Stock,295,,3.2,80,1,12-09-2025
+PROD00704,Bonnie Premium Buns 500g,Bakery & Bread,Buns,Bonnie,109.19,98.06,10.19,200g,In Stock,331,18-10-2026,3.3,1859,1,05-06-2025
+PROD00705,Harvest Gold Fresh Buns 6pcs,Bakery & Bread,Buns,Harvest Gold,126.72,118.2,6.72,500g,Low Stock,132,01-08-2026,4.9,1863,1,25-12-2024
+PROD00706,Cadbury Chocolates 500ml,Snacks & Munchies,Chocolates,Cadbury,244.1,195.62,19.86,250ml,In Stock,224,,3.5,288,1,25-04-2026
+PROD00707,Colgate Toothpaste 500ml,Personal Care,Toothpaste,Colgate,247.35,220.01,11.05,2kg,In Stock,60,,4.7,778,1,09-06-2025
+PROD00708,Gerber Fresh Baby Oil 250g,Baby Care,Baby Oil,Gerber,540.21,477.45,11.62,500ml,In Stock,484,,4.3,137,1,16-05-2025
+PROD00709,Ghadi Fresh Cleaning Supplies 250ml,Household,Cleaning Supplies,Ghadi,118.67,97.61,17.75,12pcs,In Stock,349,,3.4,1740,1,20-06-2026
+PROD00710,Gerber Fresh Diapers 500ml,Baby Care,Diapers,Gerber,44.81,37.03,17.36,12pcs,In Stock,87,,3.6,61,0,07-03-2026
+PROD00711,English Oven Organic Bread 2kg,Bakery & Bread,Bread,English Oven,24.8,22.62,8.79,100g,In Stock,183,10-11-2026,4.4,1890,1,09-01-2026
+PROD00712,Huggies Organic Diapers 5kg,Baby Care,Diapers,Huggies,314.99,265.41,15.74,1kg,In Stock,448,,4.6,250,1,02-08-2024
+PROD00713,Country Delight Fresh Fruits 1pc,Fruits & Vegetables,Fresh Fruits,Country Delight,164.65,141.71,13.93,2L,Low Stock,152,02-01-2027,3,278,1,02-06-2026
+PROD00714,Bonnie Organic Pastries 250g,Bakery & Bread,Pastries,Bonnie,413.22,356.6,13.7,100ml,In Stock,87,15-12-2026,4.1,1082,1,08-10-2025
+PROD00715,Fresho Organic Organic Vegetables 5pcs,Fruits & Vegetables,Organic Vegetables,Fresho,347.68,326,6.23,200ml,Out of Stock,0,01-10-2026,3.7,1277,1,23-07-2025
+PROD00716,Dodla Milk 1pc,Dairy & Eggs,Milk,Dodla,589.91,477.76,19.01,2kg,In Stock,347,21-07-2026,4.3,1500,1,17-04-2025
+PROD00717,Fortune Premium Ghee 200ml,Oil & Masalas,Ghee,Fortune,412.24,389.12,5.61,10pcs,In Stock,64,,3.8,1528,1,06-03-2025
+PROD00718,Whiskas Organic Pet Accessories 250g,Pet Care,Pet Accessories,Whiskas,275.8,258.15,6.4,10pcs,In Stock,335,,4.5,286,1,23-02-2026
+PROD00719,Brooke Bond Premium Energy Drinks 1kg,Beverages,Energy Drinks,Brooke Bond,10.87,10.03,7.76,1kg,In Stock,169,,4,163,1,16-05-2025
+PROD00720,Sunsilk Organic Skincare 250g,Personal Care,Skincare,Sunsilk,210.59,176.87,16.01,500g,In Stock,147,,4,1634,1,11-05-2026
+PROD00721,Patanjali Fresh Sanitizer 10pcs,Personal Care,Sanitizer,Patanjali,72.03,60.55,15.93,5pcs,In Stock,227,,4.2,401,1,10-06-2026
+PROD00722,24 Mantra Fresh Pulses 100ml,Atta & Grains,Pulses,24 Mantra,85.58,79.23,7.43,200g,In Stock,464,,3.4,808,0,28-04-2026
+PROD00723,Dhara Premium Sauces 500g,Oil & Masalas,Sauces,Dhara,473.16,410.82,13.18,5pcs,In Stock,164,,4.2,1939,1,08-06-2025
+PROD00724,Pepsi Fresh Health Drinks 6pcs,Beverages,Health Drinks,Pepsi,352.23,297.94,15.41,250g,In Stock,433,,3.8,183,1,09-09-2025
+PROD00725,Eastern Organic Ghee 200ml,Oil & Masalas,Ghee,Eastern,54.07,46.46,14.07,1L,In Stock,205,,3.1,656,1,18-02-2026
+PROD00726,Aashirvaad Fresh Rice 10pcs,Atta & Grains,Rice,Aashirvaad,171.5,150.18,12.43,6pcs,In Stock,390,,4.3,1090,1,08-02-2026
+PROD00727,Lays Namkeen 1kg,Snacks & Munchies,Namkeen,Lays,430.71,381,11.54,10pcs,Out of Stock,0,,4.4,1393,1,15-09-2025
+PROD00728,Colgate Premium Skincare 500g,Personal Care,Skincare,Colgate,358.71,299.3,16.56,250ml,In Stock,247,,4.8,1195,1,31-03-2026
+PROD00729,Windsor Premium Pastries 1pc,Bakery & Bread,Pastries,Windsor,595.97,495.5,16.86,5pcs,In Stock,160,14-11-2026,4.6,1903,1,15-06-2026
+PROD00730,Whiskas Fresh Pet Accessories 2kg,Pet Care,Pet Accessories,Whiskas,420.35,363.85,13.44,5pcs,In Stock,133,,4.5,1189,1,05-01-2025
+PROD00731,Nestle Fresh Diapers 1kg,Baby Care,Diapers,Nestle,99.15,91.45,7.76,200g,In Stock,464,,3.7,1579,1,01-08-2025
+PROD00732,English Oven Pastries 200g,Bakery & Bread,Pastries,English Oven,57.25,50.31,12.13,6pcs,In Stock,246,31-08-2026,3.9,833,1,14-02-2025
+PROD00733,Bonnie Organic Rusk 1kg,Bakery & Bread,Rusk,Bonnie,516.24,461.73,10.56,5kg,In Stock,104,12-10-2026,3.2,374,0,30-07-2025
+PROD00734,Colin Air Fresheners 500g,Household,Air Fresheners,Colin,210.94,191.48,9.23,1kg,In Stock,493,,4.8,1052,1,09-08-2024
+PROD00735,Britannia Fresh Pastries 5kg,Bakery & Bread,Pastries,Britannia,327.42,280.76,14.25,2L,In Stock,93,03-10-2026,4.9,227,1,05-04-2025
+PROD00736,Britannia Organic Pastries 2kg,Bakery & Bread,Pastries,Britannia,345.45,319.61,7.48,250ml,Out of Stock,0,26-11-2026,4.2,36,1,27-12-2025
+PROD00737,Fortune Organic Pulses 500ml,Atta & Grains,Pulses,Fortune,324.1,271.07,16.36,10pcs,In Stock,306,,4,600,1,29-03-2026
+PROD00738,Nestle Fresh Baby Food 500ml,Baby Care,Baby Food,Nestle,126.59,118.14,6.67,10pcs,In Stock,382,,3.5,1234,1,28-05-2025
+PROD00739,Dove Sanitizer 10pcs,Personal Care,Sanitizer,Dove,191.83,159.32,16.95,200g,In Stock,226,,3.4,1005,1,31-01-2026
+PROD00740,Country Delight Fresh Exotic Fruits 250g,Fruits & Vegetables,Exotic Fruits,Country Delight,120.54,96.95,19.57,5kg,In Stock,395,21-08-2026,4.4,212,0,01-05-2026
+PROD00741,Local Farms Premium Organic Vegetables 10pcs,Fruits & Vegetables,Organic Vegetables,Local Farms,61.01,52.91,13.28,250g,In Stock,489,18-10-2026,4.7,967,1,02-07-2026
+PROD00742,24 Mantra Wheat Flour 5pcs,Atta & Grains,Wheat Flour,24 Mantra,273.04,255.94,6.26,500ml,Out of Stock,0,,4,753,1,25-10-2024
+PROD00743,Britannia Premium Rusk 500g,Bakery & Bread,Rusk,Britannia,48.09,39.93,16.97,6pcs,In Stock,415,17-11-2026,3.3,587,0,05-09-2025
+PROD00744,Whiskas Organic Pet Accessories 2L,Pet Care,Pet Accessories,Whiskas,336.92,270.68,19.66,100ml,In Stock,27,,3.6,341,1,07-08-2024
+PROD00745,Windsor Premium Pastries 12pcs,Bakery & Bread,Pastries,Windsor,134.59,107.97,19.78,6pcs,In Stock,251,12-01-2027,4.9,1366,1,20-05-2025
+PROD00746,Patanjali Soap 100ml,Personal Care,Soap,Patanjali,422.73,365.6,13.51,250g,In Stock,248,,5,555,1,20-10-2025
+PROD00747,Pringles Fresh Namkeen 500g,Snacks & Munchies,Namkeen,Pringles,85.62,79.08,7.64,100g,In Stock,164,,3.6,13,1,29-09-2025
+PROD00748,Real Organic Tea 100ml,Beverages,Tea,Real,218.67,181.1,17.18,200g,In Stock,477,,4.1,760,1,14-12-2025
+PROD00749,Lays Chips 6pcs,Snacks & Munchies,Chips,Lays,105.55,86.21,18.32,500g,In Stock,389,,3.8,1303,1,08-08-2024
+PROD00750,MDH Fresh Masalas 200g,Oil & Masalas,Masalas,MDH,65.99,61.12,7.38,1pc,In Stock,66,,5,554,0,21-09-2024
+PROD00751,Good Knight Fresh Detergent 250ml,Household,Detergent,Good Knight,285.71,254.99,10.75,5pcs,Out of Stock,0,,3.7,684,1,29-11-2025
+PROD00752,Colgate Skincare 1pc,Personal Care,Skincare,Colgate,393.31,369.57,6.04,100ml,In Stock,236,,4.8,1810,0,15-06-2025
+PROD00753,Whiskas Pet Food 1pc,Pet Care,Pet Food,Whiskas,504.49,431.32,14.5,500ml,In Stock,190,,3.1,1281,0,31-10-2024
+PROD00754,Bikaji Chips 100ml,Snacks & Munchies,Chips,Bikaji,374.78,301.69,19.5,10pcs,In Stock,307,,3.6,1581,1,22-05-2026
+PROD00755,Fortune Fresh Ghee 1pc,Oil & Masalas,Ghee,Fortune,109.37,99.47,9.05,1pc,In Stock,282,,3.5,142,1,11-07-2025
+PROD00756,Lux Soap 1pc,Personal Care,Soap,Lux,301.61,264.16,12.42,10pcs,In Stock,376,,3.1,142,1,06-12-2024
+PROD00757,Coca Cola Health Drinks 250ml,Beverages,Health Drinks,Coca Cola,127.44,117.61,7.71,100g,In Stock,42,,3.1,1254,0,26-08-2024
+PROD00758,Head & Shoulders Fresh Sanitizer 10pcs,Personal Care,Sanitizer,Head & Shoulders,419.93,396.03,5.69,100ml,In Stock,23,,3.7,556,1,05-02-2025
+PROD00759,Aashirvaad Organic Rice 500g,Atta & Grains,Rice,Aashirvaad,127.52,118.47,7.1,12pcs,In Stock,444,,4.6,1327,1,08-05-2025
+PROD00760,Harvest Gold Fresh Pastries 5pcs,Bakery & Bread,Pastries,Harvest Gold,186.2,173.14,7.02,10pcs,In Stock,287,21-09-2026,4.9,1189,0,29-12-2024
+PROD00761,Dodla Premium Butter 100g,Dairy & Eggs,Butter,Dodla,223.86,212.01,5.29,500g,In Stock,278,16-10-2026,3.6,1684,1,28-03-2025
+PROD00762,Windsor Fresh Rusk 5kg,Bakery & Bread,Rusk,Windsor,353.48,300.5,14.99,250ml,In Stock,374,23-09-2026,4,1457,1,01-03-2026
+PROD00763,Bonnie Organic Cakes 100g,Bakery & Bread,Cakes,Bonnie,343.53,327.11,4.78,2kg,In Stock,434,06-01-2027,4.2,345,0,08-05-2025
+PROD00764,Mother Dairy Eggs 12pcs,Dairy & Eggs,Eggs,Mother Dairy,122.26,100.56,17.75,10pcs,In Stock,336,12-09-2026,3.8,1472,0,22-02-2026
+PROD00765,Lays Dry Fruits 1pc,Snacks & Munchies,Dry Fruits,Lays,49.69,43.92,11.6,250g,Low Stock,181,,3,363,1,25-04-2026
+PROD00766,Bikaji Premium Chips 200ml,Snacks & Munchies,Chips,Bikaji,267.01,214.88,19.53,200ml,Low Stock,237,,3.7,1874,1,10-06-2025
+PROD00767,Pedigree Pet Food 1L,Pet Care,Pet Food,Pedigree,266.21,221.01,16.98,5pcs,In Stock,425,,3.6,1726,1,29-01-2025
+PROD00768,Milky Mist Milk 200ml,Dairy & Eggs,Milk,Milky Mist,149.95,141.25,5.8,250ml,In Stock,390,29-12-2026,3.7,1859,0,19-09-2024
+PROD00769,Good Knight Fresh Detergent 250ml,Household,Detergent,Good Knight,366.11,322.85,11.82,6pcs,In Stock,451,,3.5,1033,0,18-07-2025
+PROD00770,Purepet Premium Pet Food 6pcs,Pet Care,Pet Food,Purepet,526.25,494.02,6.13,10pcs,In Stock,338,,4.7,1110,1,02-08-2024
+PROD00771,Harpic Organic Air Fresheners 2kg,Household,Air Fresheners,Harpic,360.02,308.71,14.25,6pcs,Out of Stock,0,,3.6,122,1,19-02-2026
+PROD00772,Real Coffee 6pcs,Beverages,Coffee,Real,528.29,494.26,6.44,250ml,In Stock,141,,3.5,1453,1,09-09-2025
+PROD00773,Parle Namkeen 10pcs,Snacks & Munchies,Namkeen,Parle,557.52,477.27,14.39,1kg,Low Stock,173,,3.3,1721,1,27-08-2024
+PROD00774,Good Knight Fresh Detergent 2kg,Household,Detergent,Good Knight,352.82,313.94,11.02,5pcs,In Stock,174,,4.9,714,1,15-04-2025
+PROD00775,MTR Organic Millets 200g,Atta & Grains,Millets,MTR,95.25,83.75,12.08,100g,Out of Stock,0,,3.3,44,1,08-01-2025
+PROD00776,Johnson & Johnson Baby Food 12pcs,Baby Care,Baby Food,Johnson & Johnson,318.17,259.24,18.52,1kg,In Stock,279,,3.3,1988,1,04-12-2025
+PROD00777,Britannia Organic Rusk 500g,Bakery & Bread,Rusk,Britannia,21.65,17.69,18.26,500ml,In Stock,302,02-08-2026,4.3,1174,1,16-03-2026
+PROD00778,Tata Tea Premium Energy Drinks 500ml,Beverages,Energy Drinks,Tata Tea,436.65,365.38,16.32,1kg,In Stock,374,,4.6,1907,1,06-12-2025
+PROD00779,India Gate Premium Pulses 5kg,Atta & Grains,Pulses,India Gate,471.79,413.94,12.26,2kg,In Stock,245,,4.6,800,1,18-08-2024
+PROD00780,MDH Premium Masalas 100g,Oil & Masalas,Masalas,MDH,546.18,499.27,8.59,200ml,In Stock,420,,3.2,865,0,23-02-2026
+PROD00781,Lux Fresh Skincare 200g,Personal Care,Skincare,Lux,34.62,30.21,12.74,500g,In Stock,326,,4.5,1937,0,11-08-2024
+PROD00782,Catch Fresh Sauces 500ml,Oil & Masalas,Sauces,Catch,272.74,241.37,11.51,100ml,In Stock,228,,3.4,444,1,26-01-2025
+PROD00783,Purepet Premium Pet Accessories 250g,Pet Care,Pet Accessories,Purepet,85.87,77.76,9.44,5kg,In Stock,265,,4.5,858,1,19-12-2024
+PROD00784,Head & Shoulders Organic Sanitizer 500g,Personal Care,Sanitizer,Head & Shoulders,558.45,475.34,14.88,5kg,In Stock,323,,3.5,1311,1,30-04-2026
+PROD00785,Fortune Fresh Spices 1kg,Atta & Grains,Spices,Fortune,226.2,215.03,4.93,1pc,In Stock,166,,3.3,230,1,02-08-2024
+PROD00786,Fortune Wheat Flour 10pcs,Atta & Grains,Wheat Flour,Fortune,267.52,226.99,15.15,5kg,In Stock,287,,3.6,1072,1,12-11-2025
+PROD00787,Tata Tea Coffee 250ml,Beverages,Coffee,Tata Tea,320.57,280.6,12.47,200ml,In Stock,186,,4.4,15,1,13-11-2024
+PROD00788,Daawat Wheat Flour 1pc,Atta & Grains,Wheat Flour,Daawat,223.98,204.36,8.76,250ml,Low Stock,164,,3.4,255,1,19-01-2025
+PROD00789,Gerber Fresh Diapers 1L,Baby Care,Diapers,Gerber,281.62,256.09,9.06,1pc,In Stock,19,,3.2,1095,1,24-10-2024
+PROD00790,Fortune Organic Wheat Flour 100ml,Atta & Grains,Wheat Flour,Fortune,187.26,157.07,16.13,200ml,In Stock,484,,3.5,1408,1,20-07-2025
+PROD00791,Bonnie Organic Cakes 500ml,Bakery & Bread,Cakes,Bonnie,194.04,168.66,13.08,1L,In Stock,213,26-11-2026,3.6,1283,1,14-10-2024
+PROD00792,Dove Organic Soap 500ml,Personal Care,Soap,Dove,544.38,464.74,14.63,250ml,In Stock,29,,3.9,415,1,29-09-2025
+PROD00793,MTR Rice 5pcs,Atta & Grains,Rice,MTR,419.18,358.29,14.53,200g,In Stock,392,,3.5,1885,1,03-01-2025
+PROD00794,Surf Excel Organic Detergent 250ml,Household,Detergent,Surf Excel,45.37,41.68,8.14,5pcs,In Stock,184,,3.5,1775,0,14-07-2025
+PROD00795,Pears Shampoo 12pcs,Personal Care,Shampoo,Pears,466.15,440.12,5.58,5kg,In Stock,101,,4.4,1704,1,12-01-2026
+PROD00796,Mother Dairy Fresh Cream 1L,Dairy & Eggs,Cream,Mother Dairy,326.41,267.24,18.13,1L,Out of Stock,0,07-09-2026,4.1,601,0,05-03-2026
+PROD00797,Country Delight Fresh Exotic Fruits 6pcs,Fruits & Vegetables,Exotic Fruits,Country Delight,143.51,121.54,15.31,200g,In Stock,335,29-09-2026,4.5,92,1,25-11-2024
+PROD00798,Organic India Premium Exotic Fruits 100g,Fruits & Vegetables,Exotic Fruits,Organic India,430.68,359.8,16.46,2L,In Stock,241,14-11-2026,4,1312,1,01-11-2025
+PROD00799,Bikaji Fresh Candies 200g,Snacks & Munchies,Candies,Bikaji,433.71,355.32,18.08,500ml,In Stock,14,,3.5,958,0,18-02-2026
+PROD00800,Colgate Premium Shampoo 1pc,Personal Care,Shampoo,Colgate,201.41,173.35,13.93,1L,In Stock,184,,4.9,1043,0,26-01-2026
+PROD00801,Bonnie Organic Buns 6pcs,Bakery & Bread,Buns,Bonnie,48.9,39.99,18.23,500ml,In Stock,473,11-08-2026,4.9,1783,0,14-03-2026
+PROD00802,Fresho Organic Exotic Fruits 5kg,Fruits & Vegetables,Exotic Fruits,Fresho,126.32,116.81,7.53,200g,In Stock,142,26-12-2026,4.5,242,1,22-11-2024
+PROD00803,Nandini Fresh Curd/Yogurt 200g,Dairy & Eggs,Curd/Yogurt,Nandini,170.54,149.44,12.37,500g,In Stock,88,18-09-2026,3.6,120,1,09-10-2024
+PROD00804,Tata Tea Organic Coffee 1kg,Beverages,Coffee,Tata Tea,109.68,92.54,15.63,2L,In Stock,65,,3.6,815,1,10-10-2025
+PROD00805,Cadbury Candies 5pcs,Snacks & Munchies,Candies,Cadbury,339.7,295.13,13.12,10pcs,Low Stock,210,,4.4,149,1,06-08-2024
+PROD00806,MTR Organic Millets 100g,Atta & Grains,Millets,MTR,415.16,357.55,13.88,6pcs,In Stock,208,,3.2,1603,1,09-07-2026
+PROD00807,MDH Cooking Oil 2L,Oil & Masalas,Cooking Oil,MDH,178.35,144.34,19.07,500ml,In Stock,215,,3.6,1289,1,17-03-2025
+PROD00808,Purepet Pet Food 100g,Pet Care,Pet Food,Purepet,402.9,376.02,6.67,100g,In Stock,428,,4.3,942,1,08-10-2025
+PROD00809,All Out Organic Air Fresheners 250ml,Household,Air Fresheners,All Out,115.16,99.79,13.35,12pcs,In Stock,66,,3.8,1149,1,26-12-2025
+PROD00810,Everest Fresh Cooking Oil 5pcs,Oil & Masalas,Cooking Oil,Everest,118.56,98.3,17.09,250g,In Stock,239,,5,506,1,23-06-2026
+PROD00811,Amul Fresh Butter 5pcs,Dairy & Eggs,Butter,Amul,462.57,433.33,6.32,250g,In Stock,188,30-09-2026,3.2,292,0,22-05-2025
+PROD00812,Colgate Organic Sanitizer 6pcs,Personal Care,Sanitizer,Colgate,153.14,123.77,19.18,500ml,Low Stock,201,,4.4,642,0,24-01-2026
+PROD00813,Organic India Premium Exotic Fruits 5pcs,Fruits & Vegetables,Exotic Fruits,Organic India,17.12,13.87,18.99,500ml,In Stock,84,27-08-2026,4.1,456,1,15-09-2024
+PROD00814,Bikaji Premium Dry Fruits 12pcs,Snacks & Munchies,Dry Fruits,Bikaji,259.68,224.96,13.37,5kg,In Stock,381,,3.4,1569,0,20-10-2025
+PROD00815,Organic India Fresh Vegetables 10pcs,Fruits & Vegetables,Fresh Vegetables,Organic India,425.76,380.3,10.68,100g,In Stock,304,01-12-2026,3.4,170,1,24-04-2026
+PROD00816,Dhara Organic Masalas 2kg,Oil & Masalas,Masalas,Dhara,395.13,327.09,17.22,1L,In Stock,413,,4,1452,1,17-11-2025
+PROD00817,Pampers Premium Baby Food 250g,Baby Care,Baby Food,Pampers,305.15,261.38,14.34,500g,In Stock,396,,3.9,1727,1,22-01-2025
+PROD00818,Head & Shoulders Organic Shampoo 1L,Personal Care,Shampoo,Head & Shoulders,76.12,67.93,10.76,5kg,In Stock,129,,3.6,776,1,05-10-2024
+PROD00819,Red Bull Fresh Energy Drinks 1kg,Beverages,Energy Drinks,Red Bull,285.18,254.95,10.6,200g,In Stock,211,,4.3,1714,1,10-01-2026
+PROD00820,Sunsilk Organic Sanitizer 5kg,Personal Care,Sanitizer,Sunsilk,468.76,440.59,6.01,500ml,In Stock,230,,4.3,210,1,10-03-2026
+PROD00821,Saffola Fresh Sauces 10pcs,Oil & Masalas,Sauces,Saffola,42.13,39.13,7.13,1pc,Low Stock,31,,4.8,1647,1,09-03-2025
+PROD00822,Haldiram Fresh Namkeen 1L,Snacks & Munchies,Namkeen,Haldiram,474.17,399.84,15.68,250g,In Stock,58,,3.5,237,1,09-05-2026
+PROD00823,Catch Premium Cooking Oil 1kg,Oil & Masalas,Cooking Oil,Catch,266,227.03,14.65,100ml,In Stock,275,,4.3,862,1,31-12-2025
+PROD00824,Amul Fresh Cream 12pcs,Dairy & Eggs,Cream,Amul,241.31,228.78,5.19,1kg,In Stock,9,13-11-2026,3.5,1841,1,04-04-2026
+PROD00825,Ghadi Premium Mosquito Repellent 1L,Household,Mosquito Repellent,Ghadi,229.9,213.51,7.13,250g,In Stock,443,,4.6,592,1,20-10-2024
+PROD00826,Bonnie Premium Pastries 200ml,Bakery & Bread,Pastries,Bonnie,213.34,184.59,13.47,12pcs,In Stock,41,21-12-2026,3.5,311,1,30-09-2025
+PROD00827,Bikaji Organic Chips 100ml,Snacks & Munchies,Chips,Bikaji,309.59,293.47,5.21,500ml,In Stock,114,,3.8,1603,0,17-03-2026
+PROD00828,Fresho Exotic Fruits 500ml,Fruits & Vegetables,Exotic Fruits,Fresho,97.47,84.5,13.31,100ml,In Stock,74,27-07-2026,3.4,1587,1,13-04-2025
+PROD00829,Harvest Gold Fresh Bread 250ml,Bakery & Bread,Bread,Harvest Gold,276.18,224.34,18.77,500g,In Stock,488,31-10-2026,3,440,1,15-06-2025
+PROD00830,Whiskas Pet Accessories 1L,Pet Care,Pet Accessories,Whiskas,167.27,137.56,17.76,200ml,In Stock,240,,4.5,1616,1,13-12-2025
+PROD00831,Huggies Premium Diapers 200g,Baby Care,Diapers,Huggies,418.05,358.32,14.29,6pcs,Low Stock,362,,4.1,1424,0,01-05-2025
+PROD00832,Nescafe Organic Energy Drinks 5pcs,Beverages,Energy Drinks,Nescafe,594.23,492.18,17.17,100ml,In Stock,389,,4,1475,1,09-09-2024
+PROD00833,Huggies Premium Diapers 500g,Baby Care,Diapers,Huggies,136.82,111.22,18.71,2kg,In Stock,463,,3.8,655,0,14-08-2025
+PROD00834,Nandini Organic Butter 12pcs,Dairy & Eggs,Butter,Nandini,81.65,73.74,9.69,100ml,In Stock,54,22-11-2026,4.1,275,1,09-04-2025
+PROD00835,Colgate Organic Soap 100g,Personal Care,Soap,Colgate,497.74,445.81,10.43,2kg,In Stock,249,,5,360,1,27-07-2024
+PROD00836,Daawat Pulses 2kg,Atta & Grains,Pulses,Daawat,351.52,301.54,14.22,250ml,In Stock,252,,4.3,1907,1,08-05-2026
+PROD00837,Saffola Organic Ghee 250g,Oil & Masalas,Ghee,Saffola,173.56,148.51,14.43,250g,In Stock,239,,4.7,287,1,09-06-2025
+PROD00838,Catch Organic Pickles 100ml,Oil & Masalas,Pickles,Catch,51.14,41.75,18.38,200ml,Out of Stock,0,,4,1992,1,17-04-2026
+PROD00839,Milky Mist Premium Butter 100g,Dairy & Eggs,Butter,Milky Mist,79.62,67.78,14.87,200g,In Stock,235,23-10-2026,3.5,416,1,07-10-2024
+PROD00840,Johnson & Johnson Baby Oil 250g,Baby Care,Baby Oil,Johnson & Johnson,201.81,173.53,14.01,2L,In Stock,443,,4.8,250,1,19-06-2025
+PROD00841,Eastern Cooking Oil 5pcs,Oil & Masalas,Cooking Oil,Eastern,394.23,328.55,16.66,1L,In Stock,330,,3.1,1910,1,25-04-2025
+PROD00842,Harvest Gold Premium Cakes 5pcs,Bakery & Bread,Cakes,Harvest Gold,492.3,425.99,13.47,200g,In Stock,492,20-11-2026,4.9,1477,1,10-06-2026
+PROD00843,MDH Organic Pickles 500g,Oil & Masalas,Pickles,MDH,507.93,412.94,18.7,250g,In Stock,283,,4.6,1155,1,22-04-2026
+PROD00844,Tata Tea Premium Health Drinks 500ml,Beverages,Health Drinks,Tata Tea,36.53,34.54,5.44,500ml,Low Stock,115,,4,796,0,10-07-2025
+PROD00845,Fresho Organic Organic Vegetables 500g,Fruits & Vegetables,Organic Vegetables,Fresho,38.5,34.98,9.16,1pc,In Stock,370,04-12-2026,3.2,879,1,13-11-2024
+PROD00846,Huggies Organic Baby Oil 100g,Baby Care,Baby Oil,Huggies,114.06,99.09,13.12,100g,In Stock,382,,3.2,59,1,21-06-2025
+PROD00847,Pepsi Organic Soft Drinks 100ml,Beverages,Soft Drinks,Pepsi,264.48,212.77,19.55,100ml,In Stock,466,,3.8,1590,0,01-12-2024
+PROD00848,Head & Shoulders Organic Skincare 6pcs,Personal Care,Skincare,Head & Shoulders,59.53,52.9,11.15,500g,In Stock,359,,4,1853,1,07-02-2026
+PROD00849,Britannia Fresh Cakes 1pc,Bakery & Bread,Cakes,Britannia,11.94,10.35,13.32,2kg,In Stock,74,29-10-2026,3.4,1649,1,05-12-2025
+PROD00850,Purepet Pet Accessories 200ml,Pet Care,Pet Accessories,Purepet,381.22,334.19,12.34,100g,In Stock,448,,4.2,1580,1,12-02-2025
+PROD00851,Surf Excel Fresh Mosquito Repellent 500ml,Household,Mosquito Repellent,Surf Excel,252.8,226.55,10.38,200ml,In Stock,309,,4.6,475,0,08-11-2025
+PROD00852,Purepet Fresh Pet Food 5kg,Pet Care,Pet Food,Purepet,531.14,448.17,15.62,2L,In Stock,428,,5,853,1,06-04-2026
+PROD00853,Good Knight Premium Detergent 250ml,Household,Detergent,Good Knight,544.25,479.05,11.98,200g,In Stock,158,,4.5,689,1,02-07-2026
+PROD00854,Daawat Organic Millets 5kg,Atta & Grains,Millets,Daawat,34.87,32.12,7.9,5kg,In Stock,263,,3.1,514,1,09-09-2025
+PROD00855,All Out Premium Cleaning Supplies 6pcs,Household,Cleaning Supplies,All Out,534.96,453.55,15.22,1pc,In Stock,421,,4,1707,1,11-03-2026
+PROD00856,Dodla Eggs 500g,Dairy & Eggs,Eggs,Dodla,559.31,465.38,16.79,1L,In Stock,386,21-10-2026,3.7,1524,0,14-07-2025
+PROD00857,Patanjali Fresh Skincare 250ml,Personal Care,Skincare,Patanjali,436.76,369.11,15.49,6pcs,Low Stock,76,,4,1538,1,21-06-2025
+PROD00858,Britannia Fresh Bread 100ml,Bakery & Bread,Bread,Britannia,92.57,79.16,14.48,200ml,In Stock,331,27-12-2026,3.1,1923,0,05-02-2026
+PROD00859,Cadbury Premium Namkeen 500ml,Snacks & Munchies,Namkeen,Cadbury,547.99,443.22,19.12,200g,In Stock,240,,4.1,195,0,21-10-2025
+PROD00860,Tata Tea Organic Energy Drinks 100g,Beverages,Energy Drinks,Tata Tea,445.16,422.76,5.03,2L,In Stock,0,,3.1,1269,1,11-02-2025
+PROD00861,Lux Skincare 1pc,Personal Care,Skincare,Lux,510.01,427.82,16.12,500ml,In Stock,96,,4.2,1658,0,25-03-2025
+PROD00862,Gerber Fresh Baby Food 250ml,Baby Care,Baby Food,Gerber,364.44,319.45,12.34,10pcs,In Stock,255,,3.7,633,1,10-05-2026
+PROD00863,24 Mantra Premium Rice 100g,Atta & Grains,Rice,24 Mantra,83.49,77.67,6.96,6pcs,In Stock,301,,3.4,1109,0,24-01-2025
+PROD00864,Dodla Organic Butter 100g,Dairy & Eggs,Butter,Dodla,371.59,304.6,18.03,500g,In Stock,16,28-12-2026,3.3,1799,1,13-07-2026
+PROD00865,Colgate Premium Toothpaste 2kg,Personal Care,Toothpaste,Colgate,202.83,167.09,17.62,250ml,In Stock,90,,4.8,1990,1,23-09-2024
+PROD00866,Aashirvaad Fresh Spices 2L,Atta & Grains,Spices,Aashirvaad,316.85,256.81,18.95,6pcs,Low Stock,496,,3.1,684,1,19-02-2025
+PROD00867,Dove Fresh Shampoo 10pcs,Personal Care,Shampoo,Dove,38.29,31.64,17.36,12pcs,In Stock,18,,3.2,1178,0,02-06-2026
+PROD00868,Pedigree Organic Pet Accessories 6pcs,Pet Care,Pet Accessories,Pedigree,397.4,333.64,16.04,250g,In Stock,21,,3.9,1364,1,03-07-2025
+PROD00869,Milky Mist Fresh Curd/Yogurt 12pcs,Dairy & Eggs,Curd/Yogurt,Milky Mist,443.76,401.8,9.46,1L,In Stock,436,05-09-2026,3.2,747,1,20-02-2026
+PROD00870,Pampers Fresh Diapers 100ml,Baby Care,Diapers,Pampers,404.09,339.59,15.96,200ml,Out of Stock,0,,3.6,619,1,13-07-2025
+PROD00871,Everest Fresh Masalas 500ml,Oil & Masalas,Masalas,Everest,133.9,110.43,17.53,1pc,In Stock,393,,4.9,732,0,03-10-2025
+PROD00872,Nestle Fresh Baby Food 5pcs,Baby Care,Baby Food,Nestle,158.95,141.59,10.92,500ml,In Stock,329,,4.9,1426,1,04-11-2025
+PROD00873,Haldiram Organic Candies 5kg,Snacks & Munchies,Candies,Haldiram,374.43,348.3,6.98,500ml,In Stock,292,,3.3,635,0,18-12-2025
+PROD00874,Amul Butter 250ml,Dairy & Eggs,Butter,Amul,24.96,20.88,16.34,2L,In Stock,483,01-10-2026,3.4,1219,1,05-04-2025
+PROD00875,Windsor Premium Pastries 10pcs,Bakery & Bread,Pastries,Windsor,433.67,362.33,16.45,200g,In Stock,91,25-07-2026,3.8,552,1,05-08-2025
+PROD00876,Catch Masalas 2kg,Oil & Masalas,Masalas,Catch,59.1,49.23,16.7,10pcs,In Stock,325,,4.7,952,1,09-05-2026
+PROD00877,Tata Tea Premium Tea 1kg,Beverages,Tea,Tata Tea,482.36,420.3,12.87,12pcs,Out of Stock,0,,3.4,529,1,27-03-2025
+PROD00878,Head & Shoulders Organic Sanitizer 1L,Personal Care,Sanitizer,Head & Shoulders,377.96,324.34,14.19,250ml,In Stock,377,,3.2,1779,1,06-12-2024
+PROD00879,Windsor Premium Cakes 12pcs,Bakery & Bread,Cakes,Windsor,324.53,300.51,7.4,250g,In Stock,157,22-10-2026,4.1,1502,1,29-12-2024
+PROD00880,Colgate Fresh Soap 500g,Personal Care,Soap,Colgate,461.79,399.86,13.41,6pcs,In Stock,97,,3.2,1757,1,19-04-2025
+PROD00881,Nestle Chocolates 100ml,Snacks & Munchies,Chocolates,Nestle,393.78,344.42,12.54,12pcs,In Stock,251,,3.8,1345,1,29-03-2026
+PROD00882,Pedigree Pet Accessories 200ml,Pet Care,Pet Accessories,Pedigree,306.04,265.67,13.19,100ml,Out of Stock,0,,4,194,1,03-02-2025
+PROD00883,Haldiram Namkeen 200ml,Snacks & Munchies,Namkeen,Haldiram,103.67,93.4,9.9,6pcs,In Stock,289,,4.5,557,1,08-04-2025
+PROD00884,Purepet Premium Pet Accessories 500g,Pet Care,Pet Accessories,Purepet,443.2,375.2,15.34,100g,Out of Stock,0,,4.1,1793,0,20-02-2025
+PROD00885,Huggies Baby Oil 200ml,Baby Care,Baby Oil,Huggies,198.4,159.31,19.7,500g,In Stock,108,,3.6,17,1,01-06-2026
+PROD00886,MDH Premium Sauces 200g,Oil & Masalas,Sauces,MDH,76.34,62.55,18.06,1kg,In Stock,292,,4,1757,0,24-10-2025
+PROD00887,Coca Cola Energy Drinks 1L,Beverages,Energy Drinks,Coca Cola,438.94,409.96,6.6,1kg,In Stock,184,,4.9,87,1,13-01-2026
+PROD00888,Good Knight Fresh Cleaning Supplies 100ml,Household,Cleaning Supplies,Good Knight,64.56,57.56,10.86,200g,Out of Stock,0,,3.5,501,1,01-06-2026
+PROD00889,Nescafe Fresh Tea 250g,Beverages,Tea,Nescafe,83.72,70.16,16.2,12pcs,In Stock,462,,4.4,64,1,17-02-2025
+PROD00890,Sunsilk Organic Soap 2kg,Personal Care,Soap,Sunsilk,595.72,490.18,17.72,200ml,Out of Stock,0,,5,1558,1,22-09-2025
+PROD00891,Catch Organic Masalas 1pc,Oil & Masalas,Masalas,Catch,372.84,340.08,8.79,500ml,In Stock,433,,3.8,1145,1,25-07-2024
+PROD00892,Dove Soap 6pcs,Personal Care,Soap,Dove,460.41,430.43,6.51,500g,In Stock,33,,3.2,1430,1,23-08-2025
+PROD00893,Lays Dry Fruits 250g,Snacks & Munchies,Dry Fruits,Lays,375.79,343.2,8.67,1L,In Stock,431,,4.3,1923,1,13-12-2024
+PROD00894,Rin Premium Mosquito Repellent 1kg,Household,Mosquito Repellent,Rin,143.64,129.47,9.87,200g,In Stock,174,,4.7,1365,1,22-09-2024
+PROD00895,Pampers Fresh Baby Oil 10pcs,Baby Care,Baby Oil,Pampers,553.75,443.37,19.93,10pcs,In Stock,154,,3.1,167,1,21-01-2025
+PROD00896,Purepet Organic Pet Food 200ml,Pet Care,Pet Food,Purepet,608.64,490.97,19.33,200g,Out of Stock,0,,3.6,108,1,28-01-2026
+PROD00897,Pears Soap 500g,Personal Care,Soap,Pears,210.83,176.68,16.2,500g,In Stock,206,,3.8,995,0,29-05-2025
+PROD00898,Haldiram Fresh Chips 10pcs,Snacks & Munchies,Chips,Haldiram,346.39,306.54,11.5,1kg,In Stock,12,,3.9,160,1,01-08-2025
+PROD00899,Eastern Ghee 1L,Oil & Masalas,Ghee,Eastern,508.59,431.39,15.18,500ml,Low Stock,354,,3.5,1981,0,22-09-2025
+PROD00900,MDH Premium Pickles 200g,Oil & Masalas,Pickles,MDH,329.83,286.27,13.2,250ml,In Stock,331,,4.3,1772,0,26-02-2026
+PROD00901,Drools Premium Pet Food 1kg,Pet Care,Pet Food,Drools,306.64,287.14,6.36,1pc,Out of Stock,0,,5,850,0,20-01-2025
+PROD00902,Pampers Fresh Baby Food 200ml,Baby Care,Baby Food,Pampers,202.32,168.9,16.52,100g,In Stock,8,,4,885,0,05-01-2026
+PROD00903,Drools Pet Food 6pcs,Pet Care,Pet Food,Drools,320.49,287.35,10.34,2kg,In Stock,434,,3.6,498,0,22-07-2025
+PROD00904,Colgate Premium Toothpaste 5pcs,Personal Care,Toothpaste,Colgate,387.96,321.29,17.18,500g,In Stock,303,,4.7,1247,1,01-12-2025
+PROD00905,Catch Fresh Cooking Oil 1pc,Oil & Masalas,Cooking Oil,Catch,409.36,363.16,11.29,1L,In Stock,477,,4,1411,1,21-01-2026
+PROD00906,Drools Organic Pet Food 2kg,Pet Care,Pet Food,Drools,506.2,457.68,9.58,250ml,Out of Stock,0,,4.8,1612,1,03-08-2025
+PROD00907,Nandini Organic Butter 5kg,Dairy & Eggs,Butter,Nandini,376.65,306.79,18.55,500g,In Stock,66,15-10-2026,4.6,1092,1,25-03-2026
+PROD00908,Cadbury Premium Chocolates 2kg,Snacks & Munchies,Chocolates,Cadbury,450.62,385.29,14.5,250ml,In Stock,334,,3.5,686,0,31-07-2024
+PROD00909,Catch Organic Sauces 1kg,Oil & Masalas,Sauces,Catch,93.58,87.63,6.36,250g,In Stock,338,,4.9,1446,1,28-09-2024
+PROD00910,Nescafe Fresh Tea 100ml,Beverages,Tea,Nescafe,344.63,305.26,11.42,250ml,In Stock,476,,4.4,1947,0,03-03-2025
+PROD00911,Coca Cola Organic Health Drinks 12pcs,Beverages,Health Drinks,Coca Cola,352.74,291.37,17.4,250ml,In Stock,342,,4.1,1331,1,06-01-2025
+PROD00912,Nandini Premium Paneer 2kg,Dairy & Eggs,Paneer,Nandini,165.78,145.59,12.17,10pcs,In Stock,418,06-10-2026,4.1,178,1,06-01-2026
+PROD00913,Harvest Gold Cakes 6pcs,Bakery & Bread,Cakes,Harvest Gold,530.31,462.01,12.88,10pcs,In Stock,102,05-09-2026,3.2,1993,1,12-03-2025
+PROD00914,Red Bull Fresh Health Drinks 500ml,Beverages,Health Drinks,Red Bull,499.16,452.46,9.36,10pcs,In Stock,177,,4.1,1693,0,15-12-2025
+PROD00915,Saffola Organic Cooking Oil 2kg,Oil & Masalas,Cooking Oil,Saffola,518.21,441.99,14.71,1L,In Stock,318,,4.2,654,1,12-10-2025
+PROD00916,Whiskas Organic Pet Food 200ml,Pet Care,Pet Food,Whiskas,498.51,442.18,11.3,12pcs,In Stock,187,,4.4,987,1,30-04-2025
+PROD00917,Windsor Fresh Cakes 100g,Bakery & Bread,Cakes,Windsor,328.57,303.41,7.66,500g,In Stock,17,19-10-2026,4.9,584,0,20-09-2025
+PROD00918,Pampers Premium Baby Oil 6pcs,Baby Care,Baby Oil,Pampers,82.41,71.17,13.65,1L,In Stock,411,,4.4,1796,1,03-09-2025
+PROD00919,English Oven Fresh Bread 200g,Bakery & Bread,Bread,English Oven,509.82,408.81,19.81,12pcs,In Stock,440,24-09-2026,4.7,773,0,13-06-2025
+PROD00920,Lays Candies 1pc,Snacks & Munchies,Candies,Lays,379.92,308.18,18.88,2L,In Stock,319,,3.9,535,1,17-02-2026
+PROD00921,Windsor Premium Rusk 500ml,Bakery & Bread,Rusk,Windsor,86.11,70.89,17.68,200ml,Out of Stock,0,03-11-2026,4.7,697,1,31-03-2025
+PROD00922,Real Organic Tea 1pc,Beverages,Tea,Real,278.75,230,17.49,500ml,In Stock,322,,3.2,1326,1,17-04-2025
+PROD00923,24 Mantra Organic Millets 2L,Atta & Grains,Millets,24 Mantra,103.01,90.51,12.14,1L,In Stock,475,,3.6,1342,1,14-01-2026
+PROD00924,Johnson & Johnson Organic Diapers 12pcs,Baby Care,Diapers,Johnson & Johnson,439.62,380.83,13.37,2kg,Low Stock,90,,4.3,1573,0,05-07-2025
+PROD00925,Nestle Diapers 2L,Baby Care,Diapers,Nestle,304.21,253.38,16.71,500ml,In Stock,25,,3.3,1803,1,13-02-2025
+PROD00926,Brooke Bond Premium Coffee 5pcs,Beverages,Coffee,Brooke Bond,418.63,364.98,12.81,1kg,In Stock,392,,3.6,403,0,13-03-2025
+PROD00927,Heritage Cheese 500ml,Dairy & Eggs,Cheese,Heritage,151.14,143.06,5.35,1pc,In Stock,498,06-09-2026,4.1,297,1,13-01-2025
+PROD00928,Drools Organic Pet Accessories 500ml,Pet Care,Pet Accessories,Drools,500.52,425.04,15.08,5kg,In Stock,337,,3.6,833,1,19-10-2024
+PROD00929,Windsor Cakes 500ml,Bakery & Bread,Cakes,Windsor,112.22,97.76,12.89,2L,In Stock,174,07-12-2026,3.5,1933,1,14-12-2024
+PROD00930,Eastern Fresh Sauces 12pcs,Oil & Masalas,Sauces,Eastern,432.69,373.67,13.64,10pcs,In Stock,62,,4.6,670,1,20-03-2025
+PROD00931,Patanjali Organic Soap 5pcs,Personal Care,Soap,Patanjali,399.55,363.21,9.09,500ml,In Stock,336,,4.9,1272,1,18-10-2024
+PROD00932,Haldiram Premium Namkeen 6pcs,Snacks & Munchies,Namkeen,Haldiram,263.28,228.33,13.28,2L,In Stock,364,,3.8,1696,1,15-02-2026
+PROD00933,Pedigree Pet Accessories 6pcs,Pet Care,Pet Accessories,Pedigree,12.66,11.04,12.78,1pc,In Stock,482,,4.3,27,1,07-09-2025
+PROD00934,Harvest Gold Cookies 1kg,Bakery & Bread,Cookies,Harvest Gold,177.38,152.01,14.3,6pcs,In Stock,98,15-12-2026,4.6,404,0,05-01-2026
+PROD00935,MTR Millets 250g,Atta & Grains,Millets,MTR,482.62,413.26,14.37,2L,In Stock,404,,4.8,547,1,08-12-2024
+PROD00936,Pepsi Health Drinks 200ml,Beverages,Health Drinks,Pepsi,538.1,447.27,16.88,12pcs,In Stock,137,,3.8,1543,0,13-12-2024
+PROD00937,Huggies Organic Baby Food 6pcs,Baby Care,Baby Food,Huggies,73.06,59.97,17.91,500g,In Stock,171,,3.4,569,1,02-01-2025
+PROD00938,Heritage Organic Cheese 500ml,Dairy & Eggs,Cheese,Heritage,305.81,286.62,6.28,1kg,In Stock,10,10-12-2026,4.2,63,1,29-07-2025
+PROD00939,Dhara Organic Pickles 1pc,Oil & Masalas,Pickles,Dhara,122.31,113,7.61,250g,In Stock,104,,3.5,1164,0,17-02-2025
+PROD00940,Milky Mist Fresh Eggs 250ml,Dairy & Eggs,Eggs,Milky Mist,225.49,192.99,14.41,12pcs,In Stock,118,07-12-2026,3.1,1710,1,18-10-2025
+PROD00941,Aashirvaad Organic Rice 10pcs,Atta & Grains,Rice,Aashirvaad,57.46,47.56,17.23,500ml,In Stock,249,,4.1,1356,0,28-02-2026
+PROD00942,Aashirvaad Fresh Pulses 2kg,Atta & Grains,Pulses,Aashirvaad,253.82,229.18,9.71,10pcs,In Stock,485,,4.5,1285,0,29-08-2025
+PROD00943,Mother Dairy Organic Cream 1L,Dairy & Eggs,Cream,Mother Dairy,399.95,378.24,5.43,2L,Low Stock,277,12-11-2026,3.7,570,1,22-02-2025
+PROD00944,Johnson & Johnson Fresh Baby Food 5pcs,Baby Care,Baby Food,Johnson & Johnson,306.45,270.37,11.77,200g,Out of Stock,0,,3.5,110,0,04-10-2024
+PROD00945,Catch Cooking Oil 2L,Oil & Masalas,Cooking Oil,Catch,78.77,74.54,5.37,1L,In Stock,45,,4.2,1215,0,25-04-2026
+PROD00946,Catch Sauces 500ml,Oil & Masalas,Sauces,Catch,540.29,470.37,12.94,200ml,In Stock,163,,4.3,412,1,15-12-2024
+PROD00947,Amul Cheese 500g,Dairy & Eggs,Cheese,Amul,251.06,213.99,14.77,5kg,In Stock,463,15-09-2026,3.8,1993,1,10-01-2025
+PROD00948,Windsor Fresh Bread 2kg,Bakery & Bread,Bread,Windsor,184.99,150.32,18.74,12pcs,In Stock,82,28-09-2026,3.4,511,1,04-12-2024
+PROD00949,Organic India Fresh Fruits 200g,Fruits & Vegetables,Fresh Fruits,Organic India,136.21,111.77,17.94,100g,In Stock,500,16-09-2026,4.1,875,0,28-07-2024
+PROD00950,Dhara Cooking Oil 6pcs,Oil & Masalas,Cooking Oil,Dhara,308.78,266.19,13.79,12pcs,In Stock,121,,3.3,964,1,18-01-2026
+PROD00951,Gerber Organic Diapers 1pc,Baby Care,Diapers,Gerber,542.11,459.73,15.2,6pcs,In Stock,249,,5,44,0,05-09-2025
+PROD00952,Saffola Masalas 250g,Oil & Masalas,Masalas,Saffola,287.96,269.83,6.29,250ml,In Stock,307,,3.2,1059,0,24-10-2024
+PROD00953,Dhara Organic Pickles 6pcs,Oil & Masalas,Pickles,Dhara,310.31,293.9,5.29,5kg,In Stock,119,,3.3,1907,1,16-02-2025
+PROD00954,Haldiram Premium Dry Fruits 100ml,Snacks & Munchies,Dry Fruits,Haldiram,116,102.54,11.6,6pcs,In Stock,366,,3.5,913,0,22-08-2024
+PROD00955,Rin Fresh Detergent 500ml,Household,Detergent,Rin,62.17,54.63,12.13,10pcs,In Stock,186,,3.1,1148,1,29-08-2024
+PROD00956,Real Fresh Energy Drinks 1L,Beverages,Energy Drinks,Real,263.68,235.06,10.85,2kg,In Stock,361,,3.4,1944,1,20-09-2025
+PROD00957,Good Knight Premium Detergent 200g,Household,Detergent,Good Knight,279.2,251.41,9.95,5pcs,In Stock,145,,4.3,604,1,01-03-2025
+PROD00958,Dhara Fresh Masalas 200g,Oil & Masalas,Masalas,Dhara,449.31,427,4.97,12pcs,In Stock,129,,3.4,191,1,10-01-2026
+PROD00959,Drools Fresh Pet Food 5kg,Pet Care,Pet Food,Drools,445.54,401.14,9.96,2L,In Stock,91,,4.4,1300,0,24-10-2024
+PROD00960,Surf Excel Air Fresheners 6pcs,Household,Air Fresheners,Surf Excel,279.85,225.36,19.47,2L,In Stock,5,,3.8,1068,1,25-11-2025
+PROD00961,Local Farms Premium Fresh Vegetables 250ml,Fruits & Vegetables,Fresh Vegetables,Local Farms,133.51,111.87,16.21,500ml,In Stock,377,04-01-2027,3.5,428,1,22-02-2026
+PROD00962,Huggies Organic Baby Oil 1pc,Baby Care,Baby Oil,Huggies,151.02,121.72,19.4,10pcs,In Stock,79,,5,659,1,03-08-2025
+PROD00963,Windsor Buns 1kg,Bakery & Bread,Buns,Windsor,520.65,439.49,15.59,1kg,In Stock,363,08-08-2026,4.4,989,1,26-05-2026
+PROD00964,Windsor Organic Pastries 200ml,Bakery & Bread,Pastries,Windsor,374.12,304.77,18.54,100g,Out of Stock,0,22-07-2026,4.4,1405,1,06-10-2025
+PROD00965,Local Farms Organic Organic Vegetables 10pcs,Fruits & Vegetables,Organic Vegetables,Local Farms,460.11,431.99,6.11,1kg,In Stock,438,13-09-2026,4.7,912,1,17-07-2025
+PROD00966,Whiskas Organic Pet Food 250g,Pet Care,Pet Food,Whiskas,76.7,68.15,11.14,100g,In Stock,20,,3.6,1852,0,24-07-2025
+PROD00967,Windsor Fresh Cookies 2kg,Bakery & Bread,Cookies,Windsor,174.45,148.48,14.89,1kg,In Stock,252,13-10-2026,3.2,1427,1,08-04-2025
+PROD00968,Lays Organic Chips 12pcs,Snacks & Munchies,Chips,Lays,418.24,393.5,5.91,250ml,In Stock,256,,4.3,1828,1,08-12-2024
+PROD00969,Good Knight Organic Air Fresheners 250ml,Household,Air Fresheners,Good Knight,459.91,382.78,16.77,200g,In Stock,82,,4.8,1227,1,26-08-2024
+PROD00970,Purepet Pet Accessories 6pcs,Pet Care,Pet Accessories,Purepet,76.8,64.89,15.5,5kg,In Stock,140,,4,1398,0,30-01-2025
+PROD00971,Rin Organic Air Fresheners 6pcs,Household,Air Fresheners,Rin,175.91,153.52,12.73,12pcs,In Stock,15,,3.7,703,1,18-07-2026
+PROD00972,Colgate Shampoo 1L,Personal Care,Shampoo,Colgate,23.95,22.8,4.78,1L,In Stock,2,,4.1,85,0,18-05-2026
+PROD00973,Country Delight Premium Exotic Fruits 500ml,Fruits & Vegetables,Exotic Fruits,Country Delight,290.28,271.55,6.45,100g,In Stock,42,20-10-2026,4.7,947,0,14-10-2024
+PROD00974,MTR Organic Wheat Flour 250ml,Atta & Grains,Wheat Flour,MTR,149.17,133.96,10.2,2kg,In Stock,361,,4.5,1204,1,17-04-2026
+PROD00975,India Gate Organic Wheat Flour 1pc,Atta & Grains,Wheat Flour,India Gate,381.39,339.68,10.94,200g,In Stock,75,,3.3,1147,1,06-09-2024
+PROD00976,Britannia Buns 5kg,Bakery & Bread,Buns,Britannia,398.7,333.83,16.27,1L,In Stock,140,05-10-2026,3.3,1961,1,03-08-2025
+PROD00977,Haldiram Fresh Candies 2kg,Snacks & Munchies,Candies,Haldiram,49.02,43.68,10.9,6pcs,In Stock,411,,5,786,1,13-09-2024
+PROD00978,24 Mantra Organic Pulses 250g,Atta & Grains,Pulses,24 Mantra,501.45,466.98,6.87,5pcs,Out of Stock,0,,4.3,65,1,09-10-2025
+PROD00979,English Oven Organic Bread 100g,Bakery & Bread,Bread,English Oven,346.48,315.75,8.87,200g,In Stock,411,19-11-2026,3.7,1793,1,02-01-2026
+PROD00980,Tata Tea Organic Juices 250ml,Beverages,Juices,Tata Tea,610.67,499.86,18.15,5kg,In Stock,148,,3.3,838,1,28-08-2024
+PROD00981,Saffola Fresh Pickles 100g,Oil & Masalas,Pickles,Saffola,30.65,25.94,15.35,200g,Out of Stock,0,,4.6,1265,0,12-11-2024
+PROD00982,Gerber Premium Diapers 250g,Baby Care,Diapers,Gerber,201.11,176.26,12.36,6pcs,In Stock,256,,4.4,1649,0,10-11-2024
+PROD00983,Rin Premium Air Fresheners 1kg,Household,Air Fresheners,Rin,33.69,30.63,9.07,250g,In Stock,37,,3.4,1482,1,09-04-2026
+PROD00984,Amul Butter 12pcs,Dairy & Eggs,Butter,Amul,441.58,384.99,12.82,12pcs,In Stock,102,06-11-2026,3.8,628,0,10-03-2025
+PROD00985,Johnson & Johnson Baby Oil 5kg,Baby Care,Baby Oil,Johnson & Johnson,206.58,172.21,16.63,100ml,In Stock,341,,3.5,1997,1,22-09-2024
+PROD00986,Bikaji Organic Candies 1L,Snacks & Munchies,Candies,Bikaji,470.99,394.29,16.28,5kg,In Stock,404,,4.5,983,1,26-01-2025
+PROD00987,Organic India Fresh Exotic Fruits 10pcs,Fruits & Vegetables,Exotic Fruits,Organic India,90.99,73.95,18.73,12pcs,In Stock,163,12-08-2026,4.8,412,1,24-09-2025
+PROD00988,Nescafe Organic Juices 2L,Beverages,Juices,Nescafe,213.99,184.96,13.56,1kg,In Stock,199,,4.4,1708,0,03-03-2026
+PROD00989,24 Mantra Organic Wheat Flour 1pc,Atta & Grains,Wheat Flour,24 Mantra,511.13,412.92,19.21,12pcs,In Stock,202,,4,996,1,06-06-2025
+PROD00990,Nescafe Organic Energy Drinks 1pc,Beverages,Energy Drinks,Nescafe,164.37,151.88,7.6,500ml,In Stock,258,,3.4,203,1,31-10-2025
+PROD00991,Nescafe Fresh Tea 2kg,Beverages,Tea,Nescafe,23.73,19.64,17.24,100ml,In Stock,338,,5,1781,1,24-10-2025
+PROD00992,English Oven Bread 10pcs,Bakery & Bread,Bread,English Oven,528.48,466.66,11.7,500ml,Out of Stock,0,20-12-2026,4.3,706,1,10-11-2025
+PROD00993,Heritage Fresh Curd/Yogurt 100ml,Dairy & Eggs,Curd/Yogurt,Heritage,207.47,191.47,7.71,1kg,In Stock,137,01-09-2026,4.7,202,1,12-03-2026
+PROD00994,Good Knight Premium Mosquito Repellent 250ml,Household,Mosquito Repellent,Good Knight,360.66,330.53,8.35,1L,In Stock,435,,3.1,1536,1,27-08-2025
+PROD00995,Good Knight Organic Mosquito Repellent 2L,Household,Mosquito Repellent,Good Knight,299,284.24,4.94,250ml,In Stock,116,,3.6,431,0,09-05-2025
+PROD00996,Tropicana Juices 2L,Beverages,Juices,Tropicana,551.75,449.19,18.59,200ml,In Stock,226,,4.3,564,1,02-07-2025
+PROD00997,Nescafe Premium Coffee 2L,Beverages,Coffee,Nescafe,531.21,486.53,8.41,200g,In Stock,415,,4.8,1719,1,23-06-2026
+PROD00998,India Gate Spices 5pcs,Atta & Grains,Spices,India Gate,269.66,248.35,7.91,2kg,In Stock,400,,4.4,281,1,26-06-2025
+PROD00999,Nestle Organic Baby Food 100ml,Baby Care,Baby Food,Nestle,44.72,36.27,18.9,1kg,In Stock,11,,3.3,1470,1,05-03-2025
+PROD01000,Nandini Organic Butter 100g,Dairy & Eggs,Butter,Nandini,127.81,116.01,9.23,6pcs,In Stock,26,03-01-2027,4.4,366,0,18-10-2025

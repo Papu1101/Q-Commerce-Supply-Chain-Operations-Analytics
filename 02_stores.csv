@@ -1,0 +1,51 @@
+﻿StoreID,StoreName,City,Zone,Pincode,StoreType,OpeningDate,OperatingHours,ManagerName,ContactNumber,Latitude,Longitude,Status,DailyOrderCapacity
+STORE001,Instamart Rohini Hub,Delhi NCR,Rohini,43321,Dark Store - Standard,04-06-2026,06:00 AM - 02:00 AM,Pahal Balay,9841343677,28.754213,77.102967,Active,2174
+STORE002,Instamart Guntur Hub,Andhra Pradesh,Guntur,133890,Dark Store - Standard,06-12-2025,06:00 AM - 02:00 AM,Oni Kannan,9872858495,17.564911,83.284853,Active,1408
+STORE003,Instamart Koramangala Hub,Bangalore,Koramangala,940265,Dark Store - Mega Hub,22-09-2024,06:00 AM - 02:00 AM,Tanveer Nayar,9868570552,13.064622,77.739072,Active,2143
+STORE004,Instamart Secunderabad Hub,Hyderabad,Secunderabad,161559,Dark Store - Mega Hub,01-09-2024,06:00 AM - 02:00 AM,Tripti Yadav,9882254945,17.239953,78.57976,Active,1963
+STORE005,Instamart Vizag (Visakhapatnam) Hub,Andhra Pradesh,Vizag (Visakhapatnam),618495,Dark Store - Standard,31-12-2025,06:00 AM - 02:00 AM,Ekaraj Bath,9843706494,17.752469,83.164226,Active,1001
+STORE006,Instamart New Town Hub,Kolkata,New Town,413164,Dark Store - Express,22-06-2025,06:00 AM - 02:00 AM,Nicholas Prabhakar,9879385631,22.468536,88.329742,Active,993
+STORE007,Instamart Madhapur Hub,Hyderabad,Madhapur,341928,Dark Store - Mega Hub,02-08-2024,06:00 AM - 02:00 AM,Turvi Raghavan,9867835763,17.375237,78.54142,Active,512
+STORE008,Instamart Hauz Khas Hub,Delhi NCR,Hauz Khas,835030,Dark Store - Express,20-11-2024,06:00 AM - 02:00 AM,Amrita Bhatti,9812449485,28.695056,77.307291,Active,2399
+STORE009,Instamart Saket Hub,Delhi NCR,Saket,953767,Dark Store - Standard,25-02-2024,06:00 AM - 02:00 AM,Liam Koshy,9852414824,28.572613,77.09893,Temporarily Closed,1937
+STORE010,Instamart Kondapur Hub,Hyderabad,Kondapur,969653,Dark Store - Standard,18-02-2024,06:00 AM - 02:00 AM,Gavin Batta,9815668608,17.319432,78.370389,Active,2373
+STORE011,Instamart Powai Hub,Mumbai,Powai,226916,Dark Store - Standard,02-03-2025,06:00 AM - 02:00 AM,Zayan Apte,9836921979,19.188196,72.920191,Active,818
+STORE012,Instamart Gachibowli Hub,Hyderabad,Gachibowli,845146,Dark Store - Standard,20-03-2024,06:00 AM - 02:00 AM,Aarush Lall,9817749026,17.339629,78.606497,Active,1201
+STORE013,Instamart Whitefield Hub,Bangalore,Whitefield,814893,Dark Store - Standard,12-03-2024,06:00 AM - 02:00 AM,Neel Zacharia,9889086840,12.858942,77.51692,Temporarily Closed,1414
+STORE014,Instamart Vijayawada Hub,Andhra Pradesh,Vijayawada,957015,Dark Store - Mega Hub,07-11-2024,06:00 AM - 02:00 AM,Dalbir Khosla,9874142411,17.723609,83.282163,Active,907
+STORE015,Instamart Viman Nagar Hub,Pune,Viman Nagar,171822,Dark Store - Standard,08-05-2026,06:00 AM - 02:00 AM,Noah Lanka,9876248261,18.428148,73.822292,Active,2368
+STORE016,Instamart Malad Hub,Mumbai,Malad,383465,Dark Store - Express,29-05-2025,06:00 AM - 02:00 AM,Jai Kota,9853865769,19.153972,72.893155,Active,1436
+STORE017,Instamart Connaught Place Hub,Delhi NCR,Connaught Place,150983,Dark Store - Standard,18-01-2026,06:00 AM - 02:00 AM,Abhimanyu Bobal,9879479534,28.650426,77.212411,Temporarily Closed,2278
+STORE018,Instamart Vizag (Visakhapatnam) Hub,Andhra Pradesh,Vizag (Visakhapatnam),310518,Dark Store - Standard,22-07-2024,06:00 AM - 02:00 AM,Vedika Kala,9823032579,17.734139,83.11888,Active,2059
+STORE019,Instamart Noida Sector 18 Hub,Delhi NCR,Noida Sector 18,997376,Dark Store - Mega Hub,09-05-2024,06:00 AM - 02:00 AM,Gunbir Sankar,9861172517,28.560725,77.080671,Active,2473
+STORE020,Instamart Saket Hub,Delhi NCR,Saket,667010,Dark Store - Mega Hub,04-04-2025,06:00 AM - 02:00 AM,Ikbal Kothari,9877686056,28.528887,77.357325,Active,2335
+STORE021,Instamart Noida Sector 18 Hub,Delhi NCR,Noida Sector 18,387262,Dark Store - Standard,23-09-2024,06:00 AM - 02:00 AM,Zaid Borra,9870998915,28.616929,77.271102,Active,1452
+STORE022,Instamart Salt Lake Hub,Kolkata,Salt Lake,810801,Dark Store - Standard,20-07-2024,06:00 AM - 02:00 AM,Niharika Sunder,9884566113,22.70192,88.467248,Active,1295
+STORE023,Instamart Vijayawada Hub,Andhra Pradesh,Vijayawada,360260,Dark Store - Express,16-03-2025,06:00 AM - 02:00 AM,Suhani Mangal,9840656633,17.596234,83.193779,Active,1679
+STORE024,Instamart Mylapore Hub,Chennai,Mylapore,872343,Dark Store - Standard,17-10-2023,06:00 AM - 02:00 AM,Dipta Bhandari,9826314891,13.048187,80.275228,Active,2177
+STORE025,Instamart Bandra Kurla Complex Hub,Mumbai,Bandra Kurla Complex,978820,Dark Store - Express,14-09-2025,06:00 AM - 02:00 AM,Quincy Biswas,9839766697,19.165157,72.850329,Active,2440
+STORE026,Instamart Powai Hub,Mumbai,Powai,361939,Dark Store - Standard,27-01-2026,06:00 AM - 02:00 AM,Finn Saini,9816230145,19.173211,72.98458,Active,503
+STORE027,Instamart Ballygunge Hub,Kolkata,Ballygunge,435346,Dark Store - Standard,07-02-2024,06:00 AM - 02:00 AM,Tanvi Mutti,9831280559,22.707109,88.371344,Active,1798
+STORE028,Instamart Gurgaon Sector 56 Hub,Delhi NCR,Gurgaon Sector 56,79911,Dark Store - Mega Hub,31-10-2025,06:00 AM - 02:00 AM,Yashawini Lanka,9892592485,28.501521,77.183808,Active,1518
+STORE029,Instamart Gachibowli Hub,Hyderabad,Gachibowli,513542,Dark Store - Standard,29-05-2025,06:00 AM - 02:00 AM,Abhiram Mistry,9810588268,17.364708,78.378201,Active,1162
+STORE030,Instamart Guntur Hub,Andhra Pradesh,Guntur,241182,Dark Store - Standard,14-09-2024,06:00 AM - 02:00 AM,Shivansh Oza,9847670783,17.562109,83.318518,Active,754
+STORE031,Instamart HSR Layout Hub,Bangalore,HSR Layout,487401,Dark Store - Express,30-03-2026,06:00 AM - 02:00 AM,Aradhana Basu,9852885132,12.988261,77.641689,Active,1570
+STORE032,Instamart Rajahmundry Hub,Andhra Pradesh,Rajahmundry,524278,Dark Store - Standard,13-05-2025,06:00 AM - 02:00 AM,Isaac Borra,9896190134,17.608531,83.251637,Active,1216
+STORE033,Instamart Whitefield Hub,Bangalore,Whitefield,805982,Dark Store - Standard,16-05-2025,06:00 AM - 02:00 AM,Benjamin Morar,9862204341,12.828001,77.497773,Active,1611
+STORE034,Instamart Rohini Hub,Delhi NCR,Rohini,53315,Dark Store - Standard,04-12-2025,06:00 AM - 02:00 AM,Mohammed Khalsa,9836822931,28.665789,77.253151,Active,676
+STORE035,Instamart Shivajinagar Hub,Pune,Shivajinagar,260256,Dark Store - Standard,24-05-2026,06:00 AM - 02:00 AM,Amara Dutta,9820285526,18.525462,73.78691,Active,2219
+STORE036,Instamart Nungambakkam Hub,Chennai,Nungambakkam,607337,Dark Store - Standard,12-01-2025,06:00 AM - 02:00 AM,Vedant Kapoor,9831809473,12.986582,80.144943,Active,1004
+STORE037,Instamart Hauz Khas Hub,Delhi NCR,Hauz Khas,365414,Dark Store - Mega Hub,14-01-2025,06:00 AM - 02:00 AM,Garima Bala,9883596666,28.598719,77.220307,Closed,880
+STORE038,Instamart Tirupati Hub,Andhra Pradesh,Tirupati,429401,Dark Store - Express,30-01-2026,06:00 AM - 02:00 AM,Hemani Murthy,9831730875,17.750129,83.271311,Active,1911
+STORE039,Instamart Whitefield Hub,Bangalore,Whitefield,981693,Dark Store - Standard,17-08-2024,06:00 AM - 02:00 AM,Rajata Agarwal,9812929245,12.923913,77.55517,Active,2382
+STORE040,Instamart Ballygunge Hub,Kolkata,Ballygunge,561595,Dark Store - Standard,14-05-2026,06:00 AM - 02:00 AM,Charita Tripathi,9868565610,22.593807,88.507929,Active,1427
+STORE041,Instamart Borivali Hub,Mumbai,Borivali,656482,Dark Store - Standard,12-05-2024,06:00 AM - 02:00 AM,Ladli Ghosh,9821640377,18.978692,72.791915,Active,2471
+STORE042,Instamart Powai Hub,Mumbai,Powai,680443,Dark Store - Express,16-05-2025,06:00 AM - 02:00 AM,Udyati Sathe,9871217166,18.999697,72.916164,Active,1405
+STORE043,Instamart Yelahanka Hub,Bangalore,Yelahanka,387214,Dark Store - Express,26-09-2025,06:00 AM - 02:00 AM,Girik Keer,9837670223,12.976487,77.45161,Active,1689
+STORE044,Instamart Indiranagar Hub,Bangalore,Indiranagar,332003,Dark Store - Standard,26-07-2025,06:00 AM - 02:00 AM,Tamanna Sachdeva,9853890155,13.10513,77.551006,Active,2351
+STORE045,Instamart Vizag (Visakhapatnam) Hub,Andhra Pradesh,Vizag (Visakhapatnam),676320,Dark Store - Standard,31-12-2023,06:00 AM - 02:00 AM,Theodore Goda,9865165062,17.735127,83.145047,Active,1373
+STORE046,Instamart Bandra Kurla Complex Hub,Mumbai,Bandra Kurla Complex,83172,Dark Store - Standard,09-07-2025,06:00 AM - 02:00 AM,Saanvi Thaman,9816600837,19.141251,72.949109,Active,2039
+STORE047,Instamart Rohini Hub,Delhi NCR,Rohini,872774,Dark Store - Mega Hub,06-08-2024,06:00 AM - 02:00 AM,Vedhika Khare,9830550571,28.701737,77.169484,Active,575
+STORE048,Instamart Gariahat Hub,Kolkata,Gariahat,714345,Dark Store - Express,26-11-2024,06:00 AM - 02:00 AM,Lakshit Dora,9824129074,22.559805,88.383299,Active,2020
+STORE049,Instamart HSR Layout Hub,Bangalore,HSR Layout,623166,Dark Store - Express,14-12-2024,06:00 AM - 02:00 AM,Ojasvi Bhatia,9877820434,12.895357,77.523615,Active,2471
+STORE050,Instamart Powai Hub,Mumbai,Powai,669096,Dark Store - Standard,28-07-2025,06:00 AM - 02:00 AM,Indira Misra,9888948205,19.179713,72.729252,Active,1644
